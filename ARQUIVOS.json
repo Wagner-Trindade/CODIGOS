@@ -1,0 +1,38 @@
+[
+  {
+    "arquivo": ".github/workflows/atualizar-codigos.yml",
+    "bytes": 1763
+  },
+  {
+    "arquivo": ".gitignore",
+    "bytes": 66
+  },
+  {
+    "arquivo": "ARQUIVOS.json",
+    "bytes": 569
+  },
+  {
+    "arquivo": "INSTALACAO.md",
+    "bytes": 4537
+  },
+  {
+    "arquivo": "README.md",
+    "bytes": 3558
+  },
+  {
+    "arquivo": "config/normas.yml",
+    "bytes": 2564
+  },
+  {
+    "arquivo": "normas/.gitkeep",
+    "bytes": 0
+  },
+  {
+    "arquivo": "requirements.txt",
+    "bytes": 77
+  },
+  {
+    "arquivo": "scripts/atualizar_normas.py",
+    "bytes": 20642
+  }
+]

@@ -1,0 +1,98 @@
+projeto:
+  timezone: "America/Sao_Paulo"
+
+fontes:
+  # API oficial de Dados Abertos do Senado, usada para validar a URN
+  # e obter metadados estruturados da norma.
+  senado_urn: "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json"
+
+  # Portal oficial de normas do Congresso. A aplicação localiza a versão
+  # vigente e carrega o texto por sua API pública interna.
+  normas_portal: "https://normas.leg.br/"
+
+seguranca:
+  http_timeout_segundos: 30
+  tentativas_http: 4
+  espera_entre_tentativas_segundos: 2
+  browser_timeout_ms: 60000
+
+  # Se o novo texto ficar mais de 35% menor que o texto já versionado,
+  # o processo falha e preserva a versão anterior.
+  reducao_maxima_percentual: 35
+
+normas:
+  - id: "codigo-civil"
+    titulo: "Código Civil"
+    urn: "urn:lex:br:federal:lei:2002-01-10;10406"
+    referencia:
+      tipo: "Lei"
+      numero: "10.406"
+      ano: 2002
+    validacao:
+      fragmentos_obrigatorios:
+        - "10.406"
+        - "Código Civil"
+      minimo_caracteres: 150000
+      minimo_artigos: 1200
+
+  - id: "codigo-processo-civil"
+    titulo: "Código de Processo Civil"
+    urn: "urn:lex:br:federal:lei:2015-03-16;13105"
+    referencia:
+      tipo: "Lei"
+      numero: "13.105"
+      ano: 2015
+    validacao:
+      fragmentos_obrigatorios:
+        - "13.105"
+        - "Código de Processo Civil"
+      minimo_caracteres: 100000
+      minimo_artigos: 700
+
+  - id: "codigo-penal"
+    titulo: "Código Penal"
+    urn: "urn:lex:br:federal:decreto.lei:1940-12-07;2848"
+    referencia:
+      tipo: "Decreto-Lei"
+      numero: "2.848"
+      ano: 1940
+    validacao:
+      fragmentos_obrigatorios:
+        - "2.848"
+        - "Código Penal"
+      minimo_caracteres: 50000
+      minimo_artigos: 180
+
+  - id: "codigo-processo-penal"
+    titulo: "Código de Processo Penal"
+    urn: "urn:lex:br:federal:decreto.lei:1941-10-03;3689"
+    referencia:
+      tipo: "Decreto-Lei"
+      numero: "3.689"
+      ano: 1941
+    validacao:
+      fragmentos_obrigatorios:
+        - "3.689"
+        - "Código de Processo Penal"
+      minimo_caracteres: 100000
+      minimo_artigos: 450
+
+# PARA ADICIONAR OUTRA NORMA:
+#
+# Copie um dos blocos acima e informe:
+#
+#  - id: nome-curto-sem-espacos
+#    titulo: "Nome da norma"
+#    urn: "urn:lex:..."
+#    referencia:
+#      tipo: "Lei"
+#      numero: "00.000"
+#      ano: 2000
+#    validacao:
+#      fragmentos_obrigatorios:
+#        - "00.000"
+#        - "Trecho inequívoco do título"
+#      minimo_caracteres: 5000
+#      minimo_artigos: 1
+#
+# Não é necessário alterar o script nem o workflow.
