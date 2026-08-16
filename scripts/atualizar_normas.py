@@ -6,7 +6,8 @@ Fluxo:
 1. lê config/normas.yml;
 2. valida a URN na API oficial do Senado;
 3. abre o portal oficial normas.leg.br com um navegador headless;
-4. captura a resposta pública de texto utilizada pela própria aplicação;
+4. captura a resposta pública de texto utilizada pela aplicação ou,
+   quando ela não existir, extrai o texto jurídico do DOM renderizado;
 5. normaliza e valida o conteúdo;
 6. compara SHA-256 com a versão local;
 7. grava somente normas efetivamente alteradas;
@@ -53,6 +54,7 @@ class TextoColetado:
     texto_normalizado: str
     url_texto: str
     content_type: str
+    metodo_coleta: str
     sha256: str
     artigos_detectados: int
 
@@ -363,21 +365,141 @@ def coletar_texto_normas(
             if candidatos and (time.monotonic() - estavel_desde) >= 1.5:
                 break
 
-        if not candidatos:
-            titulo = page.title()
-            body_preview = ""
-            try:
-                body_preview = page.locator("body").inner_text(timeout=3000)[:500]
-            except Exception:
-                pass
-            raise AtualizacaoError(
-                f"{norma['titulo']}: o portal não carregou nenhuma resposta "
-                "'/api/public/binario/.../texto'. "
-                f"Título da página: {titulo!r}. Prévia: {body_preview!r}"
+        if candidatos:
+            # Quando a aplicação usa a rota pública de texto, a versão legislativa
+            # integral tende a ser a maior resposta textual observada.
+            _, source_url, bruto, content_type = max(
+                candidatos, key=lambda item: item[0]
+            )
+            metodo_coleta = "api-public-binario"
+        else:
+            # Algumas normas são entregues pelo portal sem disparar a rota
+            # /api/public/binario/.../texto. Nesses casos, o texto integral já está
+            # no DOM renderizado. Procuramos o MENOR contêiner visível que:
+            #   - tenha tamanho compatível com a norma;
+            #   - contenha os fragmentos obrigatórios;
+            #   - contenha quantidade suficiente de artigos.
+            #
+            # Isso reduz o risco de incluir menus/cabeçalhos do site no hash.
+            validacao = norma["validacao"]
+            minimo_chars_dom = max(
+                3000, int(validacao.get("minimo_caracteres", 5000)) // 2
+            )
+            minimo_artigos_dom = max(
+                1, int(validacao.get("minimo_artigos", 1))
+            )
+            fragmentos_dom = [
+                str(x) for x in validacao.get("fragmentos_obrigatorios", [])
+            ]
+
+            resultado_dom = page.evaluate(
+                """
+                ({minChars, minArts, fragments}) => {
+                    const normaliza = (s) =>
+                        (s || "")
+                          .normalize("NFD")
+                          .replace(/[\\u0300-\\u036f]/g, "")
+                          .toLocaleLowerCase("pt-BR");
+
+                    const contaArtigos = (s) => {
+                        const m = (s || "").match(
+                            /(^|\\n)\\s*Art(?:igo)?\\.?\\s*º?\\s*\\d+[A-Za-zº°\\-]*/gim
+                        );
+                        return m ? m.length : 0;
+                    };
+
+                    let melhor = null;
+                    const elementos = document.querySelectorAll(
+                        "main, article, section, div"
+                    );
+
+                    for (const el of elementos) {
+                        let texto = "";
+                        try {
+                            texto = el.innerText || "";
+                        } catch (_) {
+                            continue;
+                        }
+
+                        if (texto.length < minChars) continue;
+
+                        const comp = normaliza(texto);
+                        let ok = true;
+                        for (const frag of fragments) {
+                            if (!comp.includes(normaliza(frag))) {
+                                ok = false;
+                                break;
+                            }
+                        }
+                        if (!ok) continue;
+
+                        const arts = contaArtigos(texto);
+                        if (arts < minArts) continue;
+
+                        const candidato = {
+                            texto,
+                            chars: texto.length,
+                            artigos: arts,
+                            tag: el.tagName || "",
+                            id: el.id || "",
+                            classe: typeof el.className === "string"
+                                ? el.className
+                                : ""
+                        };
+
+                        if (!melhor || candidato.chars < melhor.chars) {
+                            melhor = candidato;
+                        }
+                    }
+
+                    return melhor;
+                }
+                """,
+                {
+                    "minChars": minimo_chars_dom,
+                    "minArts": minimo_artigos_dom,
+                    "fragments": fragmentos_dom,
+                },
             )
 
-        # A versão legislativa integral tende a ser a maior resposta textual.
-        _, source_url, bruto, content_type = max(candidatos, key=lambda item: item[0])
+            if resultado_dom and resultado_dom.get("texto"):
+                bruto = resultado_dom["texto"]
+                source_url = url_pagina
+                content_type = "text/plain; source=rendered-dom"
+                metodo_coleta = "rendered-dom-container"
+                print(
+                    "  Texto obtido do DOM renderizado "
+                    f"({resultado_dom.get('tag', '')}, "
+                    f"{resultado_dom.get('chars', 0):,} caracteres, "
+                    f"{resultado_dom.get('artigos', 0)} artigos)."
+                )
+            else:
+                # Último fallback: BODY inteiro. Ele ainda passa por TODAS as
+                # validações jurídicas e pela proteção contra redução anormal.
+                try:
+                    bruto = page.locator("body").inner_text(timeout=5000)
+                except Exception as exc:
+                    raise AtualizacaoError(
+                        f"{norma['titulo']}: não foi possível obter o texto "
+                        "nem da API pública nem do DOM renderizado."
+                    ) from exc
+
+                source_url = url_pagina
+                content_type = "text/plain; source=rendered-body"
+                metodo_coleta = "rendered-body"
+
+                if not bruto or len(bruto) < minimo_chars_dom:
+                    titulo = page.title()
+                    preview = (bruto or "")[:500]
+                    raise AtualizacaoError(
+                        f"{norma['titulo']}: conteúdo renderizado insuficiente. "
+                        f"Título da página: {titulo!r}. Prévia: {preview!r}"
+                    )
+
+                print(
+                    "  Aviso: texto obtido do BODY renderizado; "
+                    "as validações de integridade permanecem ativas."
+                )
 
         normalizado = normalizar_para_comparacao(bruto)
         artigos = validar_texto(
@@ -394,6 +516,7 @@ def coletar_texto_normas(
             texto_normalizado=normalizado,
             url_texto=source_url,
             content_type=content_type,
+            metodo_coleta=metodo_coleta,
             sha256=digest,
             artigos_detectados=artigos,
         )
@@ -448,6 +571,8 @@ def metadata_estavel(
                 + urlencode({"urn": norma["urn"]})
             ),
             "texto_publico_observado": texto.url_texto,
+            "metodo_coleta": texto.metodo_coleta,
+            "content_type_observado": texto.content_type,
             "api_metadados_senado": str(cfg["fontes"]["senado_urn"]),
         },
         "nota": (
