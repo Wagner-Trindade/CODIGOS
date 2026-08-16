@@ -1,0 +1,22 @@
+{
+  "alteracao_detectada_em": "2026-08-16T16:44:56-03:00",
+  "artigos_detectados": 1073,
+  "caracteres_texto_normalizado": 581529,
+  "fontes": {
+    "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+    "content_type_observado": "text/plain; source=rendered-dom",
+    "metodo_coleta": "rendered-dom-container",
+    "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-03-16%3B13105",
+    "texto_publico_observado": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-03-16%3B13105"
+  },
+  "id": "codigo-processo-civil",
+  "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+  "referencia": {
+    "ano": 2015,
+    "numero": "13.105",
+    "tipo": "Lei"
+  },
+  "sha256_texto_normalizado": "94cce66cdca470fc77468b7bd8aa1b0069359b8d125e109e8751e6416578c208",
+  "titulo": "Código de Processo Civil",
+  "urn": "urn:lex:br:federal:lei:2015-03-16;13105"
+}

@@ -1,0 +1,22 @@
+{
+  "alteracao_detectada_em": "2026-08-16T16:44:56-03:00",
+  "artigos_detectados": 2094,
+  "caracteres_texto_normalizado": 644965,
+  "fontes": {
+    "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+    "content_type_observado": "text/plain; source=rendered-dom",
+    "metodo_coleta": "rendered-dom-container",
+    "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2002-01-10%3B10406",
+    "texto_publico_observado": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2002-01-10%3B10406"
+  },
+  "id": "codigo-civil",
+  "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+  "referencia": {
+    "ano": 2002,
+    "numero": "10.406",
+    "tipo": "Lei"
+  },
+  "sha256_texto_normalizado": "83eef0734d93a919eda7c68b728a35cfca58323042398d07e2b00ba8c35f4afc",
+  "titulo": "Código Civil",
+  "urn": "urn:lex:br:federal:lei:2002-01-10;10406"
+}

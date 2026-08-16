@@ -1,0 +1,94 @@
+{
+  "gerado_em": "2026-08-16T16:44:56-03:00",
+  "normas": [
+    {
+      "alteracao_detectada_em": "2026-08-16T16:44:56-03:00",
+      "artigos_detectados": 2094,
+      "caracteres_texto_normalizado": 644965,
+      "fontes": {
+        "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+        "content_type_observado": "text/plain; source=rendered-dom",
+        "metodo_coleta": "rendered-dom-container",
+        "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2002-01-10%3B10406",
+        "texto_publico_observado": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2002-01-10%3B10406"
+      },
+      "id": "codigo-civil",
+      "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+      "referencia": {
+        "ano": 2002,
+        "numero": "10.406",
+        "tipo": "Lei"
+      },
+      "sha256_texto_normalizado": "83eef0734d93a919eda7c68b728a35cfca58323042398d07e2b00ba8c35f4afc",
+      "titulo": "Código Civil",
+      "urn": "urn:lex:br:federal:lei:2002-01-10;10406"
+    },
+    {
+      "alteracao_detectada_em": "2026-08-16T16:44:56-03:00",
+      "artigos_detectados": 1073,
+      "caracteres_texto_normalizado": 581529,
+      "fontes": {
+        "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+        "content_type_observado": "text/plain; source=rendered-dom",
+        "metodo_coleta": "rendered-dom-container",
+        "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-03-16%3B13105",
+        "texto_publico_observado": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A2015-03-16%3B13105"
+      },
+      "id": "codigo-processo-civil",
+      "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+      "referencia": {
+        "ano": 2015,
+        "numero": "13.105",
+        "tipo": "Lei"
+      },
+      "sha256_texto_normalizado": "94cce66cdca470fc77468b7bd8aa1b0069359b8d125e109e8751e6416578c208",
+      "titulo": "Código de Processo Civil",
+      "urn": "urn:lex:br:federal:lei:2015-03-16;13105"
+    },
+    {
+      "alteracao_detectada_em": "2026-08-16T16:44:56-03:00",
+      "artigos_detectados": 433,
+      "caracteres_texto_normalizado": 271074,
+      "fontes": {
+        "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+        "content_type_observado": "text/html",
+        "metodo_coleta": "api-public-binario",
+        "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Adecreto.lei%3A1940-12-07%3B2848",
+        "texto_publico_observado": "https://normas.leg.br/api/public/binario/1ee2a40d-16a6-43a3-8444-5960ea9fb0b9/texto"
+      },
+      "id": "codigo-penal",
+      "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+      "referencia": {
+        "ano": 1940,
+        "numero": "2.848",
+        "tipo": "Decreto-Lei"
+      },
+      "sha256_texto_normalizado": "41497f451d6bfc4267607d6bb42e2e2eab724e062a77bdc5274572a3edb50c08",
+      "titulo": "Código Penal",
+      "urn": "urn:lex:br:federal:decreto.lei:1940-12-07;2848"
+    },
+    {
+      "alteracao_detectada_em": "2026-08-16T16:44:56-03:00",
+      "artigos_detectados": 828,
+      "caracteres_texto_normalizado": 425276,
+      "fontes": {
+        "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+        "content_type_observado": "text/html",
+        "metodo_coleta": "api-public-binario",
+        "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Adecreto.lei%3A1941-10-03%3B3689",
+        "texto_publico_observado": "https://normas.leg.br/api/public/binario/f673d457-87d9-45cb-b467-a3d59aaaad4e/texto"
+      },
+      "id": "codigo-processo-penal",
+      "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+      "referencia": {
+        "ano": 1941,
+        "numero": "3.689",
+        "tipo": "Decreto-Lei"
+      },
+      "sha256_texto_normalizado": "3dd378e61d49987c031b2bba982a7244facda5084ce0e584fc0c98b84940dd8d",
+      "titulo": "Código de Processo Penal",
+      "urn": "urn:lex:br:federal:decreto.lei:1941-10-03;3689"
+    }
+  ],
+  "timezone": "America/Sao_Paulo"
+}
