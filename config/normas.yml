@@ -77,6 +77,104 @@ normas:
       minimo_caracteres: 100000
       minimo_artigos: 450
 
+  - id: "codigo-defesa-consumidor"
+    titulo: "Código de Defesa do Consumidor"
+    urn: "urn:lex:br:federal:lei:1990-09-11;8078"
+    referencia:
+      tipo: "Lei"
+      numero: "8.078"
+      ano: 1990
+    validacao:
+      fragmentos_obrigatorios:
+        - "8.078"
+        - "proteção do consumidor"
+      minimo_caracteres: 25000
+      minimo_artigos: 80
+
+  - id: "codigo-processo-civil-1973"
+    titulo: "Código de Processo Civil de 1973"
+    urn: "urn:lex:br:federal:lei:1973-01-11;5869"
+    referencia:
+      tipo: "Lei"
+      numero: "5.869"
+      ano: 1973
+    validacao:
+      fragmentos_obrigatorios:
+        - "5.869"
+        - "Código de Processo Civil"
+      minimo_caracteres: 100000
+      minimo_artigos: 700
+
+  - id: "clt"
+    titulo: "Consolidação das Leis do Trabalho"
+    urn: "urn:lex:br:federal:decreto.lei:1943-05-01;5452"
+    referencia:
+      tipo: "Decreto-Lei"
+      numero: "5.452"
+      ano: 1943
+    validacao:
+      fragmentos_obrigatorios:
+        - "5.452"
+        - "Consolidação das Leis do Trabalho"
+      minimo_caracteres: 100000
+      minimo_artigos: 500
+
+  - id: "codigo-tributario-nacional"
+    titulo: "Código Tributário Nacional"
+    urn: "urn:lex:br:federal:lei:1966-10-25;5172"
+    referencia:
+      tipo: "Lei"
+      numero: "5.172"
+      ano: 1966
+    validacao:
+      fragmentos_obrigatorios:
+        - "5.172"
+        - "Sistema Tributário Nacional"
+      minimo_caracteres: 35000
+      minimo_artigos: 150
+
+  - id: "lei-execucao-penal"
+    titulo: "Lei de Execução Penal"
+    urn: "urn:lex:br:federal:lei:1984-07-11;7210"
+    referencia:
+      tipo: "Lei"
+      numero: "7.210"
+      ano: 1984
+    validacao:
+      fragmentos_obrigatorios:
+        - "7.210"
+        - "Lei de Execução Penal"
+      minimo_caracteres: 30000
+      minimo_artigos: 140
+
+  - id: "lei-locacoes"
+    titulo: "Lei de Locações"
+    urn: "urn:lex:br:federal:lei:1991-10-18;8245"
+    referencia:
+      tipo: "Lei"
+      numero: "8.245"
+      ano: 1991
+    validacao:
+      fragmentos_obrigatorios:
+        - "8.245"
+        - "locações dos imóveis urbanos"
+      minimo_caracteres: 18000
+      minimo_artigos: 60
+
+  - id: "lei-incorporacoes-imobiliarias"
+    titulo: "Lei de Incorporações Imobiliárias"
+    urn: "urn:lex:br:federal:lei:1964-12-16;4591"
+    referencia:
+      tipo: "Lei"
+      numero: "4.591"
+      ano: 1964
+    validacao:
+      fragmentos_obrigatorios:
+        - "4.591"
+        - "incorporações imobiliárias"
+      minimo_caracteres: 18000
+      minimo_artigos: 40
+      
 # PARA ADICIONAR OUTRA NORMA:
 #
 # Copie um dos blocos acima e informe:
