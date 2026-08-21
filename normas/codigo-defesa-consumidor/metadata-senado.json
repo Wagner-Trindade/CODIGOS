@@ -1,0 +1,3965 @@
+{
+  "DetalheDocumento": {
+    "Metadados": {
+      "DataVersaoServico": "2017-02-01",
+      "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
+      "Versao": "20/08/2026 21:03:17",
+      "VersaoServico": "3"
+    },
+    "documentos": {
+      "documento": [
+        {
+          "catalogo": {
+            "frase": [
+              " CODIGO DE DEFESA DO CONSUMIDOR ."
+            ]
+          },
+          "classes": "",
+          "disps": {
+            "disp": [
+              {
+                "codItemDocumento": "12282368",
+                "nomeDispositivo": "Art. 4 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "579924",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 683 de 31/10/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553853",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 735 de 30/11/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553940",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 788 de 28/12/1994"
+                    },
+                    {
+                      "codNormaPosterior": "601895",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 854 de 26/01/1995"
+                    },
+                    {
+                      "codNormaPosterior": "601954",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 913 de 24/02/1995"
+                    },
+                    {
+                      "codNormaPosterior": "550884",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.008 de 21/03/1995"
+                    },
+                    {
+                      "codNormaPosterior": "32439858",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Decreto nº 10.417 de 07/07/2020"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12272575",
+                "nomeDispositivo": "Art. 4, caput, Inciso 3 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "593315",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 8.573 de 19/11/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12289989",
+                "nomeDispositivo": "Art. 4, caput, Inciso 5 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "593315",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 8.573 de 19/11/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251892",
+                "nomeDispositivo": "Art. 4, caput, Inciso 9 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251897",
+                "nomeDispositivo": "Art. 4, caput, Inciso 10 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251902",
+                "nomeDispositivo": "Art. 5, caput, Inciso 6 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251907",
+                "nomeDispositivo": "Art. 5, caput, Inciso 7 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12273357",
+                "nomeDispositivo": "Art. 6, caput, Inciso 3 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "588117",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.741 de 08/12/2012"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251912",
+                "nomeDispositivo": "Art. 6, caput, Inciso 11 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36127194",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.150 de 26/07/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251917",
+                "nomeDispositivo": "Art. 6, caput, Inciso 12 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36127194",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.150 de 26/07/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251922",
+                "nomeDispositivo": "Art. 6, caput, Inciso 13 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12291448",
+                "nomeDispositivo": "Art. 6, Parágrafo Único [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "584958",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.146 de 06/07/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "26247177",
+                "nomeDispositivo": "Art. 8, Parágrafo Único [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "26247104",
+                      "comentario": "Renumeração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.486 de 03/10/2017"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "26247173",
+                "nomeDispositivo": "Art. 8, § 2 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "26247104",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.486 de 03/10/2017"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "17671602",
+                "nomeDispositivo": "Art. 11-A, caput [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "17668401",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.425 de 30/03/2017"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "17671598",
+                "nomeDispositivo": "Art. 11-A, Parágrafo Único [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "17668401",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.425 de 30/03/2017"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12295489",
+                "nomeDispositivo": "Art. 12 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "558951",
+                      "comentario": "Ressalva (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.148-1 de 22/05/2001"
+                    },
+                    {
+                      "codNormaPosterior": "41512391",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.224 de 30/09/2025"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "41511378",
+                "nomeDispositivo": "Art. 13 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "41512391",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.224 de 30/09/2025"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12282370",
+                "nomeDispositivo": "Art. 14 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "558951",
+                      "comentario": "Ressalva (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.148-1 de 22/05/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12273726",
+                "nomeDispositivo": "Art. 22 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "558951",
+                      "comentario": "Ressalva (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.148-1 de 22/05/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12291234",
+                "nomeDispositivo": "Art. 31, Parágrafo Único [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580212",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.989 de 27/07/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12282484",
+                "nomeDispositivo": "Art. 33, Parágrafo Único [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "583425",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.800 de 29/10/2008"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "40294586",
+                "nomeDispositivo": "Art. 39 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "40180251",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Medida Provisória nº 1.288 de 16/01/2025"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12264973",
+                "nomeDispositivo": "Art. 39, caput, Item 11 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "579952",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 697 de 04/11/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553885",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 751 de 06/12/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553969",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 817 de 05/01/1995"
+                    },
+                    {
+                      "codNormaPosterior": "601928",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 887 de 30/01/1995"
+                    },
+                    {
+                      "codNormaPosterior": "601973",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 932 de 01/03/1995"
+                    },
+                    {
+                      "codNormaPosterior": "553990",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 963 de 30/03/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554015",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 988 de 28/04/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554039",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.012 de 26/05/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554062",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.035 de 27/06/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554087",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.060 de 27/07/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554114",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.087 de 25/08/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554146",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.119 de 22/09/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554183",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.156 de 24/10/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554219",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.192 de 23/11/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554255",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.228 de 14/12/1995"
+                    },
+                    {
+                      "codNormaPosterior": "554292",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.265 de 12/01/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554331",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.304 de 09/02/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554371",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.344 de 12/03/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554413",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.386 de 11/04/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554456",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.429 de 09/05/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554684",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477 de 05/06/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554685",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-25 de 04/07/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554686",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-26 de 01/08/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554687",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-27 de 29/08/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554688",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-28 de 26/09/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554689",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-29 de 24/10/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554690",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-30 de 22/11/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554691",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-31 de 19/12/1996"
+                    },
+                    {
+                      "codNormaPosterior": "554692",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-32 de 17/01/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554693",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-33 de 14/02/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554694",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-34 de 14/03/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554695",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-35 de 15/04/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554696",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-36 de 15/05/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554697",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-37 de 12/06/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554698",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-38 de 11/07/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554699",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-39 de 08/08/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554700",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-40 de 09/09/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554701",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-41 de 09/10/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554702",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-42 de 06/11/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554703",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-43 de 04/12/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554704",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-44 de 31/12/1997"
+                    },
+                    {
+                      "codNormaPosterior": "554705",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-45 de 29/01/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554706",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-46 de 27/02/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554707",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-47 de 27/03/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554708",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-48 de 28/04/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554709",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-49 de 28/05/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554710",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-50 de 26/06/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554711",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-51 de 27/07/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554712",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-52 de 25/08/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554713",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-53 de 24/09/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554714",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-54 de 22/10/1998"
+                    },
+                    {
+                      "codNormaPosterior": "554715",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.477-55 de 19/11/1998"
+                    },
+                    {
+                      "codNormaPosterior": "556421",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.733-56 de 14/12/1998"
+                    },
+                    {
+                      "codNormaPosterior": "556422",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.733-57 de 13/01/1999"
+                    },
+                    {
+                      "codNormaPosterior": "556423",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.733-58 de 11/02/1999"
+                    },
+                    {
+                      "codNormaPosterior": "556424",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.733-59 de 11/03/1999"
+                    },
+                    {
+                      "codNormaPosterior": "556425",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.733-60 de 08/04/1999"
+                    },
+                    {
+                      "codNormaPosterior": "556426",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.733-61 de 06/05/1999"
+                    },
+                    {
+                      "codNormaPosterior": "556427",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.733-62 de 02/06/1999"
+                    },
+                    {
+                      "codNormaPosterior": "557270",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.890-63 de 29/06/1999"
+                    },
+                    {
+                      "codNormaPosterior": "557271",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.890-64 de 28/07/1999"
+                    },
+                    {
+                      "codNormaPosterior": "580262",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.039 de 01/10/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12295488",
+                "nomeDispositivo": "Art. 39, caput, Item 12 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "553853",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 735 de 30/11/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553940",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 788 de 28/12/1994"
+                    },
+                    {
+                      "codNormaPosterior": "601895",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 854 de 26/01/1995"
+                    },
+                    {
+                      "codNormaPosterior": "601954",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 913 de 24/02/1995"
+                    },
+                    {
+                      "codNormaPosterior": "550884",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.008 de 21/03/1995"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12286754",
+                "nomeDispositivo": "Art. 39, caput, Inciso 9 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "550760",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 8.884 de 11/06/1994"
+                    },
+                    {
+                      "codNormaPosterior": "579782",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 612 de 08/09/1994"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12278094",
+                "nomeDispositivo": "Art. 39, caput, Inciso 10 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "550760",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 8.884 de 11/06/1994"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12273724",
+                "nomeDispositivo": "Art. 39, caput, Inciso 11 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "553733",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 550 de 08/07/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553783",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 575 de 09/08/1994"
+                    },
+                    {
+                      "codNormaPosterior": "579860",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 651 de 07/10/1994"
+                    },
+                    {
+                      "codNormaPosterior": "579924",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 683 de 31/10/1994"
+                    },
+                    {
+                      "codNormaPosterior": "557272",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.890-65 de 26/08/1999"
+                    },
+                    {
+                      "codNormaPosterior": "557273",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.890-66 de 24/09/1999"
+                    },
+                    {
+                      "codNormaPosterior": "557274",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.890-67 de 22/10/1999"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12278096",
+                "nomeDispositivo": "Art. 39, caput, Inciso 13 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "551746",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.870 de 23/11/1999"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "17671594",
+                "nomeDispositivo": "Art. 39, Inciso 14 [Lei nº 8.078 de 11/09/1990]",
+                "refs": ""
+              },
+              {
+                "codItemDocumento": "40582616",
+                "nomeDispositivo": "Art. 39, caput, Inciso 14 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "17668401",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.425 de 30/03/2017"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35960666",
+                "nomeDispositivo": "Art. 39, caput, Inciso 15 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35958328",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.368 de 14/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12264975",
+                "nomeDispositivo": "Art. 42 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "558951",
+                      "comentario": "Ressalva (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.148-1 de 22/05/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12274040",
+                "nomeDispositivo": "Art. 43, § 6 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "584958",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.146 de 06/07/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "32255426",
+                "nomeDispositivo": "Art. 49 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "32250736",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.010 de 10/06/2020"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251927",
+                "nomeDispositivo": "Art. 51, caput, Inciso 17 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251932",
+                "nomeDispositivo": "Art. 51, caput, Inciso 18 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251937",
+                "nomeDispositivo": "Art. 51, caput, Inciso 19 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12291131",
+                "nomeDispositivo": "Art. 52, § 1 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "551174",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.298 de 01/08/1996"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12282483",
+                "nomeDispositivo": "Art. 54, § 3 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "582207",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.785 de 22/09/2008"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251942",
+                "nomeDispositivo": "Art. 54-A [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "36127232",
+                "nomeDispositivo": "Art. 54-A, § 1 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "36127194",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.150 de 26/07/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251945",
+                "nomeDispositivo": "Art. 54-B [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251948",
+                "nomeDispositivo": "Art. 54-C [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251951",
+                "nomeDispositivo": "Art. 54-C, caput, Inciso 1 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251956",
+                "nomeDispositivo": "Art. 54-C, Parágrafo Único [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251960",
+                "nomeDispositivo": "Art. 54-D [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251963",
+                "nomeDispositivo": "Art. 54-E [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251966",
+                "nomeDispositivo": "Art. 54-F [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251969",
+                "nomeDispositivo": "Art. 54-G [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "32097886",
+                "nomeDispositivo": "Art. 56 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "32095468",
+                      "comentario": "Ressalva (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 948 de 08/04/2020"
+                    },
+                    {
+                      "codNormaPosterior": "32584315",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.046 de 24/08/2020"
+                    },
+                    {
+                      "codNormaPosterior": "38698227",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.917 de 05/07/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12264972",
+                "nomeDispositivo": "Art. 57 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "550532",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 8.656 de 21/05/1993"
+                    },
+                    {
+                      "codNormaPosterior": "553563",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 341 de 06/08/1993"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12295486",
+                "nomeDispositivo": "Art. 57, Parágrafo Único [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "553547",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 333 de 06/07/1993"
+                    },
+                    {
+                      "codNormaPosterior": "550579",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 8.703 de 06/09/1993"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "17671590",
+                "nomeDispositivo": "Art. 65, Parágrafo Único [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "17668401",
+                      "comentario": "Renumeração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.425 de 30/03/2017"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "17671586",
+                "nomeDispositivo": "Art. 65, § 2 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "17668401",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.425 de 30/03/2017"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12295487",
+                "nomeDispositivo": "Art. 82 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "579924",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 683 de 31/10/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553853",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 735 de 30/11/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553940",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 788 de 28/12/1994"
+                    },
+                    {
+                      "codNormaPosterior": "601895",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 854 de 26/01/1995"
+                    },
+                    {
+                      "codNormaPosterior": "601954",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 913 de 24/02/1995"
+                    },
+                    {
+                      "codNormaPosterior": "550884",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.008 de 21/03/1995"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12286755",
+                "nomeDispositivo": "Art. 91 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "553853",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 735 de 30/11/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553940",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 788 de 28/12/1994"
+                    },
+                    {
+                      "codNormaPosterior": "601895",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 854 de 26/01/1995"
+                    },
+                    {
+                      "codNormaPosterior": "601954",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 913 de 24/02/1995"
+                    },
+                    {
+                      "codNormaPosterior": "550884",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.008 de 21/03/1995"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12282367",
+                "nomeDispositivo": "Art. 98 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "579924",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 683 de 31/10/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553853",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 735 de 30/11/1994"
+                    },
+                    {
+                      "codNormaPosterior": "553940",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 788 de 28/12/1994"
+                    },
+                    {
+                      "codNormaPosterior": "601954",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 913 de 24/02/1995"
+                    },
+                    {
+                      "codNormaPosterior": "550884",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.008 de 21/03/1995"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12273723",
+                "nomeDispositivo": "Art. 99 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "387481",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 407 de 27/12/1991"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12291129",
+                "nomeDispositivo": "Art. 100 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "387481",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 407 de 27/12/1991"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251972",
+                "nomeDispositivo": "Art. 104-A [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "36127236",
+                "nomeDispositivo": "Art. 104-A, caput [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "36127194",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.150 de 26/07/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251975",
+                "nomeDispositivo": "Art. 104-B [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251978",
+                "nomeDispositivo": "Art. 104-C, caput [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251982",
+                "nomeDispositivo": "Art. 104-C, § 1 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36127194",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.150 de 26/07/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "34251986",
+                "nomeDispositivo": "Art. 104-C, § 2 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "34251655",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.181 de 01/07/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "32440579",
+                "nomeDispositivo": "Art. 106 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "32439858",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Decreto nº 10.417 de 07/07/2020"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "edivs": {
+            "ediv": [
+              {
+                "codnormaAnterior": "542035",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "25/06/1850",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 556 de 25/06/1850"
+              },
+              {
+                "codnormaAnterior": "549223",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "24/07/1985",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 1, caput, Inciso 4 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 5, caput, Inciso 2 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 5, § 3 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 5, § 4 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 5, § 5 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 5, § 6 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 15 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 17 "
+                    },
+                    {
+                      "comentario": "Supressão",
+                      "dispositivo": "Art. 17, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 18 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 21 "
+                    }
+                  ]
+                },
+                "nomeNormaAnterior": "Lei nº 7.347 de 24/07/1985"
+              },
+              {
+                "codnormaAnterior": "579494",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "05/10/1988",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 5, caput, Inciso 32 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 170 "
+                    }
+                  ]
+                },
+                "nomeNormaAnterior": "Constituição da República Federativa do Brasil"
+              }
+            ]
+          },
+          "ementa": "Dispõe sobre a proteção do consumidor e dá outras providências.",
+          "id": "549954",
+          "identificacao": {
+            "apelido": "LEI-8078-1990-09-11 , Código de Proteção e Defesa do Consumidor (CPDC) , Código de Defesa do Consumidor (1990) (CDC)",
+            "dataassinatura": "11/09/1990",
+            "descricao": "Lei Numerada",
+            "norma": "LEI-8078-1990-09-11",
+            "normaNome": "Lei nº 8.078 de 11/09/1990",
+            "numero": "8078",
+            "tipo": "LEI-n",
+            "urlDocumento": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-11;8078"
+          },
+          "indexacao": {
+            "frase": [
+              " NORMAS ,  PROTEÇÃO ,  CONSUMIDOR .",
+              " APROVAÇÃO ,  CODIGO ,  CONSUMIDOR ."
+            ]
+          },
+          "observacao": "AUTOR: SENADOR JUTAHY MAGALHÃES (PMDB/BA) - PLS 97 DE 1989.",
+          "publicacoes": {
+            "publicacao": [
+              {
+                "coluna": "1",
+                "data": "12/09/1990",
+                "dispositivo": "Publicação Original   [Diário Oficial da União - Suplemento  de 12/09/1990] (p. 1, col. 1)",
+                "fonte": "Diário Oficial da União - Suplemento  de 12/09/1990",
+                "id": "14374955",
+                "pagina": "1",
+                "siglaFonte": "DOUS-1990-09-12",
+                "temTexto": "S",
+                "tipo": "PUB"
+              },
+              {
+                "coluna": "1",
+                "data": "10/01/2007",
+                "dispositivo": "Retificação  (Seq. 1) [Diário Oficial da União  de 10/01/2007] (p. 1, col. 1)",
+                "fonte": "Diário Oficial da União  de 10/01/2007",
+                "id": "16302928",
+                "pagina": "1",
+                "siglaFonte": "DOU-2007-01-10",
+                "temTexto": "S",
+                "tipo": "RET"
+              }
+            ]
+          },
+          "vides": {
+            "vide": [
+              {
+                "codnormaposterior": "387481",
+                "coluna": "1",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "27/12/1991",
+                "datapub": "30/12/1991",
+                "edicao": "13845065",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 99 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 100 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 407 de 27/12/1991",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/12/1991] (p. 30842, col. 1)",
+                "pagina": "30842",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550532",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "21/05/1993",
+                "datapub": "22/05/1993",
+                "edicao": "32504410",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 57 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 8.656 de 21/05/1993",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 22/05/1993 - nº 95-A] (p. 6950, col. 2)",
+                "pagina": "6950",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "553547",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "06/07/1993",
+                "datapub": "07/07/1993",
+                "edicao": "13834126",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 57, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 333 de 06/07/1993",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/1993] (p. 9384, col. 1)",
+                "pagina": "9384",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "389791",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "09/07/1993",
+                "datapub": "12/07/1993",
+                "edicao": "13842166",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 861 de 09/07/1993",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/07/1993] (p. 9551, col. 1)",
+                "pagina": "9551",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553563",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "06/08/1993",
+                "datapub": "09/08/1993",
+                "edicao": "13834163",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 57 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 341 de 06/08/1993",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 09/08/1993] (p. 11369, col. 1)",
+                "pagina": "11369",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550579",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "06/09/1993",
+                "datapub": "08/09/1993",
+                "edicao": "13843729",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 57, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 8.703 de 06/09/1993",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/09/1993] (p. 13333, col. 1)",
+                "pagina": "13333",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550760",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "11/06/1994",
+                "datapub": "13/06/1994",
+                "edicao": "13836319",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Inciso 9 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Inciso 10 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 8.884 de 11/06/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/06/1994] (p. 8437, col. 1)",
+                "pagina": "8437",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553733",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "08/07/1994",
+                "datapub": "11/07/1994",
+                "edicao": "13839411",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 550 de 08/07/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 11/07/1994] (p. 10417, col. 1)",
+                "pagina": "10417",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553783",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "09/08/1994",
+                "datapub": "10/08/1994",
+                "edicao": "13831827",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 575 de 09/08/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/08/1994] (p. 12037, col. 2)",
+                "pagina": "12037",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "579782",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "08/09/1994",
+                "datapub": "09/09/1994",
+                "edicao": "13838431",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 9 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 612 de 08/09/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 09/09/1994] (p. 13568, col. 1)",
+                "pagina": "13568",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "579860",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "07/10/1994",
+                "datapub": "08/10/1994",
+                "edicao": "13842949",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 651 de 07/10/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/10/1994] (p. 15236, col. 1)",
+                "pagina": "15236",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "579924",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "31/10/1994",
+                "datapub": "01/11/1994",
+                "edicao": "13840698",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 4 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 11 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 82 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 98 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 683 de 31/10/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 01/11/1994] (p. 16429, col. 2)",
+                "pagina": "16429",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "579952",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "04/11/1994",
+                "datapub": "07/11/1994",
+                "edicao": "13838455",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 697 de 04/11/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/11/1994] (p. 16648, col. 1)",
+                "pagina": "16648",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "392071",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "09/11/1994",
+                "datapub": "10/11/1994",
+                "edicao": "13842979",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 1.306 de 09/11/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/11/1994] (p. 16863, col. 1)",
+                "pagina": "16863",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553853",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "30/11/1994",
+                "datapub": "01/12/1994",
+                "edicao": "13840655",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 4 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 12 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 82 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 91 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 98 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 735 de 30/11/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 01/12/1994] (p. 18221, col. 2)",
+                "pagina": "18221",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553885",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "06/12/1994",
+                "datapub": "07/12/1994",
+                "edicao": "13829557",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 751 de 06/12/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/12/1994] (p. 18643, col. 1)",
+                "pagina": "18643",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553940",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "28/12/1994",
+                "datapub": "30/12/1994",
+                "edicao": "13840696",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 4 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 12 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 82 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 91 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 98 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 788 de 28/12/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/12/1994] (p. 21042, col. 2)",
+                "pagina": "21042",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553969",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "05/01/1995",
+                "datapub": "06/01/1995",
+                "edicao": "13840704",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 817 de 05/01/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 06/01/1995] (p. 342, col. 1)",
+                "pagina": "342",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550855",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "13/01/1995",
+                "datapub": "16/01/1995",
+                "edicao": "13840713",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 8.979 de 13/01/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 16/01/1995] (p. 729, col. 1)",
+                "pagina": "729",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "601896",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "26/01/1995",
+                "datapub": "27/01/1995",
+                "edicao": "13836275",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 855 de 26/01/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/01/1995] (p. 1171, col. 2)",
+                "pagina": "1171",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "601895",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "26/01/1995",
+                "datapub": "27/01/1995",
+                "edicao": "13836275",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 4 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 12 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 82 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 91 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 854 de 26/01/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/01/1995] (p. 1170, col. 2)",
+                "pagina": "1170",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "601928",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "30/01/1995",
+                "datapub": "31/01/1995",
+                "edicao": "13838418",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 887 de 30/01/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/01/1995] (p. 1306, col. 2)",
+                "pagina": "1306",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "601954",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "24/02/1995",
+                "datapub": "25/02/1995",
+                "edicao": "13840699",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 4 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 12 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 82 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 91 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 98 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 913 de 24/02/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/02/1995] (p. 2658, col. 2)",
+                "pagina": "2658",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "601973",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "01/03/1995",
+                "datapub": "02/03/1995",
+                "edicao": "13840700",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 932 de 01/03/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 02/03/1995] (p. 2828, col. 2)",
+                "pagina": "2828",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550884",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "21/03/1995",
+                "datapub": "22/03/1995",
+                "edicao": "13836321",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 4 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 12 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 82 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 91 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 98 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.008 de 21/03/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/03/1995] (p. 3885, col. 1)",
+                "pagina": "3885",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553990",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "30/03/1995",
+                "datapub": "31/03/1995",
+                "edicao": "13834121",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 963 de 30/03/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/03/1995] (p. 4590, col. 2)",
+                "pagina": "4590",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554015",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "28/04/1995",
+                "datapub": "29/04/1995",
+                "edicao": "32501421",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 988 de 28/04/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 29/04/1995 - nº 81-A] (p. 6047, col. 1)",
+                "pagina": "6047",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "554039",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "26/05/1995",
+                "datapub": "29/05/1995",
+                "edicao": "13834108",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.012 de 26/05/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/05/1995] (p. 7552, col. 1)",
+                "pagina": "7552",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554062",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "27/06/1995",
+                "datapub": "28/06/1995",
+                "edicao": "13834214",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.035 de 27/06/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/06/1995] (p. 9467, col. 1)",
+                "pagina": "9467",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554087",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "27/07/1995",
+                "datapub": "28/07/1995",
+                "edicao": "13831871",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.060 de 27/07/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/07/1995] (p. 11337, col. 2)",
+                "pagina": "11337",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554114",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "25/08/1995",
+                "datapub": "26/08/1995",
+                "edicao": "13840734",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.087 de 25/08/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 26/08/1995] (p. 13119, col. 1)",
+                "pagina": "13119",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554146",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "22/09/1995",
+                "datapub": "25/09/1995",
+                "edicao": "13836374",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.119 de 22/09/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/09/1995] (p. 14838, col. 1)",
+                "pagina": "14838",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554183",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "24/10/1995",
+                "datapub": "25/10/1995",
+                "edicao": "13836349",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.156 de 24/10/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/10/1995] (p. 16856, col. 2)",
+                "pagina": "16856",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554219",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "23/11/1995",
+                "datapub": "24/11/1995",
+                "edicao": "13840781",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.192 de 23/11/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 24/11/1995] (p. 19060, col. 2)",
+                "pagina": "19060",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554255",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "14/12/1995",
+                "datapub": "15/12/1995",
+                "edicao": "13838503",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.228 de 14/12/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 15/12/1995] (p. 21078, col. 2)",
+                "pagina": "21078",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554292",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "12/01/1996",
+                "datapub": "13/01/1996",
+                "edicao": "38190285",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.265 de 12/01/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 13/01/1996 - nº 9-A] (p. 541, col. 2)",
+                "pagina": "541",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "554331",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "09/02/1996",
+                "datapub": "12/02/1996",
+                "edicao": "13831869",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.304 de 09/02/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/02/1996] (p. 2313, col. 2)",
+                "pagina": "2313",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554371",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "12/03/1996",
+                "datapub": "13/03/1996",
+                "edicao": "13840728",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.344 de 12/03/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/03/1996] (p. 4157, col. 2)",
+                "pagina": "4157",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554413",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "11/04/1996",
+                "datapub": "12/04/1996",
+                "edicao": "13838496",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.386 de 11/04/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/04/1996] (p. 6063, col. 2)",
+                "pagina": "6063",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554456",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "09/05/1996",
+                "datapub": "10/05/1996",
+                "edicao": "13840651",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.429 de 09/05/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/05/1996] (p. 8001, col. 1)",
+                "pagina": "8001",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554684",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "05/06/1996",
+                "datapub": "07/06/1996",
+                "edicao": "13845128",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477 de 05/06/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/06/1996] (p. 10017, col. 2)",
+                "pagina": "10017",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554685",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "04/07/1996",
+                "datapub": "05/07/1996",
+                "edicao": "13840720",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-25 de 04/07/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 05/07/1996] (p. 12346, col. 1)",
+                "pagina": "12346",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "551174",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "01/08/1996",
+                "datapub": "02/08/1996",
+                "edicao": "13836362",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 52, § 1 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.298 de 01/08/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 02/08/1996] (p. 14457, col. 1)",
+                "pagina": "14457",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554686",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "01/08/1996",
+                "datapub": "02/08/1996",
+                "edicao": "13836362",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-26 de 01/08/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 02/08/1996] (p. 14465, col. 2)",
+                "pagina": "14465",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554687",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "29/08/1996",
+                "datapub": "30/08/1996",
+                "edicao": "13834202",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-27 de 29/08/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/08/1996] (p. 16756, col. 1)",
+                "pagina": "16756",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554688",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "26/09/1996",
+                "datapub": "27/09/1996",
+                "edicao": "13842906",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-28 de 26/09/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/09/1996] (p. 19236, col. 2)",
+                "pagina": "19236",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554689",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "24/10/1996",
+                "datapub": "25/10/1996",
+                "edicao": "13840722",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-29 de 24/10/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/10/1996] (p. 21893, col. 1)",
+                "pagina": "21893",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554690",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "22/11/1996",
+                "datapub": "23/11/1996",
+                "edicao": "13840726",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-30 de 22/11/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 23/11/1996] (p. 24720, col. 2)",
+                "pagina": "24720",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554691",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "19/12/1996",
+                "datapub": "20/12/1996",
+                "edicao": "13843065",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-31 de 19/12/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 20/12/1996] (p. 27755, col. 2)",
+                "pagina": "27755",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554692",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "17/01/1997",
+                "datapub": "18/01/1997",
+                "edicao": "13834201",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-32 de 17/01/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 18/01/1997] (p. 1050, col. 2)",
+                "pagina": "1050",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554693",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "14/02/1997",
+                "datapub": "15/02/1997",
+                "edicao": "13829630",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-33 de 14/02/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 15/02/1997] (p. 2782, col. 2)",
+                "pagina": "2782",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554694",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "14/03/1997",
+                "datapub": "17/03/1997",
+                "edicao": "13840791",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-34 de 14/03/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 17/03/1997] (p. 5205, col. 1)",
+                "pagina": "5205",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "395770",
+                "coluna": "1",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "20/03/1997",
+                "datapub": "21/03/1997",
+                "edicao": "13830394",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 2.181 de 20/03/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 21/03/1997] (p. 5644, col. 1)",
+                "pagina": "5644",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554695",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "15/04/1997",
+                "datapub": "16/04/1997",
+                "edicao": "13845191",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-35 de 15/04/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 16/04/1997] (p. 7512, col. 1)",
+                "pagina": "7512",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554696",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "15/05/1997",
+                "datapub": "16/05/1997",
+                "edicao": "13840759",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-36 de 15/05/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 16/05/1997] (p. 10096, col. 1)",
+                "pagina": "10096",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554697",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "12/06/1997",
+                "datapub": "13/06/1997",
+                "edicao": "13840752",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-37 de 12/06/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/06/1997] (p. 12262, col. 1)",
+                "pagina": "12262",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554698",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "11/07/1997",
+                "datapub": "12/07/1997",
+                "edicao": "13845111",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-38 de 11/07/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/07/1997] (p. 14783, col. 1)",
+                "pagina": "14783",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554699",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "08/08/1997",
+                "datapub": "11/08/1997",
+                "edicao": "13836418",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-39 de 08/08/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 11/08/1997] (p. 17151, col. 1)",
+                "pagina": "17151",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554700",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "09/09/1997",
+                "datapub": "10/09/1997",
+                "edicao": "13843033",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-40 de 09/09/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/09/1997] (p. 19946, col. 1)",
+                "pagina": "19946",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554701",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "09/10/1997",
+                "datapub": "10/10/1997",
+                "edicao": "13831970",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-41 de 09/10/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/10/1997] (p. 22812, col. 1)",
+                "pagina": "22812",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554702",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "06/11/1997",
+                "datapub": "07/11/1997",
+                "edicao": "13838559",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-42 de 06/11/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/11/1997] (p. 25307, col. 1)",
+                "pagina": "25307",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554703",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "04/12/1997",
+                "datapub": "05/12/1997",
+                "edicao": "13834260",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-43 de 04/12/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 05/12/1997] (p. 28663, col. 2)",
+                "pagina": "28663",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554704",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "31/12/1997",
+                "datapub": "02/01/1998",
+                "edicao": "13829709",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-44 de 31/12/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 02/01/1998] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554705",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "29/01/1998",
+                "datapub": "30/01/1998",
+                "edicao": "13831950",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-45 de 29/01/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/01/1998] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554706",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "27/02/1998",
+                "datapub": "28/02/1998",
+                "edicao": "14053588",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-46 de 27/02/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 28/02/1998] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "554707",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "27/03/1998",
+                "datapub": "30/03/1998",
+                "edicao": "13845188",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-47 de 27/03/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/03/1998] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554708",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "28/04/1998",
+                "datapub": "29/04/1998",
+                "edicao": "13836443",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-48 de 28/04/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/04/1998] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554709",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "28/05/1998",
+                "datapub": "29/05/1998",
+                "edicao": "13836424",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-49 de 28/05/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/05/1998] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554710",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "26/06/1998",
+                "datapub": "28/06/1998",
+                "edicao": "14053369",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-50 de 26/06/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 28/06/1998] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "554711",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "27/07/1998",
+                "datapub": "28/07/1998",
+                "edicao": "13843087",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-51 de 27/07/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/07/1998] (p. 10, col. 2)",
+                "pagina": "10",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554712",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "25/08/1998",
+                "datapub": "26/08/1998",
+                "edicao": "13845176",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-52 de 25/08/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 26/08/1998] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554713",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "24/09/1998",
+                "datapub": "25/09/1998",
+                "edicao": "13834303",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-53 de 24/09/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/09/1998] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554714",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "22/10/1998",
+                "datapub": "23/10/1998",
+                "edicao": "13834283",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-54 de 22/10/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 23/10/1998] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "554715",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "19/11/1998",
+                "datapub": "20/11/1998",
+                "edicao": "13836427",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.477-55 de 19/11/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 20/11/1998] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "556421",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "14/12/1998",
+                "datapub": "15/12/1998",
+                "edicao": "13829755",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.733-56 de 14/12/1998",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 15/12/1998] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "556422",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "13/01/1999",
+                "datapub": "14/01/1999",
+                "edicao": "13836405",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.733-57 de 13/01/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 14/01/1999] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "556423",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "11/02/1999",
+                "datapub": "12/02/1999",
+                "edicao": "13843075",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.733-58 de 11/02/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/02/1999] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "556424",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "11/03/1999",
+                "datapub": "12/03/1999",
+                "edicao": "13843050",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.733-59 de 11/03/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/03/1999] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "556425",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "08/04/1999",
+                "datapub": "09/04/1999",
+                "edicao": "13845229",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.733-60 de 08/04/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 09/04/1999] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "556426",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "06/05/1999",
+                "datapub": "07/05/1999",
+                "edicao": "13839110",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.733-61 de 06/05/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/05/1999] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "556427",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "02/06/1999",
+                "datapub": "04/06/1999",
+                "edicao": "13829852",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.733-62 de 02/06/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/06/1999] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "557270",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "29/06/1999",
+                "datapub": "30/06/1999",
+                "edicao": "13845714",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.890-63 de 29/06/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/06/1999] (p. 59, col. 1)",
+                "pagina": "59",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "557271",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "28/07/1999",
+                "datapub": "29/07/1999",
+                "edicao": "13841379",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.890-64 de 28/07/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/07/1999] (p. 24, col. 1)",
+                "pagina": "24",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "557272",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "26/08/1999",
+                "datapub": "27/08/1999",
+                "edicao": "13832086",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.890-65 de 26/08/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/08/1999] (p. 15, col. 1)",
+                "pagina": "15",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "557273",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "24/09/1999",
+                "datapub": "25/09/1999",
+                "edicao": "14053476",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.890-66 de 24/09/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 25/09/1999] (p. 17, col. 1)",
+                "pagina": "17",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "557274",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "22/10/1999",
+                "datapub": "25/10/1999",
+                "edicao": "13841380",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.890-67 de 22/10/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/10/1999] (p. 23, col. 2)",
+                "pagina": "23",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "551746",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "23/11/1999",
+                "datapub": "24/11/1999",
+                "edicao": "14053374",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 13 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.870 de 23/11/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 24/11/1999] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "558951",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "22/05/2001",
+                "datapub": "23/05/2001",
+                "edicao": "13832579",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 12 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 14 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 22 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 42 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 2.148-1 de 22/05/2001",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 23/05/2001] (p. 1, col. 3)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "409473",
+                "coluna": "2",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "20/09/2006",
+                "datapub": "21/09/2006",
+                "edicao": "13837302",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 5.903 de 20/09/2006",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 21/09/2006] (p. 5, col. 2)",
+                "pagina": "5",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "410595",
+                "coluna": "1",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "31/07/2008",
+                "datapub": "01/08/2008",
+                "edicao": "13844018",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 6.523 de 31/07/2008",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 01/08/2008] (p. 8, col. 1)",
+                "pagina": "8",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "582207",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "22/09/2008",
+                "datapub": "23/09/2008",
+                "edicao": "13841838",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 54, § 3 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.785 de 22/09/2008",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 23/09/2008] (p. 38, col. 1)",
+                "pagina": "38",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "583425",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "29/10/2008",
+                "datapub": "30/10/2008",
+                "edicao": "13832949",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 33, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.800 de 29/10/2008",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/10/2008] (p. 2, col. 3)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "580212",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "27/07/2009",
+                "datapub": "28/07/2009",
+                "edicao": "13835241",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.989 de 27/07/2009",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/07/2009] (p. 2, col. 3)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "580262",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "01/10/2009",
+                "datapub": "02/10/2009",
+                "edicao": "13839653",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Item 11 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.039 de 01/10/2009",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 02/10/2009] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "588117",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "08/12/2012",
+                "datapub": "10/12/2012",
+                "edicao": "13842013",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 6, caput, Inciso 3 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.741 de 08/12/2012",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/12/2012] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "413161",
+                "coluna": "1",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "15/03/2013",
+                "datapub": "15/03/2013",
+                "edicao": "14053511",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 7.962 de 15/03/2013",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 15/03/2013] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "584958",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "06/07/2015",
+                "datapub": "07/07/2015",
+                "edicao": "13828862",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 6, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 43, § 6 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.146 de 06/07/2015",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2015] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "593315",
+                "coluna": "3",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "19/11/2015",
+                "datapub": "20/11/2015",
+                "edicao": "13833262",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 4, caput, Inciso 3 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 4, caput, Inciso 5 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 8.573 de 19/11/2015",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 20/11/2015] (p. 2, col. 3)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "17668401",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "30/03/2017",
+                "datapub": "31/03/2017",
+                "edicao": "17667390",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 11-A, caput "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 11-A, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 39, caput, Inciso 14 "
+                    },
+                    {
+                      "comentario": "Renumeração",
+                      "dispositivo": "Art. 65, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 65, § 2 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.425 de 30/03/2017",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/03/2017] (p. 1, col. 3)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "26247104",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "03/10/2017",
+                "datapub": "04/10/2017",
+                "edicao": "26247081",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Renumeração",
+                      "dispositivo": "Art. 8, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 8, § 2 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.486 de 03/10/2017",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/10/2017] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "32095468",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "08/04/2020",
+                "datapub": "08/04/2020",
+                "edicao": "32095319",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 56 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 948 de 08/04/2020",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 08/04/2020 - nº 68-A] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "32250736",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "10/06/2020",
+                "datapub": "12/06/2020",
+                "edicao": "32250756",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 49 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.010 de 10/06/2020",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2020] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "32439858",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "07/07/2020",
+                "datapub": "08/07/2020",
+                "edicao": "32439799",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 4 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 106 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 10.417 de 07/07/2020",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/07/2020] (p. 4, col. 1)",
+                "pagina": "4",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "32584315",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "24/08/2020",
+                "datapub": "25/08/2020",
+                "edicao": "32583926",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 56 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.046 de 24/08/2020",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/08/2020] (p. 4, col. 1)",
+                "pagina": "4",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "33243982",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "22/02/2021",
+                "datapub": "23/02/2021",
+                "edicao": "33243959",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 10.634 de 22/02/2021",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 23/02/2021] (p. 3, col. 2)",
+                "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "34251655",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "01/07/2021",
+                "datapub": "02/07/2021",
+                "edicao": "34250996",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 4, caput, Inciso 9 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 4, caput, Inciso 10 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 5, caput, Inciso 6 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 5, caput, Inciso 7 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 6, caput, Inciso 11 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 6, caput, Inciso 12 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 6, caput, Inciso 13 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 51, caput, Inciso 17 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 51, caput, Inciso 18 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 51, caput, Inciso 19 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 54-A "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 54-B "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 54-C "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 54-C, caput, Inciso 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 54-C, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 54-D "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 54-E "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 54-F "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 54-G "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 104-A "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 104-B "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 104-C, caput "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 104-C, § 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 104-C, § 2 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.181 de 01/07/2021",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 02/07/2021] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35649373",
+                "coluna": "2",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "05/04/2022",
+                "datapub": "06/04/2022",
+                "edicao": "35647480",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 11.034 de 05/04/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 06/04/2022] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35958328",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "14/06/2022",
+                "datapub": "15/06/2022",
+                "edicao": "35957140",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 39, caput, Inciso 15 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.368 de 14/06/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 15/06/2022] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "36127194",
+                "coluna": "1",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "26/07/2022",
+                "datapub": "27/07/2022",
+                "edicao": "36126834",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 6, caput, Inciso 11 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 6, caput, Inciso 12 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 54-A, § 1 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 104-A, caput "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 104-C, § 1 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 11.150 de 26/07/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/07/2022] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "38505601",
+                "coluna": "2",
+                "comentario": "Declaração de Ressalva Permanente da Norma no todo",
+                "datAssinatura": "16/05/2024",
+                "datapub": "17/05/2024",
+                "edicao": "38505578",
+                "itens": "",
+                "nomeNormaPosterior": "Lei Complementar nº 207 de 16/05/2024",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 17/05/2024] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "38698227",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "05/07/2024",
+                "datapub": "08/07/2024",
+                "edicao": "38698004",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 56 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.917 de 05/07/2024",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/07/2024] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "40180251",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "16/01/2025",
+                "datapub": "16/01/2025",
+                "edicao": "40180226",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 39 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.288 de 16/01/2025",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 16/01/2025 - nº 11-A] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "41512391",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "30/09/2025",
+                "datapub": "01/10/2025",
+                "edicao": "41512332",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 12 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 13 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 15.224 de 30/09/2025",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 01/10/2025] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "42896566",
+                "coluna": "1",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "12/03/2026",
+                "datapub": "12/03/2026",
+                "edicao": "42895871",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 12.876 de 12/03/2026",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 12/03/2026 - nº 48-C] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/DetalheDocumentov3.xsd"
+  }
+}

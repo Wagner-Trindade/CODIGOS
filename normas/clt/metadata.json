@@ -1,0 +1,22 @@
+{
+  "alteracao_detectada_em": "2026-08-20T21:04:44-03:00",
+  "artigos_detectados": 929,
+  "caracteres_texto_normalizado": 647434,
+  "fontes": {
+    "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+    "content_type_observado": "text/html",
+    "metodo_coleta": "api-public-binario",
+    "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Adecreto.lei%3A1943-05-01%3B5452",
+    "texto_publico_observado": "https://normas.leg.br/api/public/binario/5e35b26e-26a7-44d7-8a95-b8f0852cabe1/texto"
+  },
+  "id": "clt",
+  "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+  "referencia": {
+    "ano": 1943,
+    "numero": "5.452",
+    "tipo": "Decreto-Lei"
+  },
+  "sha256_texto_normalizado": "02dfbc05b517f166dff8352531dc58e0a485ecef18f86338ffe93fe45a1dfd06",
+  "titulo": "Consolidação das Leis do Trabalho",
+  "urn": "urn:lex:br:federal:decreto.lei:1943-05-01;5452"
+}

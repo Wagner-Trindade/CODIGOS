@@ -1,0 +1,1067 @@
+{
+  "DetalheDocumento": {
+    "Metadados": {
+      "DataVersaoServico": "2017-02-01",
+      "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
+      "Versao": "20/08/2026 21:04:31",
+      "VersaoServico": "3"
+    },
+    "documentos": {
+      "documento": [
+        {
+          "catalogo": {
+            "frase": [
+              " LEI DO INQUILINATO ."
+            ]
+          },
+          "classes": "",
+          "disps": {
+            "disp": [
+              {
+                "codItemDocumento": "12272901",
+                "nomeDispositivo": "Art. 3 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "601892",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Medida Provisória nº 851 de 20/01/1995"
+                    },
+                    {
+                      "codNormaPosterior": "601952",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Medida Provisória nº 911 de 21/02/1995"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12277336",
+                "nomeDispositivo": "Art. 4 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    },
+                    {
+                      "codNormaPosterior": "588120",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.744 de 19/12/2012"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12285898",
+                "nomeDispositivo": "Art. 12 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12290315",
+                "nomeDispositivo": "Art. 13 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12290310",
+                "nomeDispositivo": "Art. 17, Parágrafo Único [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "601892",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Medida Provisória nº 851 de 20/01/1995"
+                    },
+                    {
+                      "codNormaPosterior": "601952",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Medida Provisória nº 911 de 21/02/1995"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12264138",
+                "nomeDispositivo": "Art. 18 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "601892",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Medida Provisória nº 851 de 20/01/1995"
+                    },
+                    {
+                      "codNormaPosterior": "601952",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Medida Provisória nº 911 de 21/02/1995"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12272902",
+                "nomeDispositivo": "Art. 32 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12277333",
+                "nomeDispositivo": "Art. 32, Parágrafo Único [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559130",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.223 de 04/09/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12277335",
+                "nomeDispositivo": "Art. 37 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "572735",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.196 de 21/11/2005"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12264139",
+                "nomeDispositivo": "Art. 39 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    },
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12277334",
+                "nomeDispositivo": "Art. 40 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "572735",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.196 de 21/11/2005"
+                    },
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12268580",
+                "nomeDispositivo": "Art. 52 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12290312",
+                "nomeDispositivo": "Art. 53 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "551132",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.256 de 09/01/1996"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12264592",
+                "nomeDispositivo": "Art. 54-A [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "588120",
+                      "comentario": "Encerramento de Vigência (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.744 de 19/12/2012"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12294713",
+                "nomeDispositivo": "Art. 59 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "32633641",
+                "nomeDispositivo": "Art. 59, § 1, Inciso 1 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "32250736",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.010 de 10/06/2020"
+                    },
+                    {
+                      "codNormaPosterior": "35034346",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.216 de 07/10/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "32633646",
+                "nomeDispositivo": "Art. 59, § 1, Inciso 2 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "32250736",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.010 de 10/06/2020"
+                    },
+                    {
+                      "codNormaPosterior": "35034346",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.216 de 07/10/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "32633651",
+                "nomeDispositivo": "Art. 59, § 1, Inciso 5 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "32250736",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.010 de 10/06/2020"
+                    },
+                    {
+                      "codNormaPosterior": "35034346",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.216 de 07/10/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "32633656",
+                "nomeDispositivo": "Art. 59, § 1, Inciso 7 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "32250736",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.010 de 10/06/2020"
+                    },
+                    {
+                      "codNormaPosterior": "35034346",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.216 de 07/10/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "32633661",
+                "nomeDispositivo": "Art. 59, § 1, Inciso 8 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "32250736",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.010 de 10/06/2020"
+                    },
+                    {
+                      "codNormaPosterior": "35034346",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.216 de 07/10/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "32633666",
+                "nomeDispositivo": "Art. 59, § 1, Inciso 9 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "32250736",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.010 de 10/06/2020"
+                    },
+                    {
+                      "codNormaPosterior": "35034346",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.216 de 07/10/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12285897",
+                "nomeDispositivo": "Art. 62 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12285896",
+                "nomeDispositivo": "Art. 63 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12290311",
+                "nomeDispositivo": "Art. 63, § 3 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "551132",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.256 de 09/01/1996"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12272904",
+                "nomeDispositivo": "Art. 64 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12290314",
+                "nomeDispositivo": "Art. 68 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12272903",
+                "nomeDispositivo": "Art. 71 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12290313",
+                "nomeDispositivo": "Art. 74 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580804",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.112 de 09/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12277332",
+                "nomeDispositivo": "Art. 83 [Lei nº 8.245 de 18/10/1991]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "551143",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.267 de 25/03/1996"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "edivs": {
+            "ediv": [
+              {
+                "codnormaAnterior": "446193",
+                "comentario": "Declaração de Revogação Permanente da Norma no Todo",
+                "datAssinatura": "02/12/1947",
+                "itens": "",
+                "nomeNormaAnterior": "Decreto nº 24.150 de 02/12/1947"
+              },
+              {
+                "codnormaAnterior": "546230",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "21/08/1964",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 4.380 de 21/08/1964"
+              },
+              {
+                "codnormaAnterior": "546444",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "16/12/1964",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 24, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaAnterior": "Lei nº 4.591 de 16/12/1964"
+              },
+              {
+                "codnormaAnterior": "547745",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "11/01/1973",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 5.869 de 11/01/1973"
+              },
+              {
+                "codnormaAnterior": "547891",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "31/12/1973",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 6.015 de 31/12/1973"
+              },
+              {
+                "codnormaAnterior": "548115",
+                "comentario": "Declaração de Revogação Permanente da Norma no Todo",
+                "datAssinatura": "19/09/1975",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 6.239 de 19/09/1975"
+              },
+              {
+                "codnormaAnterior": "548525",
+                "comentario": "Declaração de Revogação Permanente da Norma no Todo",
+                "datAssinatura": "16/05/1979",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 6.649 de 16/05/1979"
+              },
+              {
+                "codnormaAnterior": "548574",
+                "comentario": "Declaração de Revogação Permanente da Norma no Todo",
+                "datAssinatura": "15/10/1979",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 6.698 de 15/10/1979"
+              },
+              {
+                "codnormaAnterior": "549231",
+                "comentario": "Declaração de Revogação Permanente da Norma no Todo",
+                "datAssinatura": "30/08/1985",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 7.355 de 30/08/1985"
+              },
+              {
+                "codnormaAnterior": "549414",
+                "comentario": "Declaração de Revogação Permanente da Norma no Todo",
+                "datAssinatura": "24/09/1986",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 7.538 de 24/09/1986"
+              },
+              {
+                "codnormaAnterior": "549488",
+                "comentario": "Declaração de Revogação Permanente da Norma no Todo",
+                "datAssinatura": "09/07/1987",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 7.612 de 09/07/1987"
+              },
+              {
+                "codnormaAnterior": "549885",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "29/03/1990",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 3 "
+                    }
+                  ]
+                },
+                "nomeNormaAnterior": "Lei nº 8.009 de 29/03/1990"
+              },
+              {
+                "codnormaAnterior": "550033",
+                "comentario": "Declaração de Revogação Permanente da Norma no Todo",
+                "datAssinatura": "03/01/1991",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 8.157 de 03/01/1991"
+              }
+            ]
+          },
+          "ementa": "Dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes.",
+          "id": "550121",
+          "identificacao": {
+            "apelido": "LEI-8245-1991-10-18 , Lei de Locações dos Imóveis Urbanos (1991) , Lei do Inquilinato (1991)",
+            "dataassinatura": "18/10/1991",
+            "descricao": "Lei Numerada",
+            "norma": "LEI-8245-1991-10-18",
+            "normaNome": "Lei nº 8.245 de 18/10/1991",
+            "numero": "8245",
+            "tipo": "LEI-n",
+            "urlDocumento": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245"
+          },
+          "indexacao": {
+            "frase": [
+              " DEFINIÇÃO ,  CRITERIOS ,  LOCAÇÃO ,  SUBLOCAÇÃO ,  ALUGUEL ,  CONTRATO ,  IMOVEL URBANO ,  GARANTIA ,  DEVERES ,  OBRIGAÇÕES ,  DIREITOS ,  PENALIDADE ,  AÇÃO DE DESPEJO ,  LOCATARIO ."
+            ]
+          },
+          "observacao": "AUTOR: EXECUTIVO - PL. 912 DE 1991.",
+          "publicacoes": {
+            "publicacao": [
+              {
+                "coluna": "1",
+                "data": "21/10/1991",
+                "dispositivo": "Publicação Original   [Diário Oficial da União  de 21/10/1991] (p. 22961, col. 1)",
+                "fonte": "Diário Oficial da União  de 21/10/1991",
+                "id": "14225819",
+                "pagina": "22961",
+                "siglaFonte": "DOU-1991-10-21",
+                "temTexto": "S",
+                "tipo": "PUB"
+              }
+            ]
+          },
+          "vides": {
+            "vide": [
+              {
+                "codnormaposterior": "553489",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "28/08/1992",
+                "datapub": "31/08/1992",
+                "edicao": "13838472",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 304 de 28/08/1992",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/08/1992] (p. 11937, col. 1)",
+                "pagina": "11937",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550370",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "23/11/1992",
+                "datapub": "24/11/1992",
+                "edicao": "13829573",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 8.494 de 23/11/1992",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 24/11/1992] (p. 16205, col. 1)",
+                "pagina": "16205",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553717",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "30/06/1994",
+                "datapub": "30/06/1994",
+                "edicao": "13840654",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 542 de 30/06/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/06/1994] (p. 9761, col. 1)",
+                "pagina": "9761",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553765",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "29/07/1994",
+                "datapub": "30/07/1994",
+                "edicao": "13829569",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 566 de 29/07/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/07/1994] (p. 11434, col. 1)",
+                "pagina": "11434",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "579750",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "26/08/1994",
+                "datapub": "29/08/1994",
+                "edicao": "13836315",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 596 de 26/08/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/08/1994] (p. 12910, col. 1)",
+                "pagina": "12910",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "579828",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "27/09/1994",
+                "datapub": "28/09/1994",
+                "edicao": "13842939",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 635 de 27/09/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/09/1994] (p. 14662, col. 1)",
+                "pagina": "14662",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "579920",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "27/10/1994",
+                "datapub": "28/10/1994",
+                "edicao": "13829592",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 681 de 27/10/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/10/1994] (p. 16344, col. 2)",
+                "pagina": "16344",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553845",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "25/11/1994",
+                "datapub": "26/11/1994",
+                "edicao": "13842911",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 731 de 25/11/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 26/11/1994] (p. 17944, col. 2)",
+                "pagina": "17944",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553937",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "23/12/1994",
+                "datapub": "24/12/1994",
+                "edicao": "13829568",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 785 de 23/12/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 24/12/1994] (p. 20462, col. 1)",
+                "pagina": "20462",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "601892",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "20/01/1995",
+                "datapub": "23/01/1995",
+                "edicao": "13840653",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 3 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 17, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 18 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 851 de 20/01/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 23/01/1995] (p. 971, col. 2)",
+                "pagina": "971",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "601952",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "21/02/1995",
+                "datapub": "22/02/1995",
+                "edicao": "13845086",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 3 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 17, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 18 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 911 de 21/02/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/02/1995] (p. 2388, col. 2)",
+                "pagina": "2388",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "551132",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "09/01/1996",
+                "datapub": "10/01/1996",
+                "edicao": "13843032",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 53 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 63, § 3 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.256 de 09/01/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/01/1996] (p. 337, col. 1)",
+                "pagina": "337",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "551143",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "25/03/1996",
+                "datapub": "26/03/1996",
+                "edicao": "13843017",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 83 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.267 de 25/03/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 26/03/1996] (p. 4965, col. 1)",
+                "pagina": "4965",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "559130",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "04/09/2001",
+                "datapub": "05/09/2001",
+                "edicao": "14053378",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 32, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 2.223 de 04/09/2001",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 05/09/2001] (p. 15, col. 1)",
+                "pagina": "15",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "552807",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "02/08/2004",
+                "datapub": "03/08/2004",
+                "edicao": "13837017",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 32 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 10.931 de 02/08/2004",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 03/08/2004] (p. 17, col. 1)",
+                "pagina": "17",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "572735",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "21/11/2005",
+                "datapub": "22/11/2005",
+                "edicao": "13835117",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 37 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 40 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.196 de 21/11/2005",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/11/2005] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "580804",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "09/12/2009",
+                "datapub": "10/12/2009",
+                "edicao": "13833019",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 4 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 12 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 13 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 40 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 52 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 59 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 62 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 63 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 64 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 68 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 71 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 74 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.112 de 09/12/2009",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/12/2009] (p. 8, col. 1)",
+                "pagina": "8",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "588120",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "19/12/2012",
+                "datapub": "20/12/2012",
+                "edicao": "13830809",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 4 "
+                    },
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 54-A "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.744 de 19/12/2012",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 20/12/2012] (p. 2, col. 3)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "32250736",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "10/06/2020",
+                "datapub": "12/06/2020",
+                "edicao": "32250756",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 1 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 2 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 5 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 7 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 8 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 9 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.010 de 10/06/2020",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/06/2020] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35034346",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "07/10/2021",
+                "datapub": "08/10/2021",
+                "edicao": "35033845",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 1 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 2 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 5 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 7 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 8 "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 59, § 1, Inciso 9 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.216 de 07/10/2021",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/10/2021] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/DetalheDocumentov3.xsd"
+  }
+}

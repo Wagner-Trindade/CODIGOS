@@ -1,0 +1,1231 @@
+{
+  "DetalheDocumento": {
+    "Metadados": {
+      "DataVersaoServico": "2017-02-01",
+      "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
+      "Versao": "20/08/2026 21:04:38",
+      "VersaoServico": "3"
+    },
+    "documentos": {
+      "documento": [
+        {
+          "catalogo": {
+            "frase": [
+              " IMOVEL ."
+            ]
+          },
+          "classes": "",
+          "disps": {
+            "disp": [
+              {
+                "codItemDocumento": "12270645",
+                "nomeDispositivo": "Art. 4, Parágrafo Único [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "549058",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 7.182 de 27/03/1984"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12279415",
+                "nomeDispositivo": "Art. 17 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "548585",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 6.709 de 31/10/1979"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12275005",
+                "nomeDispositivo": "Art. 22 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "548310",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 6.434 de 15/07/1977"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12270646",
+                "nomeDispositivo": "Art. 24, § 4 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "550121",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 8.245 de 18/10/1991"
+                    },
+                    {
+                      "codNormaPosterior": "551143",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.267 de 25/03/1996"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12292468",
+                "nomeDispositivo": "Art. 30-A [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12279416",
+                "nomeDispositivo": "Art. 30-B [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12266245",
+                "nomeDispositivo": "Art. 30-C [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12288002",
+                "nomeDispositivo": "Art. 30-D [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12270647",
+                "nomeDispositivo": "Art. 30-E [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12292467",
+                "nomeDispositivo": "Art. 30-F [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12296763",
+                "nomeDispositivo": "Art. 30-G [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12266246",
+                "nomeDispositivo": "Art. 31, caput, Alínea c [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "553662",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 514 de 01/12/2010"
+                    },
+                    {
+                      "codNormaPosterior": "585421",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.424 de 16/06/2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12279418",
+                "nomeDispositivo": "Art. 31-A [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "37378066",
+                "nomeDispositivo": "Art. 31-A, § 3 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "37377355",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.620 de 13/07/2023"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12292470",
+                "nomeDispositivo": "Art. 31-B [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12275007",
+                "nomeDispositivo": "Art. 31-C [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12275006",
+                "nomeDispositivo": "Art. 31-D [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12279417",
+                "nomeDispositivo": "Art. 31-E [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35345255",
+                "nomeDispositivo": "Art. 31-E, § 1 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35345259",
+                "nomeDispositivo": "Art. 31-E, § 2 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35345263",
+                "nomeDispositivo": "Art. 31-E, § 3 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "36027561",
+                "nomeDispositivo": "Art. 31-E, § 4 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12288003",
+                "nomeDispositivo": "Art. 31-F [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12296762",
+                "nomeDispositivo": "Art. 32 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    },
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    },
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35345338",
+                "nomeDispositivo": "Art. 32, caput, Alínea o [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Revogação (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35345352",
+                "nomeDispositivo": "Art. 32, § 2 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Revogação (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12292471",
+                "nomeDispositivo": "Art. 32, § 13 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "553662",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 514 de 01/12/2010"
+                    },
+                    {
+                      "codNormaPosterior": "585421",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.424 de 16/06/2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35345289",
+                "nomeDispositivo": "Art. 33, caput [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35345293",
+                "nomeDispositivo": "Art. 33, Parágrafo Único [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30763841",
+                "nomeDispositivo": "Art. 35-A [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30762824",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.786 de 27/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12296761",
+                "nomeDispositivo": "Art. 43 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    },
+                    {
+                      "codNormaPosterior": "552807",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.931 de 02/08/2004"
+                    },
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30763844",
+                "nomeDispositivo": "Art. 43-A, caput [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30762824",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.786 de 27/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30763848",
+                "nomeDispositivo": "Art. 43-A, § 1 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30762824",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.786 de 27/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30763852",
+                "nomeDispositivo": "Art. 43-A, § 2 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30762824",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.786 de 27/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30763856",
+                "nomeDispositivo": "Art. 43-A, § 3 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30762824",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.786 de 27/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35345312",
+                "nomeDispositivo": "Art. 44, caput [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12292466",
+                "nomeDispositivo": "Art. 50 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "559128",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 2.221 de 04/09/2001"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35345325",
+                "nomeDispositivo": "Art. 50, caput [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35339417",
+                      "comentario": "Alteração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.085 de 27/12/2021"
+                    },
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30763860",
+                "nomeDispositivo": "Art. 67-A [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30762824",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.786 de 27/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "36027392",
+                "nomeDispositivo": "Art. 68 [Lei nº 4.591 de 16/12/1964]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "36009982",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.382 de 27/06/2022"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "edivs": "",
+          "ementa": "Dispõe sobre o condomínio em edificações e as incorporações imobiliárias.",
+          "id": "546444",
+          "identificacao": {
+            "apelido": "LEI-4591-1964-12-16 , Lei de Incorporações Imobiliárias (1964) , Lei do Condomínio (1964)",
+            "dataassinatura": "16/12/1964",
+            "descricao": "Lei Numerada",
+            "norma": "LEI-4591-1964-12-16",
+            "normaNome": "Lei nº 4.591 de 16/12/1964",
+            "numero": "4591",
+            "tipo": "LEI-n",
+            "urlDocumento": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1964-12-16;4591"
+          },
+          "indexacao": {
+            "frase": [
+              " CONVENÇÃO ,  DESPESA ,  ADMINISTRAÇÃO ,  ASSEMBLEIA GERAL ,  CONDOMINIO .",
+              " CONSTRUÇÃO ,  IMOVEL ,  CONDOMINIO .",
+              " SEGUROS ,  INCENDIO ,  DEMOLIÇÃO ,  RECONSTRUÇÃO ,  CONDOMINIO .",
+              " DIREITOS ,  DEVERES ,  INCORPORADOR ,  IMOVEL .",
+              " REGULAMENTAÇÃO ,  CONDOMINIO ,  INCORPORAÇÃO IMOBILIARIA ."
+            ]
+          },
+          "publicacoes": {
+            "publicacao": [
+              {
+                "coluna": "1",
+                "data": "21/12/1964",
+                "dispositivo": "Publicação Original   [Diário Oficial da União  de 21/12/1964] (p. 11682, col. 1)",
+                "fonte": "Diário Oficial da União  de 21/12/1964",
+                "id": "14235876",
+                "pagina": "11682",
+                "siglaFonte": "DOU-1964-12-21",
+                "temTexto": "S",
+                "tipo": "PUB"
+              }
+            ]
+          },
+          "vides": {
+            "vide": [
+              {
+                "codnormaposterior": "478407",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "08/03/1965",
+                "datapub": "10/03/1965",
+                "edicao": "13830063",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 55.815 de 08/03/1965",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/03/1965] (p. 2553, col. 2)",
+                "pagina": "2553",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "546718",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "29/11/1965",
+                "datapub": "30/11/1965",
+                "edicao": "32509813",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 4.864 de 29/11/1965",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Suplemento  de 30/11/1965] (p. 11, col. 1)",
+                "pagina": "11",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "523182",
+                "coluna": "3",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "28/02/1967",
+                "datapub": "28/02/1967",
+                "edicao": "13840283",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto-Lei nº 271 de 28/02/1967",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/02/1967] (p. 2460, col. 3)",
+                "pagina": "2460",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "524587",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "21/10/1969",
+                "datapub": "21/10/1969",
+                "edicao": "13831003",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto-Lei nº 981 de 21/10/1969",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 21/10/1969] (p. 8935, col. 1)",
+                "pagina": "8935",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "548310",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "15/07/1977",
+                "datapub": "19/07/1977",
+                "edicao": "13842655",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 22 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 6.434 de 15/07/1977",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 19/07/1977] (p. 9138, col. 2)",
+                "pagina": "9138",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "548585",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "31/10/1979",
+                "datapub": "01/11/1979",
+                "edicao": "13831680",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 17 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 6.709 de 31/10/1979",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 01/11/1979] (p. 16161, col. 1)",
+                "pagina": "16161",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "526525",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "09/09/1982",
+                "datapub": "10/09/1982",
+                "edicao": "13831572",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto-Lei nº 1.958 de 09/09/1982",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/09/1982] (p. 16931, col. 2)",
+                "pagina": "16931",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "549058",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "27/03/1984",
+                "datapub": "29/03/1984",
+                "edicao": "13836178",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 4, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 7.182 de 27/03/1984",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/03/1984] (p. 4401, col. 1)",
+                "pagina": "4401",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "549309",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "18/12/1985",
+                "datapub": "19/12/1985",
+                "edicao": "13832483",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 7.433 de 18/12/1985",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 19/12/1985] (p. 18626, col. 1)",
+                "pagina": "18626",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "549326",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "23/12/1985",
+                "datapub": "24/12/1985",
+                "edicao": "13842777",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 7.450 de 23/12/1985",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 24/12/1985] (p. 18937, col. 1)",
+                "pagina": "18937",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550121",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "18/10/1991",
+                "datapub": "21/10/1991",
+                "edicao": "13841522",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 24, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 8.245 de 18/10/1991",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 21/10/1991] (p. 22961, col. 1)",
+                "pagina": "22961",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "551143",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "25/03/1996",
+                "datapub": "26/03/1996",
+                "edicao": "13843017",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 24, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.267 de 25/03/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 26/03/1996] (p. 4965, col. 1)",
+                "pagina": "4965",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "559128",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "04/09/2001",
+                "datapub": "05/09/2001",
+                "edicao": "14053378",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 30-A "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 30-B "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 30-C "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 30-D "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 30-E "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 30-F "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 30-G "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 32 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 43 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 50 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 2.221 de 04/09/2001",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 05/09/2001] (p. 12, col. 3)",
+                "pagina": "12",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "552807",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "02/08/2004",
+                "datapub": "03/08/2004",
+                "edicao": "13837017",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-A "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-B "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-C "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-D "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-E "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-F "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 32 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 43 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 10.931 de 02/08/2004",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 03/08/2004] (p. 17, col. 1)",
+                "pagina": "17",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "553662",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "01/12/2010",
+                "datapub": "02/12/2010",
+                "edicao": "13835260",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31, caput, Alínea c "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 32, § 13 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 514 de 01/12/2010",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 02/12/2010] (p. 3, col. 1)",
+                "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "585421",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "16/06/2011",
+                "datapub": "17/06/2011",
+                "edicao": "13837465",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31, caput, Alínea c "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 32, § 13 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.424 de 16/06/2011",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 17/06/2011] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "30762824",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "27/12/2018",
+                "datapub": "28/12/2018",
+                "edicao": "30762766",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 35-A "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 43-A, caput "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 43-A, § 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 43-A, § 2 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 43-A, § 3 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 67-A "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.786 de 27/12/2018",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/12/2018] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35339417",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "27/12/2021",
+                "datapub": "28/12/2021",
+                "edicao": "35339322",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-E, § 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-E, § 2 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-E, § 3 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 32 "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 32, caput, Alínea o "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 32, § 2 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 33, caput "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 33, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 43 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 44, caput "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 50, caput "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.085 de 27/12/2021",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/12/2021] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35339417",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "27/12/2021",
+                "datapub": "28/12/2021",
+                "edicao": "35339322",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 1.085 de 27/12/2021",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/12/2021] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "36009982",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "27/06/2022",
+                "datapub": "28/06/2022",
+                "edicao": "36009492",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-E, § 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 31-E, § 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-E, § 2 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-E, § 3 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 31-E, § 3 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 31-E, § 4 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 32 "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 32, caput, Alínea o "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 33, caput "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 33, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 43 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 44, caput "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 50, caput "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 68 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.382 de 27/06/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/06/2022] (p. 4, col. 2)",
+                "pagina": "4",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "37377355",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "13/07/2023",
+                "datapub": "14/07/2023",
+                "edicao": "37377332",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 31-A, § 3 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.620 de 13/07/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 14/07/2023] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/DetalheDocumentov3.xsd"
+  }
+}

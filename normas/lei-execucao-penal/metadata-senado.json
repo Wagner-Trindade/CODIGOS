@@ -1,0 +1,3226 @@
+{
+  "DetalheDocumento": {
+    "Metadados": {
+      "DataVersaoServico": "2017-02-01",
+      "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
+      "Versao": "20/08/2026 21:04:24",
+      "VersaoServico": "3"
+    },
+    "documentos": {
+      "documento": [
+        {
+          "catalogo": {
+            "frase": [
+              " LEI DE EXECUÇÃO PENAL ."
+            ]
+          },
+          "classes": "",
+          "disps": {
+            "disp": [
+              {
+                "codItemDocumento": "12270533",
+                "nomeDispositivo": "Art. 6 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12278754",
+                "nomeDispositivo": "Art. 9-A [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "589577",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.654 de 28/05/2012"
+                    },
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    },
+                    {
+                      "codNormaPosterior": "41853762",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.295 de 19/12/2025"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31880626",
+                "nomeDispositivo": "Art. 9-A, caput [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Alteração Vetada (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    },
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31880630",
+                "nomeDispositivo": "Art. 9-A, § 5 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    },
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31880634",
+                "nomeDispositivo": "Art. 9-A, § 6 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    },
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31880638",
+                "nomeDispositivo": "Art. 9-A, § 7 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    },
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38015308",
+                "nomeDispositivo": "Art. 10 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38009947",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.843 de 21/12/2023"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38015311",
+                "nomeDispositivo": "Art. 11 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38009947",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.843 de 21/12/2023"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12270535",
+                "nomeDispositivo": "Art. 14, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580165",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.942 de 28/05/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "35670032",
+                "nomeDispositivo": "Art. 14, § 4 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35668295",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.326 de 12/04/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12279310",
+                "nomeDispositivo": "Art. 16 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575955",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.313 de 19/08/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12281644",
+                "nomeDispositivo": "Art. 18-A [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "584975",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.163 de 09/09/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12285940",
+                "nomeDispositivo": "Art. 21-A [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "584975",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.163 de 09/09/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42933827",
+                "nomeDispositivo": "Art. 21-B, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": ""
+              },
+              {
+                "codItemDocumento": "38327970",
+                "nomeDispositivo": "Art. 22, caput, Inciso 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": ""
+              },
+              {
+                "codItemDocumento": "38015314",
+                "nomeDispositivo": "Art. 25 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38009947",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.843 de 21/12/2023"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38015317",
+                "nomeDispositivo": "Art. 26 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38009947",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.843 de 21/12/2023"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "33991447",
+                "nomeDispositivo": "Art. 27 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38009947",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 11.843 de 21/12/2023"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "33991459",
+                "nomeDispositivo": "Art. 27, caput [Lei nº 7.210 de 11/07/1984]",
+                "refs": ""
+              },
+              {
+                "codItemDocumento": "33991472",
+                "nomeDispositivo": "Art. 29, caput [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "33990437",
+                      "comentario": "Dispositivo Recepcionado pela Constituição (Declaração de Recepção pela Constituição)",
+                      "dispositivo": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 336 de 26/02/2021"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287894",
+                "nomeDispositivo": "Art. 34 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12279308",
+                "nomeDispositivo": "Art. 36, § 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575900",
+                      "comentario": "Alteração Vetada (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.258 de 15/06/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287891",
+                "nomeDispositivo": "Art. 41, caput, Inciso 16 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552589",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.713 de 13/08/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "39750750",
+                "nomeDispositivo": "Art. 41, § 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "39748605",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.994 de 09/10/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31763657",
+                "nomeDispositivo": "Art. 41, Parágrafo Único [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "39748605",
+                      "comentario": "Supressão (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.994 de 09/10/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31763671",
+                "nomeDispositivo": "Art. 41, § 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "39748605",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.994 de 09/10/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31763675",
+                "nomeDispositivo": "Art. 41, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": ""
+              },
+              {
+                "codItemDocumento": "42932124",
+                "nomeDispositivo": "Art. 41-A, caput [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42932138",
+                "nomeDispositivo": "Art. 41-A, § 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42932142",
+                "nomeDispositivo": "Art. 41-A, § 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42932161",
+                "nomeDispositivo": "Art. 41-B, caput [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42933819",
+                "nomeDispositivo": "Art. 41-B, § 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42933823",
+                "nomeDispositivo": "Art. 41-B, § 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42933852",
+                "nomeDispositivo": "Art. 41-B, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12296632",
+                "nomeDispositivo": "Art. 50, caput, Inciso 7 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "572618",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.466 de 28/03/2007"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31880642",
+                "nomeDispositivo": "Art. 50, caput, Inciso 8 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43307726",
+                "nomeDispositivo": "Art. 50, caput, Inciso 9 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43304746",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.410 de 20/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12270532",
+                "nomeDispositivo": "Art. 52 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    },
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43283936",
+                "nomeDispositivo": "Art. 52, § 1, Inciso 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43283496",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.407 de 11/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43283941",
+                "nomeDispositivo": "Art. 52, § 1, Inciso 4 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43283496",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.407 de 11/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31880647",
+                "nomeDispositivo": "Art. 52, § 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42933741",
+                "nomeDispositivo": "Art. 52, § 6 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43283965",
+                "nomeDispositivo": "Art. 52, § 8 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43283496",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.407 de 11/05/2026"
+                    },
+                    {
+                      "codNormaPosterior": "43304746",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.410 de 20/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43283969",
+                "nomeDispositivo": "Art. 52, § 9 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43283496",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.407 de 11/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43283973",
+                "nomeDispositivo": "Art. 52, § 10 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43283496",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.407 de 11/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12266139",
+                "nomeDispositivo": "Art. 53 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12283532",
+                "nomeDispositivo": "Art. 54 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43283977",
+                "nomeDispositivo": "Art. 54, § 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43283496",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.407 de 11/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43283981",
+                "nomeDispositivo": "Art. 54, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43283496",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.407 de 11/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12266138",
+                "nomeDispositivo": "Art. 57 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287893",
+                "nomeDispositivo": "Art. 58 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287892",
+                "nomeDispositivo": "Art. 60 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "26329747",
+                "nomeDispositivo": "Art. 61 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "26329435",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Decreto nº 9.246 de 21/12/2017"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12266142",
+                "nomeDispositivo": "Art. 61, caput, Inciso 8 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575955",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.313 de 19/08/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328206",
+                "nomeDispositivo": "Art. 66, caput, Inciso 5, Alínea j [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12292329",
+                "nomeDispositivo": "Art. 66, caput, Inciso 10 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552589",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.713 de 13/08/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12296631",
+                "nomeDispositivo": "Art. 70 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "36736875",
+                "nomeDispositivo": "Art. 71 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "36696371",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Medida Provisória nº 1.154 de 01/01/2023"
+                    },
+                    {
+                      "codNormaPosterior": "37200471",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 14.600 de 19/06/2023"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12270531",
+                "nomeDispositivo": "Art. 72 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30754157",
+                "nomeDispositivo": "Art. 72, caput, Inciso 7 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30753434",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.769 de 19/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30754162",
+                "nomeDispositivo": "Art. 72, Parágrafo Único [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30753434",
+                      "comentario": "Renumeração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.769 de 19/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30754166",
+                "nomeDispositivo": "Art. 72, § 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30753434",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.769 de 19/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30754170",
+                "nomeDispositivo": "Art. 74, Parágrafo Único [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30753434",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.769 de 19/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287895",
+                "nomeDispositivo": "Art. 80 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575955",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.313 de 19/08/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12296634",
+                "nomeDispositivo": "Art. 81-A [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575955",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.313 de 19/08/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12279309",
+                "nomeDispositivo": "Art. 81-B [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575955",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.313 de 19/08/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287890",
+                "nomeDispositivo": "Art. 82, § 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "551336",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.460 de 04/06/1997"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287889",
+                "nomeDispositivo": "Art. 83, § 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "550922",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.046 de 18/05/1995"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12274883",
+                "nomeDispositivo": "Art. 83, § 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "550922",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.046 de 18/05/1995"
+                    },
+                    {
+                      "codNormaPosterior": "580165",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.942 de 28/05/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12279307",
+                "nomeDispositivo": "Art. 83, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580813",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.121 de 15/12/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12266140",
+                "nomeDispositivo": "Art. 83, § 4 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575887",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.245 de 24/05/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12283534",
+                "nomeDispositivo": "Art. 83, § 5 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575955",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.313 de 19/08/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12295773",
+                "nomeDispositivo": "Art. 83-A [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "585002",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.190 de 19/11/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287054",
+                "nomeDispositivo": "Art. 83-B [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "585002",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.190 de 19/11/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12286230",
+                "nomeDispositivo": "Art. 84, § 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "584979",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.167 de 06/10/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12264502",
+                "nomeDispositivo": "Art. 84, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "584979",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.167 de 06/10/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12268915",
+                "nomeDispositivo": "Art. 84, § 4 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "584979",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.167 de 06/10/2015"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12283531",
+                "nomeDispositivo": "Art. 86 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42933755",
+                "nomeDispositivo": "Art. 86, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "39750763",
+                "nomeDispositivo": "Art. 86, § 4 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "39748605",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.994 de 09/10/2024"
+                    },
+                    {
+                      "codNormaPosterior": "43304746",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.410 de 20/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "42933759",
+                "nomeDispositivo": "Art. 86, § 5 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12292330",
+                "nomeDispositivo": "Art. 87 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12296633",
+                "nomeDispositivo": "Art. 89 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "580165",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.942 de 28/05/2009"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12296630",
+                "nomeDispositivo": "Art. 112 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "552668",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 10.792 de 01/12/2003"
+                    },
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    },
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    },
+                    {
+                      "codNormaPosterior": "43271992",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.402 de 08/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43275410",
+                "nomeDispositivo": "Art. 112, caput, Inciso 4 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43271992",
+                      "comentario": "Alteração Vetada (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.402 de 08/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43275415",
+                "nomeDispositivo": "Art. 112, caput, Inciso 5 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43271992",
+                      "comentario": "Alteração Vetada (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.402 de 08/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43275420",
+                "nomeDispositivo": "Art. 112, caput, Inciso 6 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43271992",
+                      "comentario": "Alteração Vetada (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.402 de 08/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "39750796",
+                "nomeDispositivo": "Art. 112, caput, Inciso 6-A [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "39748605",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.994 de 09/10/2024"
+                    },
+                    {
+                      "codNormaPosterior": "42931693",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.358 de 24/03/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43275425",
+                "nomeDispositivo": "Art. 112, caput, Inciso 7 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43271992",
+                      "comentario": "Alteração Vetada (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.402 de 08/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43275430",
+                "nomeDispositivo": "Art. 112, caput, Inciso 8 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43271992",
+                      "comentario": "Alteração Vetada (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.402 de 08/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43275470",
+                "nomeDispositivo": "Art. 112, caput, Inciso 9 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43271992",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.402 de 08/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43275475",
+                "nomeDispositivo": "Art. 112, caput, Inciso 10 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43271992",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.402 de 08/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328119",
+                "nomeDispositivo": "Art. 112, § 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30754174",
+                "nomeDispositivo": "Art. 112, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30753434",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.769 de 19/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "30754178",
+                "nomeDispositivo": "Art. 112, § 4 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "30753434",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.769 de 19/12/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31880651",
+                "nomeDispositivo": "Art. 112, § 7 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    },
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328123",
+                "nomeDispositivo": "Art. 114, caput, Inciso 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328128",
+                "nomeDispositivo": "Art. 115, caput [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "41809341",
+                "nomeDispositivo": "Art. 119-A, caput [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "41808731",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.280 de 05/12/2025"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328045",
+                "nomeDispositivo": "Art. 122, caput, Inciso 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Revogação Vetada (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    },
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38327975",
+                "nomeDispositivo": "Art. 122, caput, Inciso 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Revogação Vetada (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    },
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31880655",
+                "nomeDispositivo": "Art. 122, Parágrafo Único [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Renumeração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "31880659",
+                "nomeDispositivo": "Art. 122, § 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "31865675",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.964 de 24/12/2019"
+                    },
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328283",
+                "nomeDispositivo": "Art. 122, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38327923",
+                "nomeDispositivo": "Art. 124, caput [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38327927",
+                "nomeDispositivo": "Art. 124, § 1 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38327931",
+                "nomeDispositivo": "Art. 124, § 2 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38327935",
+                "nomeDispositivo": "Art. 124, § 3 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12270530",
+                "nomeDispositivo": "Art. 126 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "393586",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Decreto nº 1.645 de 26/09/1995"
+                    },
+                    {
+                      "codNormaPosterior": "585430",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.433 de 29/06/2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43275480",
+                "nomeDispositivo": "Art. 126, § 9 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43271992",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.402 de 08/05/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287899",
+                "nomeDispositivo": "Art. 127 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "585430",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.433 de 29/06/2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287898",
+                "nomeDispositivo": "Art. 128 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "585430",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.433 de 29/06/2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12274889",
+                "nomeDispositivo": "Art. 129 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575955",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.313 de 19/08/2010"
+                    },
+                    {
+                      "codNormaPosterior": "585430",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.433 de 29/06/2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328307",
+                "nomeDispositivo": "Art. 132, § 2, Alínea e [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12266141",
+                "nomeDispositivo": "Art. 144 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575955",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.313 de 19/08/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12287172",
+                "nomeDispositivo": "Art. 146-B [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "588394",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 7.627 de 24/11/2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328312",
+                "nomeDispositivo": "Art. 146-B, caput, Inciso 6 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328317",
+                "nomeDispositivo": "Art. 146-B, caput, Inciso 7 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328322",
+                "nomeDispositivo": "Art. 146-B, caput, Inciso 8 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12282792",
+                "nomeDispositivo": "Art. 146-C [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "588394",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 7.627 de 24/11/2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328386",
+                "nomeDispositivo": "Art. 146-C, Parágrafo Único, Inciso 8 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "38328391",
+                "nomeDispositivo": "Art. 146-C, Parágrafo Único, Inciso 9 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "38326115",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.843 de 11/04/2024"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12291572",
+                "nomeDispositivo": "Art. 146-D [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "588394",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 7.627 de 24/11/2011"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "39750810",
+                "nomeDispositivo": "Art. 146-E, caput [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "39748605",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.994 de 09/10/2024"
+                    },
+                    {
+                      "codNormaPosterior": "41808731",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.280 de 05/12/2025"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12270534",
+                "nomeDispositivo": "Art. 152 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "572125",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 11.340 de 07/08/2006"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "36058756",
+                "nomeDispositivo": "Art. 152, Parágrafo Único [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "35878228",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.344 de 24/05/2022"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12296629",
+                "nomeDispositivo": "Art. 182 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "551144",
+                      "comentario": "Revogação (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 9.268 de 01/04/1996"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12283533",
+                "nomeDispositivo": "Art. 183 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "575955",
+                      "comentario": "Alteração (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 12.313 de 19/08/2010"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "12278815",
+                "nomeDispositivo": "Art. 199 [Lei nº 7.210 de 11/07/1984]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "414834",
+                      "comentario": "Regulamentado (Declaração de Regulamentação Permanente de Norma)",
+                      "dispositivo": "Decreto nº 8.858 de 26/09/2016"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "26329736",
+                "nomeDispositivo": "Anexo 61  [Lei nº 7.210 de 11/07/1984]",
+                "refs": ""
+              }
+            ]
+          },
+          "edivs": {
+            "ediv": [
+              {
+                "codnormaAnterior": "527942",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "07/12/1940",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 26 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 33 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 34 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 35 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 36 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 39 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 40 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 42 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 43 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 45 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 46 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 47 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 49 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 50 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 52 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 54 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 57 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 58 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 69 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 70 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 75 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 77 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 78 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 81 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 83 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 86 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 87 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 89 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 90 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 92 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 96 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 97 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 107 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 299 "
+                    }
+                  ]
+                },
+                "nomeNormaAnterior": "Decreto-Lei nº 2.848 de 07/12/1940"
+              },
+              {
+                "codnormaAnterior": "541412",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "09/04/1948",
+                "itens": "",
+                "nomeNormaAnterior": "Lei nº 269 de 09/04/1948"
+              }
+            ]
+          },
+          "ementa": "Institui a Lei de Execução Penal.",
+          "id": "549086",
+          "identificacao": {
+            "apelido": "LEI-7210-1984-07-11 , Lei de Execução Penal (1984)",
+            "dataassinatura": "11/07/1984",
+            "descricao": "Lei Numerada",
+            "norma": "LEI-7210-1984-07-11",
+            "normaNome": "Lei nº 7.210 de 11/07/1984",
+            "numero": "7210",
+            "tipo": "LEI-n",
+            "urlDocumento": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-11;7210"
+          },
+          "indexacao": {
+            "frase": [
+              " NORMAS GERAIS ,  LEI DE EXECUÇÃO PENAL ."
+            ]
+          },
+          "observacao": "AUTOR: EXECUTIVO - PL. 1657 DE 1983. SUMULA VINCULANTE 9, PUBLICAÇÃO DOFC  20/06/2008.",
+          "publicacoes": {
+            "publicacao": [
+              {
+                "coluna": "2",
+                "data": "13/07/1984",
+                "dispositivo": "Publicação Original   [Diário Oficial da União  de 13/07/1984] (p. 10227, col. 2)",
+                "fonte": "Diário Oficial da União  de 13/07/1984",
+                "id": "14225789",
+                "pagina": "10227",
+                "siglaFonte": "DOU-1984-07-13",
+                "temTexto": "S",
+                "tipo": "PUB"
+              }
+            ]
+          },
+          "vides": {
+            "vide": [
+              {
+                "codnormaposterior": "386652",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "28/10/1991",
+                "datapub": "29/10/1991",
+                "edicao": "13842925",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 245 de 28/10/1991",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/10/1991] (p. 23902, col. 2)",
+                "pagina": "23902",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "388806",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "16/10/1992",
+                "datapub": "19/10/1992",
+                "edicao": "13838382",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 668 de 16/10/1992",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 19/10/1992] (p. 14617, col. 1)",
+                "pagina": "14617",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "390278",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "08/10/1993",
+                "datapub": "11/10/1993",
+                "edicao": "13842946",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 953 de 08/10/1993",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 11/10/1993] (p. 15112, col. 1)",
+                "pagina": "15112",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550922",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "18/05/1995",
+                "datapub": "19/05/1995",
+                "edicao": "13845061",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 83, § 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 83, § 2 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.046 de 18/05/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 19/05/1995] (p. 7125, col. 2)",
+                "pagina": "7125",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "393586",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "26/09/1995",
+                "datapub": "27/09/1995",
+                "edicao": "13829666",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 126 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 1.645 de 26/09/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/09/1995] (p. 15050, col. 2)",
+                "pagina": "15050",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "551144",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "01/04/1996",
+                "datapub": "02/04/1996",
+                "edicao": "13840738",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 182 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.268 de 01/04/1996",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 02/04/1996] (p. 5457, col. 1)",
+                "pagina": "5457",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "551336",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "04/06/1997",
+                "datapub": "05/06/1997",
+                "edicao": "13828799",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 82, § 1 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.460 de 04/06/1997",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 05/06/1997] (p. 11553, col. 1)",
+                "pagina": "11553",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "552589",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "13/08/2003",
+                "datapub": "14/08/2003",
+                "edicao": "13830363",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41, caput, Inciso 16 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 66, caput, Inciso 10 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 10.713 de 13/08/2003",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 14/08/2003] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "552668",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "01/12/2003",
+                "datapub": "02/12/2003",
+                "edicao": "13832573",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 6 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 34 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 52 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 53 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 54 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 57 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 58 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 60 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 70 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 72 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 86 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 87 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 112 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 10.792 de 01/12/2003",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 02/12/2003] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "572125",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "07/08/2006",
+                "datapub": "08/08/2006",
+                "edicao": "13839473",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 152 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.340 de 07/08/2006",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/08/2006] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "572618",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "28/03/2007",
+                "datapub": "29/03/2007",
+                "edicao": "14053714",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 50, caput, Inciso 7 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.466 de 28/03/2007",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 29/03/2007] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "580165",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "28/05/2009",
+                "datapub": "29/05/2009",
+                "edicao": "13833005",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 14, § 3 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 83, § 2 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 89 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.942 de 28/05/2009",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/05/2009] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "580813",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "15/12/2009",
+                "datapub": "16/12/2009",
+                "edicao": "13835211",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 83, § 3 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.121 de 15/12/2009",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 16/12/2009] (p. 1, col. 3)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "575887",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "24/05/2010",
+                "datapub": "25/05/2010",
+                "edicao": "13835274",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 83, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.245 de 24/05/2010",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/05/2010] (p. 3, col. 2)",
+                "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "575900",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "15/06/2010",
+                "datapub": "16/06/2010",
+                "edicao": "13830736",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração Vetada",
+                      "dispositivo": "Art. 36, § 1 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.258 de 15/06/2010",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 16/06/2010] (p. 4, col. 2)",
+                "pagina": "4",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "575955",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "19/08/2010",
+                "datapub": "20/08/2010",
+                "edicao": "13837417",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 16 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 61, caput, Inciso 8 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 80 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 81-A "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 81-B "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 83, § 5 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 129 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 144 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 183 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.313 de 19/08/2010",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 20/08/2010] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "585430",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "29/06/2011",
+                "datapub": "30/06/2011",
+                "edicao": "13839714",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 126 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 127 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 128 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 129 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.433 de 29/06/2011",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/06/2011] (p. 1, col. 3)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "588394",
+                "coluna": "3",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "24/11/2011",
+                "datapub": "25/11/2011",
+                "edicao": "13830776",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 146-B "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 146-C "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 146-D "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 7.627 de 24/11/2011",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/11/2011] (p. 2, col. 3)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "589577",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "28/05/2012",
+                "datapub": "29/05/2012",
+                "edicao": "13841986",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 9-A "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 12.654 de 28/05/2012",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/05/2012] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "584975",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "09/09/2015",
+                "datapub": "10/09/2015",
+                "edicao": "13833233",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 18-A "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 21-A "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.163 de 09/09/2015",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/09/2015] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "584979",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "06/10/2015",
+                "datapub": "07/10/2015",
+                "edicao": "13833253",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 84, § 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 84, § 3 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 84, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.167 de 06/10/2015",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/10/2015] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "585002",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "19/11/2015",
+                "datapub": "20/11/2015",
+                "edicao": "32297730",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 83-A "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 83-B "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.190 de 19/11/2015",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 20/11/2015 - nº 222-A] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "414834",
+                "coluna": "2",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "26/09/2016",
+                "datapub": "27/09/2016",
+                "edicao": "13839892",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 199 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 8.858 de 26/09/2016",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/09/2016] (p. 3, col. 2)",
+                "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "26329435",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "21/12/2017",
+                "datapub": "22/12/2017",
+                "edicao": "26328181",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 61 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 9.246 de 21/12/2017",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/12/2017] (p. 3, col. 2)",
+                "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "27442618",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "24/07/2018",
+                "datapub": "25/07/2018",
+                "edicao": "27442595",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 9.450 de 24/07/2018",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/07/2018] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "30753434",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "19/12/2018",
+                "datapub": "20/12/2018",
+                "edicao": "30753454",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 72, caput, Inciso 7 "
+                    },
+                    {
+                      "comentario": "Renumeração",
+                      "dispositivo": "Art. 72, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 72, § 2 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 74, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 112, § 3 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 112, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.769 de 19/12/2018",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 20/12/2018] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "31156666",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "27/06/2019",
+                "datapub": "28/06/2019",
+                "edicao": "31156157",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 9.871 de 27/06/2019",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/06/2019] (p. 11, col. 1)",
+                "pagina": "11",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "31865675",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "24/12/2019",
+                "datapub": "24/12/2019",
+                "edicao": "31865695",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 9-A "
+                    },
+                    {
+                      "comentario": "Alteração Vetada",
+                      "dispositivo": "Art. 9-A, caput "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 9-A, caput "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 9-A, § 5 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 9-A, § 5 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 9-A, § 6 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 9-A, § 6 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 9-A, § 7 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 9-A, § 7 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 50, caput, Inciso 8 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 52 "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 52, § 2 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 112 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 112, § 7 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 112, § 7 "
+                    },
+                    {
+                      "comentario": "Renumeração",
+                      "dispositivo": "Art. 122, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 122, § 2 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.964 de 24/12/2019",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 24/12/2019 - nº 248-A] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "33990437",
+                "coluna": "1",
+                "comentario": "Declaração de Recepção pela Constituição",
+                "datAssinatura": "26/02/2021",
+                "datapub": "19/05/2021",
+                "edicao": "33987238",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Recepcionado pela Constituição",
+                      "dispositivo": "Art. 29, caput "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 336 de 26/02/2021",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 19/05/2021] (p. 3, col. 1)",
+                "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35668295",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "12/04/2022",
+                "datapub": "13/04/2022",
+                "edicao": "35668031",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 14, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.326 de 12/04/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/04/2022] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35878228",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "24/05/2022",
+                "datapub": "25/05/2022",
+                "edicao": "35877604",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 152, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.344 de 24/05/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/05/2022] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "36696371",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "01/01/2023",
+                "datapub": "01/01/2023",
+                "edicao": "36697952",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 71 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.154 de 01/01/2023",
+                "nomePub": "Publicação Original   [Diário Oficial - Edição Especial  de 01/01/2023] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "37200471",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "19/06/2023",
+                "datapub": "20/06/2023",
+                "edicao": "37199479",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 71 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.600 de 19/06/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 20/06/2023] (p. 7, col. 1)",
+                "pagina": "7",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "38009947",
+                "coluna": "2",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "21/12/2023",
+                "datapub": "22/12/2023",
+                "edicao": "38009398",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 10 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 11 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 25 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 26 "
+                    },
+                    {
+                      "comentario": "Regulamentado",
+                      "dispositivo": "Art. 27 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 11.843 de 21/12/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/12/2023] (p. 12, col. 2)",
+                "pagina": "12",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "38326115",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "11/04/2024",
+                "datapub": "11/04/2024",
+                "edicao": "38325943",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 66, caput, Inciso 5, Alínea j "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 112, § 1 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 114, caput, Inciso 2 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 115, caput "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 122, caput, Inciso 1 "
+                    },
+                    {
+                      "comentario": "Revogação Vetada",
+                      "dispositivo": "Art. 122, caput, Inciso 1 "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 122, caput, Inciso 3 "
+                    },
+                    {
+                      "comentario": "Revogação Vetada",
+                      "dispositivo": "Art. 122, caput, Inciso 3 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 122, § 2 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 122, § 3 "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 124, caput "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 124, § 1 "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 124, § 2 "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 124, § 3 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 132, § 2, Alínea e "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 146-B, caput, Inciso 6 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 146-B, caput, Inciso 7 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 146-B, caput, Inciso 8 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 146-C, Parágrafo Único, Inciso 8 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 146-C, Parágrafo Único, Inciso 9 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.843 de 11/04/2024",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 11/04/2024 - nº 70-B] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "39748605",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "09/10/2024",
+                "datapub": "10/10/2024",
+                "edicao": "39748625",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41, § 1 "
+                    },
+                    {
+                      "comentario": "Supressão",
+                      "dispositivo": "Art. 41, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41, § 2 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 86, § 4 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 112, caput, Inciso 6-A "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 146-E, caput "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.994 de 09/10/2024",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/10/2024] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "41808731",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "05/12/2025",
+                "datapub": "08/12/2025",
+                "edicao": "41808712",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 119-A, caput "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 146-E, caput "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 15.280 de 05/12/2025",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/12/2025] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "41853762",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "19/12/2025",
+                "datapub": "22/12/2025",
+                "edicao": "41853379",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 9-A "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 15.295 de 19/12/2025",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/12/2025] (p. 3, col. 2)",
+                "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "42931693",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "24/03/2026",
+                "datapub": "25/03/2026",
+                "edicao": "42931317",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41-A, caput "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41-A, § 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41-A, § 2 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41-B, caput "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41-B, § 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41-B, § 2 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 41-B, § 3 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 52, § 6 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 86, § 3 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 86, § 5 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 112 "
+                    },
+                    {
+                      "comentario": "Revogação",
+                      "dispositivo": "Art. 112, caput, Inciso 6-A "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 15.358 de 24/03/2026",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/03/2026] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "43271992",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "08/05/2026",
+                "datapub": "08/05/2026",
+                "edicao": "43272052",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 112 "
+                    },
+                    {
+                      "comentario": "Alteração Vetada",
+                      "dispositivo": "Art. 112, caput, Inciso 4 "
+                    },
+                    {
+                      "comentario": "Alteração Vetada",
+                      "dispositivo": "Art. 112, caput, Inciso 5 "
+                    },
+                    {
+                      "comentario": "Alteração Vetada",
+                      "dispositivo": "Art. 112, caput, Inciso 6 "
+                    },
+                    {
+                      "comentario": "Alteração Vetada",
+                      "dispositivo": "Art. 112, caput, Inciso 7 "
+                    },
+                    {
+                      "comentario": "Alteração Vetada",
+                      "dispositivo": "Art. 112, caput, Inciso 8 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 112, caput, Inciso 9 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 112, caput, Inciso 10 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 126, § 9 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 15.402 de 08/05/2026",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 08/05/2026] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "43283496",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "11/05/2026",
+                "datapub": "12/05/2026",
+                "edicao": "43283473",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 52, § 1, Inciso 3 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 52, § 1, Inciso 4 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 52, § 8 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 52, § 9 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 52, § 10 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 54, § 2 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 54, § 3 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 15.407 de 11/05/2026",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/05/2026 - nº 87] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "43304746",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "20/05/2026",
+                "datapub": "21/05/2026",
+                "edicao": "43306655",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 50, caput, Inciso 9 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 52, § 8 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 86, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 15.410 de 20/05/2026",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 21/05/2026 - nº 94] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/DetalheDocumentov3.xsd"
+  }
+}

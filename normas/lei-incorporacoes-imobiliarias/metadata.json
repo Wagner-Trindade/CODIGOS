@@ -1,0 +1,22 @@
+{
+  "alteracao_detectada_em": "2026-08-20T21:04:44-03:00",
+  "artigos_detectados": 86,
+  "caracteres_texto_normalizado": 105347,
+  "fontes": {
+    "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+    "content_type_observado": "text/html",
+    "metodo_coleta": "api-public-binario",
+    "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A1964-12-16%3B4591",
+    "texto_publico_observado": "https://normas.leg.br/api/public/binario/6c431b1c-8e7a-45ea-98bc-16265dfb1f9c/texto"
+  },
+  "id": "lei-incorporacoes-imobiliarias",
+  "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+  "referencia": {
+    "ano": 1964,
+    "numero": "4.591",
+    "tipo": "Lei"
+  },
+  "sha256_texto_normalizado": "762eb29e0ac94105eb36634838b2326f61487ea83d8e8fa25377b97054d1b9a9",
+  "titulo": "Lei de Incorporações Imobiliárias",
+  "urn": "urn:lex:br:federal:lei:1964-12-16;4591"
+}

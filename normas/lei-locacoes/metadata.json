@@ -1,0 +1,22 @@
+{
+  "alteracao_detectada_em": "2026-08-20T21:04:44-03:00",
+  "artigos_detectados": 91,
+  "caracteres_texto_normalizado": 55796,
+  "fontes": {
+    "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+    "content_type_observado": "text/html",
+    "metodo_coleta": "api-public-binario",
+    "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A1991-10-18%3B8245",
+    "texto_publico_observado": "https://normas.leg.br/api/public/binario/e27b713c-78cf-4364-9758-56fee53a579c/texto"
+  },
+  "id": "lei-locacoes",
+  "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+  "referencia": {
+    "ano": 1991,
+    "numero": "8.245",
+    "tipo": "Lei"
+  },
+  "sha256_texto_normalizado": "3791b94bd0136e4f576bd4526f57b503f822921240f4262de3417b04625e7bbf",
+  "titulo": "Lei de Locações",
+  "urn": "urn:lex:br:federal:lei:1991-10-18;8245"
+}
