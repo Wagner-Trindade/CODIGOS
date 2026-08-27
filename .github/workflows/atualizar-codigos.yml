@@ -42,7 +42,26 @@ jobs:
         run: python -m playwright install --with-deps chromium
 
       - name: Coletar, validar e comparar as normas
-        run: python scripts/atualizar_normas.py
+        shell: bash
+        run: |
+          max_tentativas=3
+
+          for tentativa in $(seq 1 "$max_tentativas"); do
+            echo "Tentativa ${tentativa}/${max_tentativas} de atualização das normas."
+
+            if python scripts/atualizar_normas.py; then
+              exit 0
+            fi
+
+            if [ "$tentativa" -lt "$max_tentativas" ]; then
+              espera=$((tentativa * 20))
+              echo "A coleta falhou. Nova tentativa em ${espera}s."
+              sleep "$espera"
+            fi
+          done
+
+          echo "A atualização falhou após ${max_tentativas} tentativas."
+          exit 1
 
       - name: Verificar se houve alteração
         id: alteracoes
