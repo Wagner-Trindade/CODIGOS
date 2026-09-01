@@ -2,14 +2,11 @@
 
 Projeto para manter, em um repositório GitHub, cópias versionadas de textos oficiais de normas jurídicas brasileiras.
 
-## Normas inicialmente cadastradas
+## Normas cadastradas
 
-- Código Civil — Lei nº 10.406/2002
-- Código de Processo Civil — Lei nº 13.105/2015
-- Código Penal — Decreto-Lei nº 2.848/1940
-- Código de Processo Penal — Decreto-Lei nº 3.689/1941
+O rol vigente está em `config/normas.yml` (entrada) e em `normas/manifesto.json` (saída, com número, URN, SHA-256 e data da última alteração detectada de cada norma). Não há lista duplicada neste README, para que não exista uma segunda versão da verdade.
 
-O rol é expansível pelo arquivo `config/normas.yml`, sem alteração do código Python nem do workflow.
+O rol é expansível pelo `config/normas.yml`, sem alteração do código Python nem do workflow.
 
 ## Fontes
 
@@ -52,6 +49,24 @@ normas/
 └── manifesto.json
 ```
 
+## Contrato de acesso
+
+Índice oficial: **`normas/manifesto.json`**. É o único índice do repositório, gerado pelo próprio script a cada execução bem-sucedida.
+
+O caminho de qualquer norma é determinístico, sem adivinhação de nome de pasta:
+
+```text
+normas/manifesto.json  →  normas[].id  →  normas/{id}/texto.txt
+```
+
+O campo `id` é validado contra `[a-z0-9][a-z0-9-]*` e é usado literalmente como nome do diretório. Exemplo: `id: "codigo-processo-civil"` → `normas/codigo-processo-civil/texto.txt`.
+
+Para consumo programático, o `raw` do arquivo é:
+
+```text
+https://raw.githubusercontent.com/Wagner-Trindade/CODIGOS/main/normas/manifesto.json
+```
+
 `fonte.txt` conserva a resposta textual recebida da fonte oficial. `texto.txt` normaliza apenas a representação técnica (HTML, Unicode, finais de linha e espaços finais), sem resumir os dispositivos. O histórico das versões anteriores fica no próprio Git.
 
 ## Horário
@@ -59,11 +74,11 @@ normas/
 O workflow está configurado para:
 
 ```yaml
-cron: "0 6 * * *"
+cron: "23 5 * * *"
 timezone: "America/Sao_Paulo"
 ```
 
-ou seja, diariamente às 06:00 no fuso de São Paulo.
+ou seja, diariamente às 05:23 no fuso de São Paulo.
 
 O GitHub informa que workflows agendados podem sofrer atraso em períodos de alta carga. Para atualização legislativa diária isso normalmente é aceitável; se a execução precisar ocorrer em segundo exato, deve-se usar um scheduler externo.
 
