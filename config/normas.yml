@@ -175,6 +175,20 @@ normas:
       minimo_caracteres: 18000
       minimo_artigos: 40
       
+  - id: "lei-registros-publicos"
+    titulo: "Lei de Registros Públicos"
+    urn: "urn:lex:br:federal:lei:1973-12-31;6015"
+    referencia:
+      tipo: "Lei"
+      numero: "6.015"
+      ano: 1973
+    validacao:
+      fragmentos_obrigatorios:
+        - "6.015"
+        - "registros públicos"
+      minimo_caracteres: 70000
+      minimo_artigos: 200
+
 # PARA ADICIONAR OUTRA NORMA:
 #
 # Copie um dos blocos acima e informe:
