@@ -582,6 +582,36 @@ def metadata_estavel(
     }
 
 
+def escrever_manifesto(cfg: dict[str, Any], timezone: str) -> None:
+    """Reconstrói o índice a partir do config e dos metadados em disco.
+
+    Não há campo volátil: o manifesto só muda de bytes quando muda a lista de
+    normas configuradas ou os metadados de alguma delas. Execução sem alteração
+    jurídica continua não gerando commit.
+    """
+    manifesto: dict[str, Any] = {
+        "timezone": timezone,
+        "normas": [],
+    }
+
+    for norma in cfg["normas"]:
+        meta_path = OUTPUT_ROOT / norma["id"] / "metadata.json"
+        if meta_path.exists():
+            try:
+                manifesto["normas"].append(
+                    json.loads(meta_path.read_text(encoding="utf-8"))
+                )
+            except json.JSONDecodeError as exc:
+                raise AtualizacaoError(
+                    f"metadata.json local inválido em {meta_path}: {exc}"
+                ) from exc
+
+    gravar_atomico(
+        OUTPUT_ROOT / "manifesto.json",
+        json.dumps(manifesto, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+    )
+
+
 def aplicar_resultados(
     resultados: list[ResultadoNorma],
     cfg: dict[str, Any],
@@ -589,15 +619,17 @@ def aplicar_resultados(
     dry_run: bool,
 ) -> list[str]:
     alteradas = [r for r in resultados if r.mudou]
+    ids = [r.config["id"] for r in alteradas]
+
+    if dry_run:
+        if alteradas:
+            print("DRY-RUN: alterações detectadas, sem gravação:", ", ".join(ids))
+        else:
+            print("DRY-RUN: nenhuma alteração textual detectada.")
+        return ids
 
     if not alteradas:
         print("Nenhuma alteração textual detectada.")
-        return []
-
-    ids = [r.config["id"] for r in alteradas]
-    if dry_run:
-        print("DRY-RUN: alterações detectadas, sem gravação:", ", ".join(ids))
-        return ids
 
     timestamp = datetime.now(ZoneInfo(timezone)).isoformat(timespec="seconds")
 
@@ -630,29 +662,9 @@ def aplicar_resultados(
             + "\n",
         )
 
-    # Manifesto geral: só é regravado quando houve alteração em alguma norma.
-    manifesto: dict[str, Any] = {
-        "gerado_em": timestamp,
-        "timezone": timezone,
-        "normas": [],
-    }
-
-    for norma in cfg["normas"]:
-        meta_path = OUTPUT_ROOT / norma["id"] / "metadata.json"
-        if meta_path.exists():
-            try:
-                manifesto["normas"].append(
-                    json.loads(meta_path.read_text(encoding="utf-8"))
-                )
-            except json.JSONDecodeError as exc:
-                raise AtualizacaoError(
-                    f"metadata.json local inválido em {meta_path}: {exc}"
-                ) from exc
-
-    gravar_atomico(
-        OUTPUT_ROOT / "manifesto.json",
-        json.dumps(manifesto, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
-    )
+    # Índice reconstruído em TODA execução bem-sucedida, inclusive quando
+    # nenhuma norma mudou, para refletir remoções feitas no config.
+    escrever_manifesto(cfg, timezone)
 
     return ids
 
