@@ -1,0 +1,22 @@
+{
+  "alteracao_detectada_em": "2026-09-01T09:23:57-03:00",
+  "artigos_detectados": 315,
+  "caracteres_texto_normalizado": 231546,
+  "fontes": {
+    "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
+    "content_type_observado": "text/html",
+    "metodo_coleta": "api-public-binario",
+    "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A1973-12-31%3B6015",
+    "texto_publico_observado": "https://normas.leg.br/api/public/binario/d59d07fc-4e2f-44bc-96c3-aa01f3931450/texto"
+  },
+  "id": "lei-registros-publicos",
+  "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
+  "referencia": {
+    "ano": 1973,
+    "numero": "6.015",
+    "tipo": "Lei"
+  },
+  "sha256_texto_normalizado": "4ff59de4fc21bd7731f44f8e11f26938e0da8babddb8f8e916e0404e1b98840a",
+  "titulo": "Lei de Registros Públicos",
+  "urn": "urn:lex:br:federal:lei:1973-12-31;6015"
+}
