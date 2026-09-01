@@ -258,7 +258,12 @@ def normalizar_para_comparacao(texto: str) -> str:
 
     if parece_html:
         soup = BeautifulSoup(bruto, "html.parser")
-        for tag in soup(["script", "style", "noscript"]):
+        # "title", "head" e "meta" ficam fora do corpo visível da norma, mas o
+        # BeautifulSoup os inclui em get_text() por padrão. Quando o documento
+        # fonte carrega um <title> truncado ou redundante (defeito observado em
+        # ao menos 4 das 12 normas coletadas via api-public-binario), esse
+        # metadado vazava como primeira linha do texto normalizado.
+        for tag in soup(["script", "style", "noscript", "title", "head", "meta"]):
             tag.decompose()
         bruto = soup.get_text("\n")
 
