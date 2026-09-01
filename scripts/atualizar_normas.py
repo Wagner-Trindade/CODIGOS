@@ -184,6 +184,30 @@ def requisicao_json_com_retry(
     )
 
 
+def preflight_senado(session: requests.Session, cfg: dict[str, Any]) -> None:
+    """Testa a alcançabilidade da API do Senado antes de iterar as normas.
+
+    Sem isto, um host inalcançável custa ~132s por norma (4 tentativas x 30s de
+    timeout + esperas), estourando o `timeout-minutes` do workflow ainda na
+    primeira das três tentativas externas. O job é cancelado sem diagnóstico e
+    sem que o laço de retry do workflow chegue a ser exercitado.
+    """
+    url = str(cfg["fontes"]["senado_urn"])
+    urn = str(cfg["normas"][0]["urn"])
+
+    try:
+        session.get(url, params={"urn": urn, "v": 3}, timeout=10)
+    except requests.RequestException as exc:
+        raise AtualizacaoError(
+            "PREFLIGHT: a API do Senado está inalcançável a partir deste "
+            f"runner ({exc.__class__.__name__}). Nenhuma norma foi consultada e "
+            "nada foi gravado. Causa típica: instabilidade de rota ou janela de "
+            "manutenção. Reexecute mais tarde."
+        ) from exc
+
+    print("Preflight: API do Senado alcançável.")
+
+
 def coletar_metadata_senado(
     session: requests.Session,
     norma: dict[str, Any],
@@ -525,6 +549,16 @@ def coletar_texto_normas(
         page.close()
 
 
+def ler_metadata_senado_anterior(norma_id: str) -> Any | None:
+    path = OUTPUT_ROOT / norma_id / "metadata-senado.json"
+    if not path.exists():
+        return None
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return None
+
+
 def ler_texto_anterior(norma_id: str) -> str | None:
     path = OUTPUT_ROOT / norma_id / "texto.txt"
     if not path.exists():
@@ -680,6 +714,8 @@ def executar(config_path: Path, dry_run: bool = False) -> int:
     print(f"Configuração: {config_path}")
     print(f"Normas cadastradas: {len(cfg['normas'])}")
 
+    preflight_senado(session, cfg)
+
     # Uma única instância do Chromium atende todas as normas.
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -693,12 +729,25 @@ def executar(config_path: Path, dry_run: bool = False) -> int:
                     anterior = ler_texto_anterior(norma_id)
                     hash_anterior = ler_hash_anterior(norma_id)
 
-                    # Consulta estruturada ao Senado.
-                    senate_metadata = coletar_metadata_senado(
-                        session=session,
-                        norma=norma,
-                        cfg=cfg,
-                    )
+                    # Consulta estruturada ao Senado. Obrigatória enquanto a
+                    # norma não tiver snapshot validado; depois disso, uma queda
+                    # da fonte acessória não derruba a coleta do texto, que vem
+                    # do normas.leg.br.
+                    snapshot_anterior = ler_metadata_senado_anterior(norma_id)
+                    try:
+                        senate_metadata = coletar_metadata_senado(
+                            session=session,
+                            norma=norma,
+                            cfg=cfg,
+                        )
+                    except AtualizacaoError:
+                        if snapshot_anterior is None:
+                            raise
+                        eprint(
+                            f"  AVISO: metadados do Senado indisponíveis; "
+                            f"reaproveitando o snapshot anterior de {titulo}."
+                        )
+                        senate_metadata = snapshot_anterior
 
                     # Mantém folga enorme em relação ao limite público da API.
                     time.sleep(0.35)
