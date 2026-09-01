@@ -3,7 +3,7 @@
     "Metadados": {
       "DataVersaoServico": "2017-02-01",
       "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
-      "Versao": "16/08/2026 16:21:17",
+      "Versao": "01/09/2026 16:00:11",
       "VersaoServico": "3"
     },
     "documentos": {
@@ -97,11 +97,6 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "37567265",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.305 de 24/08/2023"
-                    },
-                    {
                       "codNormaPosterior": "37567229",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.300 de 24/08/2023"
@@ -115,6 +110,11 @@
                       "codNormaPosterior": "37567157",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.298 de 24/08/2023"
+                    },
+                    {
+                      "codNormaPosterior": "37567265",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.305 de 24/08/2023"
                     }
                   ]
                 }
@@ -308,14 +308,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "37567265",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.305 de 24/08/2023"
-                    },
-                    {
                       "codNormaPosterior": "37567229",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.300 de 24/08/2023"
+                    },
+                    {
+                      "codNormaPosterior": "37567265",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.305 de 24/08/2023"
                     },
                     {
                       "codNormaPosterior": "37567157",
@@ -637,14 +637,14 @@
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.298 de 24/08/2023"
                     },
                     {
-                      "codNormaPosterior": "37567229",
-                      "comentario": "Declaração de Inconstitucionalidade (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.300 de 24/08/2023"
-                    },
-                    {
                       "codNormaPosterior": "37567265",
                       "comentario": "Declaração de Inconstitucionalidade (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.305 de 24/08/2023"
+                    },
+                    {
+                      "codNormaPosterior": "37567229",
+                      "comentario": "Declaração de Inconstitucionalidade (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.300 de 24/08/2023"
                     }
                   ]
                 }
@@ -2640,14 +2640,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "37567265",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.305 de 24/08/2023"
-                    },
-                    {
                       "codNormaPosterior": "37567229",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.300 de 24/08/2023"
+                    },
+                    {
+                      "codNormaPosterior": "37567265",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.305 de 24/08/2023"
                     },
                     {
                       "codNormaPosterior": "37567157",
@@ -6236,30 +6236,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "582111",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "09/06/2008",
-                "datapub": "10/06/2008",
-                "edicao": "13839401",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 581 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 581, caput, Inciso 6 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 11.689 de 09/06/2008",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/06/2008] (p. 1, col. 1)",
-                "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "582112",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -6309,6 +6285,30 @@
                 "nomeNormaPosterior": "Lei nº 11.690 de 09/06/2008",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 10/06/2008] (p. 5, col. 2)",
                 "pagina": "5",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "582111",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "09/06/2008",
+                "datapub": "10/06/2008",
+                "edicao": "13839401",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 581 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 581, caput, Inciso 6 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.689 de 09/06/2008",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/06/2008] (p. 1, col. 1)",
+                "pagina": "1",
                 "tipoEdicao": "750"
               },
               {
@@ -6993,26 +6993,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "27409167",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "14/06/2018",
-                "datapub": "22/06/2018",
-                "edicao": "27409039",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Parte do Texto Declarado Não Recepcionado pela Constituição",
-                      "dispositivo": "Art. 260, caput "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 444 de 14/06/2018",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/06/2018] (p. 2, col. 1)",
-                "pagina": "2",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "27409139",
                 "coluna": "3",
                 "comentario": "Declaração de Alteração Permanente",
@@ -7030,6 +7010,26 @@
                 "nomeNormaPosterior": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 395 de 14/06/2018",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 22/06/2018] (p. 1, col. 3)",
                 "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "27409167",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "14/06/2018",
+                "datapub": "22/06/2018",
+                "edicao": "27409039",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Parte do Texto Declarado Não Recepcionado pela Constituição",
+                      "dispositivo": "Art. 260, caput "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 444 de 14/06/2018",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/06/2018] (p. 2, col. 1)",
+                "pagina": "2",
                 "tipoEdicao": "750"
               },
               {
@@ -7093,26 +7093,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "31762995",
-                "coluna": "1",
-                "comentario": "Declaração de Constitucionalidade",
-                "datAssinatura": "07/11/2019",
-                "datapub": "26/11/2019",
-                "edicao": "31762546",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 283 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Acórdão da Ação Declaratória de Constitucionalidade nº 43 de 07/11/2019",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 26/11/2019] (p. 1, col. 1)",
-                "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "31763067",
                 "coluna": "1",
                 "comentario": "Declaração de Constitucionalidade",
@@ -7149,6 +7129,26 @@
                 },
                 "nomeNormaPosterior": "Acórdão da Ação Declaratória de Constitucionalidade nº 44 de 07/11/2019",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 26/11/2019] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "31762995",
+                "coluna": "1",
+                "comentario": "Declaração de Constitucionalidade",
+                "datAssinatura": "07/11/2019",
+                "datapub": "26/11/2019",
+                "edicao": "31762546",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 283 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Ação Declaratória de Constitucionalidade nº 43 de 07/11/2019",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 26/11/2019] (p. 1, col. 1)",
                 "pagina": "1",
                 "tipoEdicao": "750"
               },
@@ -7477,26 +7477,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "35565818",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "08/03/2022",
-                "datapub": "16/03/2022",
-                "edicao": "35564517",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 316, Parágrafo Único "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.582 de 08/03/2022",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 16/03/2022] (p. 3, col. 1)",
-                "pagina": "3",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "35565743",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -7512,6 +7492,26 @@
                   ]
                 },
                 "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.581 de 08/03/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 16/03/2022] (p. 3, col. 1)",
+                "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35565818",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "08/03/2022",
+                "datapub": "16/03/2022",
+                "edicao": "35564517",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 316, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.582 de 08/03/2022",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 16/03/2022] (p. 3, col. 1)",
                 "pagina": "3",
                 "tipoEdicao": "750"
@@ -7653,134 +7653,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "37567265",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "24/08/2023",
-                "datapub": "04/09/2023",
-                "edicao": "37566980",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-A, caput "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-B, caput, Inciso 4 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-B, caput, Inciso 6 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-B, caput, Inciso 7 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-B, caput, Inciso 8 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-B, caput, Inciso 9 "
-                    },
-                    {
-                      "comentario": "Declaração de Inconstitucionalidade",
-                      "dispositivo": "Art. 3-B, caput, Inciso 14 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-B, § 1 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-B, § 2 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-C, caput "
-                    },
-                    {
-                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
-                      "dispositivo": "Art. 3-C, caput "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-C, § 1 "
-                    },
-                    {
-                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
-                      "dispositivo": "Art. 3-C, § 1 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-C, § 2 "
-                    },
-                    {
-                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
-                      "dispositivo": "Art. 3-C, § 2 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-C, § 3 "
-                    },
-                    {
-                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
-                      "dispositivo": "Art. 3-C, § 3 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-C, § 4 "
-                    },
-                    {
-                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
-                      "dispositivo": "Art. 3-C, § 4 "
-                    },
-                    {
-                      "comentario": "Declaração de Inconstitucionalidade",
-                      "dispositivo": "Art. 3-D, caput "
-                    },
-                    {
-                      "comentario": "Declaração de Inconstitucionalidade",
-                      "dispositivo": "Art. 3-D, Parágrafo Único "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-E, caput "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 3-F, Parágrafo Único "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 28, caput "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 28, § 1 "
-                    },
-                    {
-                      "comentario": "Declaração de Inconstitucionalidade",
-                      "dispositivo": "Art. 157, § 5 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 310, caput "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 310, § 4 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.305 de 24/08/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 10, col. 1)",
-                "pagina": "10",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "37567193",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -7909,51 +7781,7 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "37567157",
-                "coluna": "1",
-                "comentario": "Declaração de Constitucionalidade",
-                "datAssinatura": "24/08/2023",
-                "datapub": "04/09/2023",
-                "edicao": "37566980",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 3-B, caput "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 3-F, caput "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, caput, Inciso 3 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, caput, Inciso 4 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, § 5 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, § 7 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, § 8 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.298 de 24/08/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 5, col. 1)",
-                "pagina": "5",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "37567157",
+                "codnormaposterior": "37567265",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "24/08/2023",
@@ -8075,53 +7903,137 @@
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.298 de 24/08/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 5, col. 1)",
-                "pagina": "5",
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.305 de 24/08/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 10, col. 1)",
+                "pagina": "10",
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "37567193",
-                "coluna": "1",
-                "comentario": "Declaração de Constitucionalidade",
+                "codnormaposterior": "37567229",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "24/08/2023",
                 "datapub": "04/09/2023",
                 "edicao": "37566980",
                 "itens": {
                   "item": [
                     {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 3-B, caput "
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-A, caput "
                     },
                     {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 3-F, caput "
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-B, caput, Inciso 4 "
                     },
                     {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, caput, Inciso 3 "
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-B, caput, Inciso 6 "
                     },
                     {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, caput, Inciso 4 "
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-B, caput, Inciso 7 "
                     },
                     {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, § 5 "
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-B, caput, Inciso 8 "
                     },
                     {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, § 7 "
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-B, caput, Inciso 9 "
                     },
                     {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 28-A, § 8 "
+                      "comentario": "Declaração de Inconstitucionalidade",
+                      "dispositivo": "Art. 3-B, caput, Inciso 14 "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-B, § 1 "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-B, § 2 "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-C, caput "
+                    },
+                    {
+                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
+                      "dispositivo": "Art. 3-C, caput "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-C, § 1 "
+                    },
+                    {
+                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
+                      "dispositivo": "Art. 3-C, § 1 "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-C, § 2 "
+                    },
+                    {
+                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
+                      "dispositivo": "Art. 3-C, § 2 "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-C, § 3 "
+                    },
+                    {
+                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
+                      "dispositivo": "Art. 3-C, § 3 "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-C, § 4 "
+                    },
+                    {
+                      "comentario": "Declaração de Inconstitucionalidade de Parte do Texto",
+                      "dispositivo": "Art. 3-C, § 4 "
+                    },
+                    {
+                      "comentario": "Declaração de Inconstitucionalidade",
+                      "dispositivo": "Art. 3-D, caput "
+                    },
+                    {
+                      "comentario": "Declaração de Inconstitucionalidade",
+                      "dispositivo": "Art. 3-D, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-E, caput "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 3-F, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 28, caput "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 28, § 1 "
+                    },
+                    {
+                      "comentario": "Declaração de Inconstitucionalidade",
+                      "dispositivo": "Art. 157, § 5 "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 310, caput "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 310, § 4 "
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.299 de 24/08/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 7, col. 1)",
-                "pagina": "7",
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.300 de 24/08/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 8, col. 2)",
+                "pagina": "8",
                 "tipoEdicao": "750"
               },
               {
@@ -8213,8 +8125,52 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "37567229",
-                "coluna": "2",
+                "codnormaposterior": "37567193",
+                "coluna": "1",
+                "comentario": "Declaração de Constitucionalidade",
+                "datAssinatura": "24/08/2023",
+                "datapub": "04/09/2023",
+                "edicao": "37566980",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 3-B, caput "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 3-F, caput "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, caput, Inciso 3 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, caput, Inciso 4 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, § 5 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, § 7 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, § 8 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.299 de 24/08/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 7, col. 1)",
+                "pagina": "7",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "37567157",
+                "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "24/08/2023",
                 "datapub": "04/09/2023",
@@ -8335,9 +8291,53 @@
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.300 de 24/08/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 8, col. 2)",
-                "pagina": "8",
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.298 de 24/08/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 5, col. 1)",
+                "pagina": "5",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "37567157",
+                "coluna": "1",
+                "comentario": "Declaração de Constitucionalidade",
+                "datAssinatura": "24/08/2023",
+                "datapub": "04/09/2023",
+                "edicao": "37566980",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 3-B, caput "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 3-F, caput "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, caput, Inciso 3 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, caput, Inciso 4 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, § 5 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, § 7 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 28-A, § 8 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.298 de 24/08/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 04/09/2023] (p. 5, col. 1)",
+                "pagina": "5",
                 "tipoEdicao": "750"
               },
               {
@@ -8467,14 +8467,14 @@
               {
                 "codnormaposterior": "41596422",
                 "coluna": "1",
-                "comentario": "Declaração de Recepção pela Constituição",
+                "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "26/09/2025",
                 "datapub": "23/10/2025",
                 "edicao": "41598113",
                 "itens": {
                   "item": [
                     {
-                      "comentario": "Dispositivo Recepcionado pela Constituição",
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
                       "dispositivo": "Art. 13, caput, Inciso 2 "
                     }
                   ]
@@ -8487,14 +8487,14 @@
               {
                 "codnormaposterior": "41596422",
                 "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
+                "comentario": "Declaração de Recepção pela Constituição",
                 "datAssinatura": "26/09/2025",
                 "datapub": "23/10/2025",
                 "edicao": "41598113",
                 "itens": {
                   "item": [
                     {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "comentario": "Dispositivo Recepcionado pela Constituição",
                       "dispositivo": "Art. 13, caput, Inciso 2 "
                     }
                   ]

@@ -3,7 +3,7 @@
     "Metadados": {
       "DataVersaoServico": "2017-02-01",
       "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
-      "Versao": "20/08/2026 21:03:30",
+      "Versao": "01/09/2026 16:00:38",
       "VersaoServico": "3"
     },
     "documentos": {
@@ -3151,19 +3151,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "548654",
-                "coluna": "1",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "12/05/1980",
-                "datapub": "13/05/1980",
-                "edicao": "13844872",
-                "itens": "",
-                "nomeNormaPosterior": "Lei nº 6.778 de 12/05/1980",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/05/1980] (p. 8483, col. 1)",
-                "pagina": "8483",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "548656",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -3174,6 +3161,19 @@
                 "nomeNormaPosterior": "Lei nº 6.780 de 12/05/1980",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 13/05/1980] (p. 8484, col. 1)",
                 "pagina": "8484",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "548654",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "12/05/1980",
+                "datapub": "13/05/1980",
+                "edicao": "13844872",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 6.778 de 12/05/1980",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/05/1980] (p. 8483, col. 1)",
+                "pagina": "8483",
                 "tipoEdicao": "750"
               },
               {
@@ -3569,19 +3569,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "550829",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "13/12/1994",
-                "datapub": "14/12/1994",
-                "edicao": "13836341",
-                "itens": "",
-                "nomeNormaPosterior": "Lei nº 8.953 de 13/12/1994",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 14/12/1994] (p. 19392, col. 2)",
-                "pagina": "19392",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "550826",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -3595,19 +3582,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "550828",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "13/12/1994",
-                "datapub": "14/12/1994",
-                "edicao": "13836341",
-                "itens": "",
-                "nomeNormaPosterior": "Lei nº 8.952 de 13/12/1994",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 14/12/1994] (p. 19391, col. 2)",
-                "pagina": "19391",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "550827",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -3617,6 +3591,32 @@
                 "itens": "",
                 "nomeNormaPosterior": "Lei nº 8.951 de 13/12/1994",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 14/12/1994] (p. 19391, col. 1)",
+                "pagina": "19391",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550829",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "13/12/1994",
+                "datapub": "14/12/1994",
+                "edicao": "13836341",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 8.953 de 13/12/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 14/12/1994] (p. 19392, col. 2)",
+                "pagina": "19392",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550828",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "13/12/1994",
+                "datapub": "14/12/1994",
+                "edicao": "13836341",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 8.952 de 13/12/1994",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 14/12/1994] (p. 19391, col. 2)",
                 "pagina": "19391",
                 "tipoEdicao": "750"
               },
@@ -5422,6 +5422,26 @@
                 "tipoEdicao": "750"
               },
               {
+                "codnormaposterior": "572816",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "07/02/2006",
+                "datapub": "08/02/2006",
+                "edicao": "13830587",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 285-A "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.277 de 07/02/2006",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/02/2006] (p. 2, col. 3)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
                 "codnormaposterior": "572815",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -5450,26 +5470,6 @@
                 },
                 "nomeNormaPosterior": "Lei nº 11.276 de 07/02/2006",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 08/02/2006] (p. 2, col. 2)",
-                "pagina": "2",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "572816",
-                "coluna": "3",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "07/02/2006",
-                "datapub": "08/02/2006",
-                "edicao": "13830587",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 285-A "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 11.277 de 07/02/2006",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/02/2006] (p. 2, col. 3)",
                 "pagina": "2",
                 "tipoEdicao": "750"
               },

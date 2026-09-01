@@ -3,7 +3,7 @@
     "Metadados": {
       "DataVersaoServico": "2017-02-01",
       "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
-      "Versao": "16/08/2026 16:21:08",
+      "Versao": "01/09/2026 15:59:58",
       "VersaoServico": "3"
     },
     "documentos": {
@@ -9133,19 +9133,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "547892",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "31/12/1973",
-                "datapub": "31/12/1973",
-                "edicao": "13829250",
-                "itens": "",
-                "nomeNormaPosterior": "Lei nº 6.016 de 31/12/1973",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/12/1973] (p. 13539, col. 2)",
-                "pagina": "13539",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "547891",
                 "coluna": "1",
                 "comentario": "Declaração de Legislação Correlata",
@@ -9163,6 +9150,19 @@
                 "nomeNormaPosterior": "Lei nº 6.015 de 31/12/1973",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 31/12/1973] (p. 13528, col. 1)",
                 "pagina": "13528",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "547892",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "31/12/1973",
+                "datapub": "31/12/1973",
+                "edicao": "13829250",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 6.016 de 31/12/1973",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/12/1973] (p. 13539, col. 2)",
+                "pagina": "13539",
                 "tipoEdicao": "750"
               },
               {
@@ -10399,26 +10399,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "388524",
-                "coluna": "1",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "21/07/1992",
-                "datapub": "22/07/1992",
-                "edicao": "13836293",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Correlato",
-                      "dispositivo": "Art. 299 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Decreto nº 612 de 21/07/1992",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/07/1992] (p. 9689, col. 1)",
-                "pagina": "9689",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "388519",
                 "coluna": "1",
                 "comentario": "Declaração de Legislação Correlata",
@@ -10436,6 +10416,26 @@
                 "nomeNormaPosterior": "Decreto nº 611 de 21/07/1992",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 22/07/1992] (p. 9665, col. 1)",
                 "pagina": "9665",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "388524",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "21/07/1992",
+                "datapub": "22/07/1992",
+                "edicao": "13836293",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 299 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 612 de 21/07/1992",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/07/1992] (p. 9689, col. 1)",
+                "pagina": "9689",
                 "tipoEdicao": "750"
               },
               {
@@ -12330,6 +12330,26 @@
                 "tipoEdicao": "750"
               },
               {
+                "codnormaposterior": "27481236",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "24/09/2018",
+                "datapub": "25/09/2018",
+                "edicao": "27481098",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 92, caput, Inciso 2 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.715 de 24/09/2018",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/09/2018] (p. 1, col. 3)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
                 "codnormaposterior": "27481078",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -12403,26 +12423,6 @@
                 "nomeNormaPosterior": "Lei nº 13.718 de 24/09/2018",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 25/09/2018] (p. 2, col. 2)",
                 "pagina": "2",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "27481236",
-                "coluna": "3",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "24/09/2018",
-                "datapub": "25/09/2018",
-                "edicao": "27481098",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 92, caput, Inciso 2 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 13.715 de 24/09/2018",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/09/2018] (p. 1, col. 3)",
-                "pagina": "1",
                 "tipoEdicao": "750"
               },
               {
@@ -13414,7 +13414,7 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "41110229",
+                "codnormaposterior": "41109625",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "03/07/2025",
@@ -13423,32 +13423,16 @@
                 "itens": {
                   "item": [
                     {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 61, caput, Inciso 2, Alínea m "
-                    },
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 121, § 2, Inciso 10, apenas o Caput  "
-                    },
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 121, § 2-C, apenas o Caput  "
-                    },
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 121, § 2-C, Inciso 1 "
-                    },
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 121, § 2-C, Inciso 2 "
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 65, caput, Inciso 1 "
                     },
                     {
                       "comentario": "Alteração",
-                      "dispositivo": "Art. 129, § 12 "
+                      "dispositivo": "Art. 115, caput "
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Lei nº 15.159 de 03/07/2025",
+                "nomeNormaPosterior": "Lei nº 15.160 de 03/07/2025",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 04/07/2025] (p. 3, col. 1)",
                 "pagina": "3",
                 "tipoEdicao": "750"
@@ -13494,7 +13478,7 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "41109625",
+                "codnormaposterior": "41110229",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "03/07/2025",
@@ -13503,16 +13487,32 @@
                 "itens": {
                   "item": [
                     {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 65, caput, Inciso 1 "
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 61, caput, Inciso 2, Alínea m "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 121, § 2, Inciso 10, apenas o Caput  "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 121, § 2-C, apenas o Caput  "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 121, § 2-C, Inciso 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 121, § 2-C, Inciso 2 "
                     },
                     {
                       "comentario": "Alteração",
-                      "dispositivo": "Art. 115, caput "
+                      "dispositivo": "Art. 129, § 12 "
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Lei nº 15.160 de 03/07/2025",
+                "nomeNormaPosterior": "Lei nº 15.159 de 03/07/2025",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 04/07/2025] (p. 3, col. 1)",
                 "pagina": "3",
                 "tipoEdicao": "750"

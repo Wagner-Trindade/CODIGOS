@@ -1,7 +1,7 @@
 {
-  "alteracao_detectada_em": "2026-08-20T21:04:44-03:00",
+  "alteracao_detectada_em": "2026-09-01T16:07:19-03:00",
   "artigos_detectados": 929,
-  "caracteres_texto_normalizado": 647434,
+  "caracteres_texto_normalizado": 647398,
   "fontes": {
     "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
     "content_type_observado": "text/html",
@@ -16,7 +16,7 @@
     "numero": "5.452",
     "tipo": "Decreto-Lei"
   },
-  "sha256_texto_normalizado": "02dfbc05b517f166dff8352531dc58e0a485ecef18f86338ffe93fe45a1dfd06",
+  "sha256_texto_normalizado": "5436fcd5180f760d423f1b8f0d7848c2ed56011dcb42b65e8af87a0b2ae847b3",
   "titulo": "Consolidação das Leis do Trabalho",
   "urn": "urn:lex:br:federal:decreto.lei:1943-05-01;5452"
 }

@@ -1,7 +1,7 @@
 {
-  "alteracao_detectada_em": "2026-08-16T16:44:56-03:00",
+  "alteracao_detectada_em": "2026-09-01T16:07:19-03:00",
   "artigos_detectados": 433,
-  "caracteres_texto_normalizado": 271074,
+  "caracteres_texto_normalizado": 271055,
   "fontes": {
     "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
     "content_type_observado": "text/html",
@@ -16,7 +16,7 @@
     "numero": "2.848",
     "tipo": "Decreto-Lei"
   },
-  "sha256_texto_normalizado": "41497f451d6bfc4267607d6bb42e2e2eab724e062a77bdc5274572a3edb50c08",
+  "sha256_texto_normalizado": "7d2d88701f6e750796f8b7da9938ff7b0c4dc8ed20f9c6d185bba796ae3b78fd",
   "titulo": "Código Penal",
   "urn": "urn:lex:br:federal:decreto.lei:1940-12-07;2848"
 }

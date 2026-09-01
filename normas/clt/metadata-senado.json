@@ -3,7 +3,7 @@
     "Metadados": {
       "DataVersaoServico": "2017-02-01",
       "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
-      "Versao": "20/08/2026 21:04:02",
+      "Versao": "01/09/2026 16:03:01",
       "VersaoServico": "3"
     },
     "documentos": {
@@ -5818,14 +5818,14 @@
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.069 de 23/06/2023"
                     },
                     {
-                      "codNormaPosterior": "37360035",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.050 de 23/06/2023"
-                    },
-                    {
                       "codNormaPosterior": "37360128",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.082 de 23/06/2023"
+                    },
+                    {
+                      "codNormaPosterior": "37360035",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.050 de 23/06/2023"
                     }
                   ]
                 }
@@ -5932,6 +5932,11 @@
                 "refs": {
                   "ref": [
                     {
+                      "codNormaPosterior": "37360128",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.082 de 23/06/2023"
+                    },
+                    {
                       "codNormaPosterior": "37360072",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.069 de 23/06/2023"
@@ -5940,11 +5945,6 @@
                       "codNormaPosterior": "37360035",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.050 de 23/06/2023"
-                    },
-                    {
-                      "codNormaPosterior": "37360128",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.082 de 23/06/2023"
                     }
                   ]
                 }
@@ -5965,14 +5965,14 @@
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.069 de 23/06/2023"
                     },
                     {
-                      "codNormaPosterior": "37360128",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.082 de 23/06/2023"
-                    },
-                    {
                       "codNormaPosterior": "37360035",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.050 de 23/06/2023"
+                    },
+                    {
+                      "codNormaPosterior": "37360128",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.082 de 23/06/2023"
                     },
                     {
                       "codNormaPosterior": "37946381",
@@ -8182,14 +8182,14 @@
                       "dispositivo": "Medida Provisória nº 992 de 16/07/2020"
                     },
                     {
-                      "codNormaPosterior": "32569991",
-                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
-                      "dispositivo": "Lei nº 14.042 de 19/08/2020"
-                    },
-                    {
                       "codNormaPosterior": "32570049",
                       "comentario": "Ressalva (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 14.043 de 19/08/2020"
+                    },
+                    {
+                      "codNormaPosterior": "32569991",
+                      "comentario": "Ressalva (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 14.042 de 19/08/2020"
                     },
                     {
                       "codNormaPosterior": "33223110",
@@ -10123,11 +10123,6 @@
                       "dispositivo": "Lei nº 13.467 de 13/07/2017"
                     },
                     {
-                      "codNormaPosterior": "40144690",
-                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
-                    },
-                    {
                       "codNormaPosterior": "40144791",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
@@ -10136,6 +10131,11 @@
                       "codNormaPosterior": "40144754",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024"
+                    },
+                    {
+                      "codNormaPosterior": "40144690",
+                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
                     }
                   ]
                 }
@@ -10174,6 +10174,11 @@
                       "dispositivo": "Lei nº 14.020 de 06/07/2020"
                     },
                     {
+                      "codNormaPosterior": "40144754",
+                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024"
+                    },
+                    {
                       "codNormaPosterior": "40144690",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
@@ -10182,11 +10187,6 @@
                       "codNormaPosterior": "40144791",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
-                    },
-                    {
-                      "codNormaPosterior": "40144754",
-                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024"
                     }
                   ]
                 }
@@ -10339,9 +10339,9 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "40144690",
+                      "codNormaPosterior": "40144754",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024"
                     },
                     {
                       "codNormaPosterior": "40144791",
@@ -10349,9 +10349,9 @@
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
                     },
                     {
-                      "codNormaPosterior": "40144754",
+                      "codNormaPosterior": "40144690",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024"
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
                     }
                   ]
                 }
@@ -10385,6 +10385,11 @@
                 "refs": {
                   "ref": [
                     {
+                      "codNormaPosterior": "40144754",
+                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024"
+                    },
+                    {
                       "codNormaPosterior": "40144690",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
@@ -10393,11 +10398,6 @@
                       "codNormaPosterior": "40144791",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
-                    },
-                    {
-                      "codNormaPosterior": "40144754",
-                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024"
                     }
                   ]
                 }
@@ -10413,14 +10413,14 @@
                       "dispositivo": "Medida Provisória nº 808 de 14/11/2017"
                     },
                     {
-                      "codNormaPosterior": "40144690",
-                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
-                    },
-                    {
                       "codNormaPosterior": "40144791",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
+                    },
+                    {
+                      "codNormaPosterior": "40144690",
+                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
                     },
                     {
                       "codNormaPosterior": "40144754",
@@ -10441,14 +10441,14 @@
                       "dispositivo": "Medida Provisória nº 808 de 14/11/2017"
                     },
                     {
-                      "codNormaPosterior": "40144690",
-                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
-                    },
-                    {
                       "codNormaPosterior": "40144791",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
+                    },
+                    {
+                      "codNormaPosterior": "40144690",
+                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
                     },
                     {
                       "codNormaPosterior": "40144754",
@@ -10464,11 +10464,6 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "40144690",
-                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
-                    },
-                    {
                       "codNormaPosterior": "40144791",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
@@ -10477,6 +10472,11 @@
                       "codNormaPosterior": "40144754",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024"
+                    },
+                    {
+                      "codNormaPosterior": "40144690",
+                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
                     }
                   ]
                 }
@@ -10487,11 +10487,6 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "40144690",
-                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
-                    },
-                    {
                       "codNormaPosterior": "40144791",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
@@ -10500,6 +10495,11 @@
                       "codNormaPosterior": "40144754",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024"
+                    },
+                    {
+                      "codNormaPosterior": "40144690",
+                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
                     }
                   ]
                 }
@@ -10515,14 +10515,14 @@
                       "dispositivo": "Medida Provisória nº 808 de 14/11/2017"
                     },
                     {
-                      "codNormaPosterior": "40144690",
-                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
-                    },
-                    {
                       "codNormaPosterior": "40144791",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
+                    },
+                    {
+                      "codNormaPosterior": "40144690",
+                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
                     },
                     {
                       "codNormaPosterior": "40144754",
@@ -10538,14 +10538,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "40144690",
-                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
-                    },
-                    {
                       "codNormaPosterior": "40144791",
                       "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024"
+                    },
+                    {
+                      "codNormaPosterior": "40144690",
+                      "comentario": "Dispositivo Declarado Constitucional (Declaração de Constitucionalidade)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.826 de 13/12/2024"
                     },
                     {
                       "codNormaPosterior": "40144754",
@@ -15495,14 +15495,14 @@
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.237 de 01/08/2018"
                     },
                     {
-                      "codNormaPosterior": "27445924",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.139 de 01/08/2018"
-                    },
-                    {
                       "codNormaPosterior": "27445954",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.160 de 01/08/2018"
+                    },
+                    {
+                      "codNormaPosterior": "27445924",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.139 de 01/08/2018"
                     }
                   ]
                 }
@@ -15513,6 +15513,11 @@
                 "refs": {
                   "ref": [
                     {
+                      "codNormaPosterior": "27445954",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.160 de 01/08/2018"
+                    },
+                    {
                       "codNormaPosterior": "27445981",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.237 de 01/08/2018"
@@ -15521,11 +15526,6 @@
                       "codNormaPosterior": "27445924",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.139 de 01/08/2018"
-                    },
-                    {
-                      "codNormaPosterior": "27445954",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.160 de 01/08/2018"
                     }
                   ]
                 }
@@ -15536,6 +15536,11 @@
                 "refs": {
                   "ref": [
                     {
+                      "codNormaPosterior": "27445954",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.160 de 01/08/2018"
+                    },
+                    {
                       "codNormaPosterior": "27445981",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.237 de 01/08/2018"
@@ -15544,11 +15549,6 @@
                       "codNormaPosterior": "27445924",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.139 de 01/08/2018"
-                    },
-                    {
-                      "codNormaPosterior": "27445954",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.160 de 01/08/2018"
                     }
                   ]
                 }
@@ -15564,14 +15564,14 @@
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.237 de 01/08/2018"
                     },
                     {
-                      "codNormaPosterior": "27445924",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.139 de 01/08/2018"
-                    },
-                    {
                       "codNormaPosterior": "27445954",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.160 de 01/08/2018"
+                    },
+                    {
+                      "codNormaPosterior": "27445924",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.139 de 01/08/2018"
                     }
                   ]
                 }
@@ -19838,16 +19838,6 @@
                       "dispositivo": "Medida Provisória nº 905 de 11/11/2019"
                     },
                     {
-                      "codNormaPosterior": "33230604",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Declaratória de Constitucionalidade nº 58 de 18/12/2020"
-                    },
-                    {
-                      "codNormaPosterior": "33230640",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Declaratória de Constitucionalidade nº 59 de 18/12/2020"
-                    },
-                    {
                       "codNormaPosterior": "33230712",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.021 de 18/12/2020"
@@ -19856,6 +19846,16 @@
                       "codNormaPosterior": "33230676",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.867 de 18/12/2020"
+                    },
+                    {
+                      "codNormaPosterior": "33230604",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Declaratória de Constitucionalidade nº 58 de 18/12/2020"
+                    },
+                    {
+                      "codNormaPosterior": "33230640",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Declaratória de Constitucionalidade nº 59 de 18/12/2020"
                     }
                   ]
                 }
@@ -20738,6 +20738,11 @@
                 "refs": {
                   "ref": [
                     {
+                      "codNormaPosterior": "33230712",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.021 de 18/12/2020"
+                    },
+                    {
                       "codNormaPosterior": "33230604",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Declaratória de Constitucionalidade nº 58 de 18/12/2020"
@@ -20746,11 +20751,6 @@
                       "codNormaPosterior": "33230640",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Declaratória de Constitucionalidade nº 59 de 18/12/2020"
-                    },
-                    {
-                      "codNormaPosterior": "33230712",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.021 de 18/12/2020"
                     },
                     {
                       "codNormaPosterior": "33230676",
@@ -22401,26 +22401,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "544625",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "18/06/1956",
-                "datapub": "22/06/1956",
-                "edicao": "13838768",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 565 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 2.802 de 18/06/1956",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/06/1956] (p. 12217, col. 2)",
-                "pagina": "12217",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "544623",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -22438,6 +22418,26 @@
                 "nomeNormaPosterior": "Lei nº 2.800 de 18/06/1956",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 25/06/1956] (p. 12313, col. 1)",
                 "pagina": "12313",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "544625",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "18/06/1956",
+                "datapub": "22/06/1956",
+                "edicao": "13838768",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 565 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 2.802 de 18/06/1956",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/06/1956] (p. 12217, col. 2)",
+                "pagina": "12217",
                 "tipoEdicao": "750"
               },
               {
@@ -22963,26 +22963,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "546679",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "05/11/1965",
-                "datapub": "08/11/1965",
-                "edicao": "13829184",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 483 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 4.825 de 05/11/1965",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/11/1965] (p. 11417, col. 1)",
-                "pagina": "11417",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "546678",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -22998,6 +22978,26 @@
                   ]
                 },
                 "nomeNormaPosterior": "Lei nº 4.824 de 05/11/1965",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/11/1965] (p. 11417, col. 1)",
+                "pagina": "11417",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "546679",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "05/11/1965",
+                "datapub": "08/11/1965",
+                "edicao": "13829184",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 483 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 4.825 de 05/11/1965",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 08/11/1965] (p. 11417, col. 1)",
                 "pagina": "11417",
                 "tipoEdicao": "750"
@@ -23120,26 +23120,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "522791",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "21/11/1966",
-                "datapub": "22/11/1966",
-                "edicao": "13838900",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 899 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Decreto-Lei nº 75 de 21/11/1966",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/11/1966] (p. 13530, col. 1)",
-                "pagina": "13530",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "522786",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -23185,6 +23165,26 @@
                 "nomeNormaPosterior": "Decreto-Lei nº 72 de 21/11/1966",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 22/11/1966] (p. 13523, col. 1)",
                 "pagina": "13523",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "522791",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "21/11/1966",
+                "datapub": "22/11/1966",
+                "edicao": "13838900",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 899 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto-Lei nº 75 de 21/11/1966",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/11/1966] (p. 13530, col. 1)",
+                "pagina": "13530",
                 "tipoEdicao": "750"
               },
               {
@@ -23914,19 +23914,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "486544",
-                "coluna": "3",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "26/12/1968",
-                "datapub": "27/12/1968",
-                "edicao": "13842549",
-                "itens": "",
-                "nomeNormaPosterior": "Decreto nº 63.912 de 26/12/1968",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/12/1968] (p. 11203, col. 3)",
-                "pagina": "11203",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "523414",
                 "coluna": "4",
                 "comentario": "Declaração de Legislação Correlata",
@@ -23937,6 +23924,19 @@
                 "nomeNormaPosterior": "Decreto-Lei nº 389 de 26/12/1968",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 27/12/1968] (p. 11202, col. 4)",
                 "pagina": "11202",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "486544",
+                "coluna": "3",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "26/12/1968",
+                "datapub": "27/12/1968",
+                "edicao": "13842549",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 63.912 de 26/12/1968",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/12/1968] (p. 11203, col. 3)",
+                "pagina": "11203",
                 "tipoEdicao": "750"
               },
               {
@@ -23988,26 +23988,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "523650",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "18/03/1969",
-                "datapub": "19/03/1969",
-                "edicao": "13844624",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 530, caput, Item 7 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Decreto-Lei nº 507 de 18/03/1969",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 19/03/1969] (p. 2338, col. 1)",
-                "pagina": "2338",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "523648",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -24023,6 +24003,26 @@
                   ]
                 },
                 "nomeNormaPosterior": "Decreto-Lei nº 506 de 18/03/1969",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 19/03/1969] (p. 2338, col. 1)",
+                "pagina": "2338",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "523650",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "18/03/1969",
+                "datapub": "19/03/1969",
+                "edicao": "13844624",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 530, caput, Item 7 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto-Lei nº 507 de 18/03/1969",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 19/03/1969] (p. 2338, col. 1)",
                 "pagina": "2338",
                 "tipoEdicao": "750"
@@ -24210,6 +24210,138 @@
                 "tipoEdicao": "750"
               },
               {
+                "codnormaposterior": "524477",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "10/10/1969",
+                "datapub": "13/10/1969",
+                "edicao": "13840326",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 13 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 14 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 15 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 16 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 17 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 18 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 18, § 1 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 18, § 2 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 19 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 20 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 21 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 21, § 1 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 21, § 2 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 22 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 23 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 24 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 25 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 30 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 31 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 32 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 33 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 35 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 36 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 37 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 39 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 40 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 50 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 52 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 138 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto-Lei nº 926 de 10/10/1969",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/10/1969] (p. 8603, col. 1)",
+                "pagina": "8603",
+                "tipoEdicao": "750"
+              },
+              {
                 "codnormaposterior": "524475",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -24363,138 +24495,6 @@
                 "nomeNormaPosterior": "Decreto-Lei nº 925 de 10/10/1969",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 13/10/1969] (p. 8601, col. 2)",
                 "pagina": "8601",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "524477",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "10/10/1969",
-                "datapub": "13/10/1969",
-                "edicao": "13840326",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 13 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 14 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 15 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 16 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 17 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 18 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 18, § 1 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 18, § 2 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 19 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 20 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 21 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 21, § 1 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 21, § 2 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 22 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 23 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 24 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 25 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 30 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 31 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 32 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 33 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 35 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 36 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 37 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 39 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 40 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 50 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 52 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 138 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Decreto-Lei nº 926 de 10/10/1969",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/10/1969] (p. 8603, col. 1)",
-                "pagina": "8603",
                 "tipoEdicao": "750"
               },
               {
@@ -24901,26 +24901,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "547963",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "16/07/1974",
-                "datapub": "17/07/1974",
-                "edicao": "13832797",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 654, § 3 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 6.087 de 16/07/1974",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 17/07/1974] (p. 8029, col. 1)",
-                "pagina": "8029",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "547966",
                 "coluna": "3",
                 "comentario": "Declaração de Alteração Permanente",
@@ -24938,6 +24918,26 @@
                 "nomeNormaPosterior": "Lei nº 6.090 de 16/07/1974",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 17/07/1974] (p. 8030, col. 3)",
                 "pagina": "8030",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "547963",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "16/07/1974",
+                "datapub": "17/07/1974",
+                "edicao": "13832797",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 654, § 3 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 6.087 de 16/07/1974",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 17/07/1974] (p. 8029, col. 1)",
+                "pagina": "8029",
                 "tipoEdicao": "750"
               },
               {
@@ -25046,26 +25046,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "548080",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "29/04/1975",
-                "datapub": "30/04/1975",
-                "edicao": "13833864",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 453 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 6.204 de 29/04/1975",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/04/1975] (p. 5073, col. 1)",
-                "pagina": "5073",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "548081",
                 "coluna": "1",
                 "comentario": "Declaração de Legislação Correlata",
@@ -25129,6 +25109,26 @@
                   ]
                 },
                 "nomeNormaPosterior": "Lei nº 6.205 de 29/04/1975",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 30/04/1975] (p. 5073, col. 1)",
+                "pagina": "5073",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "548080",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "29/04/1975",
+                "datapub": "30/04/1975",
+                "edicao": "13833864",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 453 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 6.204 de 29/04/1975",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 30/04/1975] (p. 5073, col. 1)",
                 "pagina": "5073",
                 "tipoEdicao": "750"
@@ -26180,19 +26180,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "549291",
-                "coluna": "2",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "09/12/1985",
-                "datapub": "10/12/1985",
-                "edicao": "13844902",
-                "itens": "",
-                "nomeNormaPosterior": "Lei nº 7.415 de 09/12/1985",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/12/1985] (p. 18097, col. 2)",
-                "pagina": "18097",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "549290",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -26208,6 +26195,19 @@
                   ]
                 },
                 "nomeNormaPosterior": "Lei nº 7.414 de 09/12/1985",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 10/12/1985] (p. 18097, col. 2)",
+                "pagina": "18097",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "549291",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "09/12/1985",
+                "datapub": "10/12/1985",
+                "edicao": "13844902",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 7.415 de 09/12/1985",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 10/12/1985] (p. 18097, col. 2)",
                 "pagina": "18097",
                 "tipoEdicao": "750"
@@ -26404,19 +26404,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "527217",
-                "coluna": "1",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "21/11/1986",
-                "datapub": "24/11/1986",
-                "edicao": "13831738",
-                "itens": "",
-                "nomeNormaPosterior": "Decreto-Lei nº 2.302 de 21/11/1986",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 24/11/1986] (p. 17561, col. 1)",
-                "pagina": "17561",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "527197",
                 "coluna": "2",
                 "comentario": "Declaração de Legislação Correlata",
@@ -26427,6 +26414,19 @@
                 "nomeNormaPosterior": "Decreto-Lei nº 2.292 de 21/11/1986",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 24/11/1986] (p. 17555, col. 2)",
                 "pagina": "17555",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "527217",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "21/11/1986",
+                "datapub": "24/11/1986",
+                "edicao": "13831738",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto-Lei nº 2.302 de 21/11/1986",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 24/11/1986] (p. 17561, col. 1)",
+                "pagina": "17561",
                 "tipoEdicao": "750"
               },
               {
@@ -26528,19 +26528,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "552945",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Provisória",
-                "datAssinatura": "15/01/1989",
-                "datapub": "16/01/1989",
-                "edicao": "13829446",
-                "itens": "",
-                "nomeNormaPosterior": "Medida Provisória nº 32 de 15/01/1989",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 16/01/1989] (p. 845, col. 1)",
-                "pagina": "845",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "520098",
                 "coluna": "1",
                 "comentario": "Declaração de Legislação Correlata",
@@ -26551,6 +26538,19 @@
                 "nomeNormaPosterior": "Decreto nº 97.458 de 15/01/1989",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 16/01/1989] (p. 851, col. 1)",
                 "pagina": "851",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "552945",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "15/01/1989",
+                "datapub": "16/01/1989",
+                "edicao": "13829446",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 32 de 15/01/1989",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 16/01/1989] (p. 845, col. 1)",
+                "pagina": "845",
                 "tipoEdicao": "750"
               },
               {
@@ -27780,30 +27780,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "550892",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "30/03/1995",
-                "datapub": "31/03/1995",
-                "edicao": "13834121",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 133, § 3 "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 133, § 4 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 9.016 de 30/03/1995",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/03/1995] (p. 4575, col. 1)",
-                "pagina": "4575",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "550889",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -27825,6 +27801,30 @@
                 "nomeNormaPosterior": "Lei nº 9.013 de 30/03/1995",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 31/03/1995] (p. 4573, col. 2)",
                 "pagina": "4573",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "550892",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "30/03/1995",
+                "datapub": "31/03/1995",
+                "edicao": "13834121",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 133, § 3 "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 133, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.016 de 30/03/1995",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/03/1995] (p. 4575, col. 1)",
+                "pagina": "4575",
                 "tipoEdicao": "750"
               },
               {
@@ -29056,26 +29056,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "551729",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "27/10/1999",
-                "datapub": "28/10/1999",
-                "edicao": "13841352",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 473, caput, Inciso 8 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 9.853 de 27/10/1999",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/10/1999] (p. 1, col. 2)",
-                "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "551727",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -29092,6 +29072,26 @@
                 },
                 "nomeNormaPosterior": "Lei nº 9.851 de 27/10/1999",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 28/10/1999] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "551729",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "27/10/1999",
+                "datapub": "28/10/1999",
+                "edicao": "13841352",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 473, caput, Inciso 8 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.853 de 27/10/1999",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/10/1999] (p. 1, col. 2)",
                 "pagina": "1",
                 "tipoEdicao": "750"
               },
@@ -29240,6 +29240,62 @@
                 "tipoEdicao": "750"
               },
               {
+                "codnormaposterior": "551834",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "12/01/2000",
+                "datapub": "13/01/2000",
+                "edicao": "13839121",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 625-A "
+                    },
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 625-B "
+                    },
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 625-C "
+                    },
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 625-D "
+                    },
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 625-E "
+                    },
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 625-F "
+                    },
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 625-G "
+                    },
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 625-H "
+                    },
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 876 "
+                    },
+                    {
+                      "comentario": "Encerramento de Vigência",
+                      "dispositivo": "Art. 877-A "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 9.958 de 12/01/2000",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/01/2000] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
                 "codnormaposterior": "551833",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -29305,62 +29361,6 @@
                 "nomeNormaPosterior": "Lei nº 9.957 de 12/01/2000",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 13/01/2000] (p. 1, col. 2)",
                 "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "551834",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "12/01/2000",
-                "datapub": "13/01/2000",
-                "edicao": "13839121",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 625-A "
-                    },
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 625-B "
-                    },
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 625-C "
-                    },
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 625-D "
-                    },
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 625-E "
-                    },
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 625-F "
-                    },
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 625-G "
-                    },
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 625-H "
-                    },
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 876 "
-                    },
-                    {
-                      "comentario": "Encerramento de Vigência",
-                      "dispositivo": "Art. 877-A "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 9.958 de 12/01/2000",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 13/01/2000] (p. 2, col. 2)",
-                "pagina": "2",
                 "tipoEdicao": "750"
               },
               {
@@ -30568,6 +30568,26 @@
                 "tipoEdicao": "750"
               },
               {
+                "codnormaposterior": "558771",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "27/03/2001",
+                "datapub": "28/03/2001",
+                "edicao": "13843620",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 467, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 2.102-29 de 27/03/2001",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/03/2001] (p. 8, col. 1)",
+                "pagina": "8",
+                "tipoEdicao": "750"
+              },
+              {
                 "codnormaposterior": "558631",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Provisória",
@@ -30624,26 +30644,6 @@
                 "tipoEdicao": "723"
               },
               {
-                "codnormaposterior": "558771",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Provisória",
-                "datAssinatura": "27/03/2001",
-                "datapub": "28/03/2001",
-                "edicao": "13843620",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 467, Parágrafo Único "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Medida Provisória nº 2.102-29 de 27/03/2001",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/03/2001] (p. 8, col. 1)",
-                "pagina": "8",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "552094",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -30665,26 +30665,6 @@
                 "nomeNormaPosterior": "Lei nº 10.218 de 11/04/2001",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 12/04/2001] (p. 1, col. 2)",
                 "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "558772",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Provisória",
-                "datAssinatura": "26/04/2001",
-                "datapub": "27/04/2001",
-                "edicao": "13832596",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 467, Parágrafo Único "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Medida Provisória nº 2.102-30 de 26/04/2001",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/04/2001] (p. 9, col. 2)",
-                "pagina": "9",
                 "tipoEdicao": "750"
               },
               {
@@ -30744,12 +30724,12 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "558773",
-                "coluna": "3",
+                "codnormaposterior": "558772",
+                "coluna": "2",
                 "comentario": "Declaração de Alteração Provisória",
-                "datAssinatura": "24/05/2001",
-                "datapub": "25/05/2001",
-                "edicao": "13836975",
+                "datAssinatura": "26/04/2001",
+                "datapub": "27/04/2001",
+                "edicao": "13832596",
                 "itens": {
                   "item": [
                     {
@@ -30758,9 +30738,9 @@
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Medida Provisória nº 2.102-31 de 24/05/2001",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/05/2001] (p. 19, col. 3)",
-                "pagina": "19",
+                "nomeNormaPosterior": "Medida Provisória nº 2.102-30 de 26/04/2001",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 27/04/2001] (p. 9, col. 2)",
+                "pagina": "9",
                 "tipoEdicao": "750"
               },
               {
@@ -30820,6 +30800,26 @@
                 "tipoEdicao": "750"
               },
               {
+                "codnormaposterior": "558773",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "24/05/2001",
+                "datapub": "25/05/2001",
+                "edicao": "13836975",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 467, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 2.102-31 de 24/05/2001",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/05/2001] (p. 19, col. 3)",
+                "pagina": "19",
+                "tipoEdicao": "750"
+              },
+              {
                 "codnormaposterior": "552119",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -30849,6 +30849,26 @@
                 "nomeNormaPosterior": "Lei nº 10.243 de 19/06/2001",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 20/06/2001] (p. 1, col. 2)",
                 "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "558774",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "21/06/2001",
+                "datapub": "22/06/2001",
+                "edicao": "13832558",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 467, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 2.102-32 de 21/06/2001",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/06/2001] (p. 19, col. 2)",
+                "pagina": "19",
                 "tipoEdicao": "750"
               },
               {
@@ -30908,26 +30928,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "558774",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Provisória",
-                "datAssinatura": "21/06/2001",
-                "datapub": "22/06/2001",
-                "edicao": "13832558",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 467, Parágrafo Único "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Medida Provisória nº 2.102-32 de 21/06/2001",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/06/2001] (p. 19, col. 2)",
-                "pagina": "19",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "552120",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -30945,26 +30945,6 @@
                 "nomeNormaPosterior": "Lei nº 10.244 de 27/06/2001",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 28/06/2001] (p. 1, col. 1)",
                 "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "559040",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Provisória",
-                "datAssinatura": "28/06/2001",
-                "datapub": "29/06/2001",
-                "edicao": "13843615",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 467, Parágrafo Único "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Medida Provisória nº 2.180-33 de 28/06/2001",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/06/2001] (p. 57, col. 2)",
-                "pagina": "57",
                 "tipoEdicao": "750"
               },
               {
@@ -31021,6 +31001,26 @@
                 "nomeNormaPosterior": "Medida Provisória nº 2.164-39 de 28/06/2001",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 29/06/2001] (p. 32, col. 3)",
                 "pagina": "32",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "559040",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "28/06/2001",
+                "datapub": "29/06/2001",
+                "edicao": "13843615",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 467, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 2.180-33 de 28/06/2001",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 29/06/2001] (p. 57, col. 2)",
+                "pagina": "57",
                 "tipoEdicao": "750"
               },
               {
@@ -31424,26 +31424,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "572647",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "22/06/2007",
-                "datapub": "25/06/2007",
-                "edicao": "13843980",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 836 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 11.495 de 22/06/2007",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/06/2007] (p. 1, col. 1)",
-                "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "572648",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -31464,6 +31444,26 @@
                 },
                 "nomeNormaPosterior": "Lei nº 11.496 de 22/06/2007",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 25/06/2007] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "572647",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "22/06/2007",
+                "datapub": "25/06/2007",
+                "edicao": "13843980",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 836 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 11.495 de 22/06/2007",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/06/2007] (p. 1, col. 1)",
                 "pagina": "1",
                 "tipoEdicao": "750"
               },
@@ -32333,26 +32333,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "17653295",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "13/03/2017",
-                "datapub": "14/03/2017",
-                "edicao": "17653272",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 457 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 13.419 de 13/03/2017",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 14/03/2017] (p. 1, col. 1)",
-                "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "17653330",
                 "coluna": "3",
                 "comentario": "Declaração de Alteração Permanente",
@@ -32397,6 +32377,26 @@
                 },
                 "nomeNormaPosterior": "Lei nº 13.420 de 13/03/2017",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 14/03/2017] (p. 1, col. 3)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "17653295",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "13/03/2017",
+                "datapub": "14/03/2017",
+                "edicao": "17653272",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 457 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.419 de 13/03/2017",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 14/03/2017] (p. 1, col. 1)",
                 "pagina": "1",
                 "tipoEdicao": "750"
               },
@@ -33931,6 +33931,30 @@
               {
                 "codnormaposterior": "31667327",
                 "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "11/11/2019",
+                "datapub": "12/11/2019",
+                "edicao": "31666856",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 481 "
+                    },
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 855-B "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 905 de 11/11/2019",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/11/2019] (p. 5, col. 2)",
+                "pagina": "5",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "31667327",
+                "coluna": "2",
                 "comentario": "Declaração de Alteração Provisória",
                 "datAssinatura": "11/11/2019",
                 "datapub": "12/11/2019",
@@ -34465,30 +34489,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "31667327",
-                "coluna": "2",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "11/11/2019",
-                "datapub": "12/11/2019",
-                "edicao": "31666856",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Correlato",
-                      "dispositivo": "Art. 481 "
-                    },
-                    {
-                      "comentario": "Dispositivo Correlato",
-                      "dispositivo": "Art. 855-B "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Medida Provisória nº 905 de 11/11/2019",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/11/2019] (p. 5, col. 2)",
-                "pagina": "5",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "31994752",
                 "coluna": "1",
                 "comentario": "Declaração de Legislação Correlata",
@@ -34657,26 +34657,6 @@
               {
                 "codnormaposterior": "32432200",
                 "coluna": "2",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "06/07/2020",
-                "datapub": "07/07/2020",
-                "edicao": "32432080",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Correlato",
-                      "dispositivo": "Art. 443, § 3 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 14.020 de 06/07/2020",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2020] (p. 1, col. 2)",
-                "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "32432200",
-                "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "06/07/2020",
                 "datapub": "07/07/2020",
@@ -34771,6 +34751,26 @@
                 "tipoEdicao": "750"
               },
               {
+                "codnormaposterior": "32432200",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "06/07/2020",
+                "datapub": "07/07/2020",
+                "edicao": "32432080",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 443, § 3 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.020 de 06/07/2020",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2020] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
                 "codnormaposterior": "32494953",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Provisória",
@@ -34831,30 +34831,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "33230604",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "18/12/2020",
-                "datapub": "12/02/2021",
-                "edicao": "33230346",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 879, § 7 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 899, § 4 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Acórdão da Ação Declaratória de Constitucionalidade nº 58 de 18/12/2020",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/02/2021] (p. 1, col. 1)",
-                "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "33230676",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -34876,30 +34852,6 @@
                 "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.867 de 18/12/2020",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 12/02/2021] (p. 2, col. 1)",
                 "pagina": "2",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "33230640",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "18/12/2020",
-                "datapub": "12/02/2021",
-                "edicao": "33230346",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 879, § 7 "
-                    },
-                    {
-                      "comentario": "Declaração de Interpretação conforme a Constituição",
-                      "dispositivo": "Art. 899, § 4 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Acórdão da Ação Declaratória de Constitucionalidade nº 59 de 18/12/2020",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/02/2021] (p. 1, col. 2)",
-                "pagina": "1",
                 "tipoEdicao": "750"
               },
               {
@@ -34927,6 +34879,54 @@
                 "tipoEdicao": "750"
               },
               {
+                "codnormaposterior": "33230604",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "18/12/2020",
+                "datapub": "12/02/2021",
+                "edicao": "33230346",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 879, § 7 "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 899, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Ação Declaratória de Constitucionalidade nº 58 de 18/12/2020",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/02/2021] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "33230640",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "18/12/2020",
+                "datapub": "12/02/2021",
+                "edicao": "33230346",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 879, § 7 "
+                    },
+                    {
+                      "comentario": "Declaração de Interpretação conforme a Constituição",
+                      "dispositivo": "Art. 899, § 4 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Ação Declaratória de Constitucionalidade nº 59 de 18/12/2020",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 12/02/2021] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
                 "codnormaposterior": "33223110",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Provisória",
@@ -34947,19 +34947,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "33668224",
-                "coluna": "1",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "27/04/2021",
-                "datapub": "28/04/2021",
-                "edicao": "33668050",
-                "itens": "",
-                "nomeNormaPosterior": "Medida Provisória nº 1.046 de 27/04/2021",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/04/2021] (p. 5, col. 1)",
-                "pagina": "5",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "33668301",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Provisória",
@@ -34977,6 +34964,19 @@
                 "nomeNormaPosterior": "Medida Provisória nº 1.045 de 27/04/2021",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 28/04/2021] (p. 2, col. 1)",
                 "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "33668224",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "27/04/2021",
+                "datapub": "28/04/2021",
+                "edicao": "33668050",
+                "itens": "",
+                "nomeNormaPosterior": "Medida Provisória nº 1.046 de 27/04/2021",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/04/2021] (p. 5, col. 1)",
+                "pagina": "5",
                 "tipoEdicao": "750"
               },
               {
@@ -35103,30 +35103,6 @@
               {
                 "codnormaposterior": "35127852",
                 "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "10/11/2021",
-                "datapub": "11/11/2021",
-                "edicao": "35127829",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Ressalva",
-                      "dispositivo": "Art. 445, Parágrafo Único "
-                    },
-                    {
-                      "comentario": "Ressalva",
-                      "dispositivo": "Art. 479 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Decreto nº 10.854 de 10/11/2021",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 11/11/2021] (p. 2, col. 1)",
-                "pagina": "2",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "35127852",
-                "coluna": "1",
                 "comentario": "Declaração de Regulamentação Permanente de Norma",
                 "datAssinatura": "10/11/2021",
                 "datapub": "11/11/2021",
@@ -35152,6 +35128,30 @@
                     {
                       "comentario": "Regulamentado",
                       "dispositivo": "Art. 634, caput "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 10.854 de 10/11/2021",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 11/11/2021] (p. 2, col. 1)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35127852",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "10/11/2021",
+                "datapub": "11/11/2021",
+                "edicao": "35127829",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 445, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Ressalva",
+                      "dispositivo": "Art. 479 "
                     }
                   ]
                 },
@@ -35213,26 +35213,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "35606151",
-                "coluna": "2",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "25/03/2022",
-                "datapub": "28/03/2022",
-                "edicao": "35606020",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Correlato",
-                      "dispositivo": "Art. 75-B "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Medida Provisória nº 1.109 de 25/03/2022",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/03/2022] (p. 7, col. 2)",
-                "pagina": "7",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "35606115",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Provisória",
@@ -35266,6 +35246,26 @@
                 "nomeNormaPosterior": "Medida Provisória nº 1.108 de 25/03/2022",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 28/03/2022] (p. 6, col. 2)",
                 "pagina": "6",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "35606151",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "25/03/2022",
+                "datapub": "28/03/2022",
+                "edicao": "35606020",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 75-B "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.109 de 25/03/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/03/2022] (p. 7, col. 2)",
+                "pagina": "7",
                 "tipoEdicao": "750"
               },
               {
@@ -35579,26 +35579,6 @@
               {
                 "codnormaposterior": "36328477",
                 "coluna": "1",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "02/09/2022",
-                "datapub": "05/09/2022",
-                "edicao": "36328361",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Correlato",
-                      "dispositivo": "Art. 457, § 2 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 14.442 de 02/09/2022",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 05/09/2022] (p. 4, col. 1)",
-                "pagina": "4",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "36328477",
-                "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "02/09/2022",
                 "datapub": "05/09/2022",
@@ -35633,23 +35613,23 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "36360116",
+                "codnormaposterior": "36328477",
                 "coluna": "1",
                 "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "21/09/2022",
-                "datapub": "22/09/2022",
-                "edicao": "36359569",
+                "datAssinatura": "02/09/2022",
+                "datapub": "05/09/2022",
+                "edicao": "36328361",
                 "itens": {
                   "item": [
                     {
                       "comentario": "Dispositivo Correlato",
-                      "dispositivo": "Art. 75-A "
+                      "dispositivo": "Art. 457, § 2 "
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Lei nº 14.457 de 21/09/2022",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/09/2022] (p. 10, col. 1)",
-                "pagina": "10",
+                "nomeNormaPosterior": "Lei nº 14.442 de 02/09/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 05/09/2022] (p. 4, col. 1)",
+                "pagina": "4",
                 "tipoEdicao": "750"
               },
               {
@@ -35684,6 +35664,26 @@
                     {
                       "comentario": "Ressalva",
                       "dispositivo": "Art. 476-A, § 2 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.457 de 21/09/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/09/2022] (p. 10, col. 1)",
+                "pagina": "10",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "36360116",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "21/09/2022",
+                "datapub": "22/09/2022",
+                "edicao": "36359569",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 75-A "
                     }
                   ]
                 },
@@ -35733,7 +35733,7 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "37360072",
+                "codnormaposterior": "37360128",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "23/06/2023",
@@ -35759,7 +35759,7 @@
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.069 de 23/06/2023",
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.082 de 23/06/2023",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2023] (p. 2, col. 1)",
                 "pagina": "2",
                 "tipoEdicao": "750"
@@ -35797,7 +35797,7 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "37360128",
+                "codnormaposterior": "37360072",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "23/06/2023",
@@ -35823,33 +35823,9 @@
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.082 de 23/06/2023",
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.069 de 23/06/2023",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2023] (p. 2, col. 1)",
                 "pagina": "2",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "37502920",
-                "coluna": "1",
-                "comentario": "Declaração de Constitucionalidade",
-                "datAssinatura": "30/06/2023",
-                "datapub": "21/08/2023",
-                "edicao": "37502854",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 59-A, caput "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 59-A, Parágrafo Único "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.994 de 30/06/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 21/08/2023] (p. 1, col. 1)",
-                "pagina": "1",
                 "tipoEdicao": "750"
               },
               {
@@ -35906,6 +35882,30 @@
                 "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.322 de 30/06/2023",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 12/07/2023] (p. 3, col. 1)",
                 "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "37502920",
+                "coluna": "1",
+                "comentario": "Declaração de Constitucionalidade",
+                "datAssinatura": "30/06/2023",
+                "datapub": "21/08/2023",
+                "edicao": "37502854",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 59-A, caput "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 59-A, Parágrafo Único "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.994 de 30/06/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 21/08/2023] (p. 1, col. 1)",
+                "pagina": "1",
                 "tipoEdicao": "750"
               },
               {
@@ -36017,26 +36017,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "37640249",
-                "coluna": "2",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "20/09/2023",
-                "datapub": "21/09/2023",
-                "edicao": "37640221",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Correlato",
-                      "dispositivo": "Art. 396 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 14.683 de 20/09/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 21/09/2023] (p. 4, col. 2)",
-                "pagina": "4",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "37640279",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
@@ -36054,6 +36034,26 @@
                 "nomeNormaPosterior": "Lei nº 14.684 de 20/09/2023",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 21/09/2023] (p. 5, col. 1)",
                 "pagina": "5",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "37640249",
+                "coluna": "2",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "20/09/2023",
+                "datapub": "21/09/2023",
+                "edicao": "37640221",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 396 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.683 de 20/09/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 21/09/2023] (p. 4, col. 2)",
+                "pagina": "4",
                 "tipoEdicao": "750"
               },
               {
@@ -36301,70 +36301,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "40144754",
-                "coluna": "2",
-                "comentario": "Declaração de Constitucionalidade",
-                "datAssinatura": "13/12/2024",
-                "datapub": "08/01/2025",
-                "edicao": "40144227",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 443, caput "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 443, § 3 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 452-A, § 1 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 452-A, § 2 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 452-A, § 3 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 452-A, § 4 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 452-A, § 5 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 452-A, § 6 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 452-A, § 7 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 452-A, § 8 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 452-A, § 9 "
-                    },
-                    {
-                      "comentario": "Dispositivo Declarado Constitucional",
-                      "dispositivo": "Art. 611-A, Inciso 8 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/01/2025] (p. 6, col. 2)",
-                "pagina": "6",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "40144791",
                 "coluna": "1",
                 "comentario": "Declaração de Constitucionalidade",
@@ -36426,6 +36362,70 @@
                 "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.154 de 13/12/2024",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 08/01/2025] (p. 7, col. 1)",
                 "pagina": "7",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "40144754",
+                "coluna": "2",
+                "comentario": "Declaração de Constitucionalidade",
+                "datAssinatura": "13/12/2024",
+                "datapub": "08/01/2025",
+                "edicao": "40144227",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 443, caput "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 443, § 3 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 452-A, § 1 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 452-A, § 2 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 452-A, § 3 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 452-A, § 4 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 452-A, § 5 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 452-A, § 6 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 452-A, § 7 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 452-A, § 8 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 452-A, § 9 "
+                    },
+                    {
+                      "comentario": "Dispositivo Declarado Constitucional",
+                      "dispositivo": "Art. 611-A, Inciso 8 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.829 de 13/12/2024",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/01/2025] (p. 6, col. 2)",
+                "pagina": "6",
                 "tipoEdicao": "750"
               },
               {

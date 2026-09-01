@@ -1,7 +1,7 @@
 {
-  "alteracao_detectada_em": "2026-08-20T21:04:44-03:00",
+  "alteracao_detectada_em": "2026-09-01T16:07:19-03:00",
   "artigos_detectados": 219,
-  "caracteres_texto_normalizado": 112431,
+  "caracteres_texto_normalizado": 112420,
   "fontes": {
     "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
     "content_type_observado": "text/html",
@@ -16,7 +16,7 @@
     "numero": "7.210",
     "tipo": "Lei"
   },
-  "sha256_texto_normalizado": "3493c0e6d0c627b2c3424c20a210921312cf4c41883d58d3aac42827b6201e0f",
+  "sha256_texto_normalizado": "f3714ef5d9ac598bf0a24fff17473179c1dd313bb6891d83ae8a522142d22b26",
   "titulo": "Lei de Execução Penal",
   "urn": "urn:lex:br:federal:lei:1984-07-11;7210"
 }
