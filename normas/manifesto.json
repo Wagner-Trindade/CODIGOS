@@ -155,15 +155,15 @@
       "urn": "urn:lex:br:federal:decreto.lei:1943-05-01;5452"
     },
     {
-      "alteracao_detectada_em": "2026-08-20T21:04:44-03:00",
-      "artigos_detectados": 204,
-      "caracteres_texto_normalizado": 107267,
+      "alteracao_detectada_em": "2026-09-11T09:56:54-03:00",
+      "artigos_detectados": 224,
+      "caracteres_texto_normalizado": 138488,
       "fontes": {
         "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
         "content_type_observado": "text/html",
         "metodo_coleta": "api-public-binario",
         "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A1966-10-25%3B5172",
-        "texto_publico_observado": "https://normas.leg.br/api/public/binario/f552ffab-482c-4eb2-8973-fa3fa18f29e0/texto"
+        "texto_publico_observado": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto"
       },
       "id": "codigo-tributario-nacional",
       "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
@@ -172,7 +172,7 @@
         "numero": "5.172",
         "tipo": "Lei"
       },
-      "sha256_texto_normalizado": "58b017a6775f8b3dff65957b5c71a8bbf05dbc24328a02715f5d1c22a3252249",
+      "sha256_texto_normalizado": "16c6f9c57540ade9d3659ea9cd52a0af034b6cb456f150fe257462316390c8c1",
       "titulo": "Código Tributário Nacional",
       "urn": "urn:lex:br:federal:lei:1966-10-25;5172"
     },
