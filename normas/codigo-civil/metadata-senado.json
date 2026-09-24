@@ -3,7 +3,7 @@
     "Metadados": {
       "DataVersaoServico": "2017-02-01",
       "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
-      "Versao": "16/08/2026 16:19:28",
+      "Versao": "24/09/2026 10:38:41",
       "VersaoServico": "3"
     },
     "documentos": {
@@ -1955,14 +1955,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "38544244",
-                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
-                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.792 de 22/05/2024"
-                    },
-                    {
                       "codNormaPosterior": "38544179",
                       "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
                       "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.055 de 22/05/2024"
+                    },
+                    {
+                      "codNormaPosterior": "38544244",
+                      "comentario": "Declaração de Interpretação conforme a Constituição (Declaração de Alteração Permanente)",
+                      "dispositivo": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.792 de 22/05/2024"
                     }
                   ]
                 }
@@ -7543,14 +7543,7 @@
                 "datAssinatura": "16/02/2006",
                 "datapub": "17/02/2006",
                 "edicao": "13830584",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Revogação de Parte do Texto",
-                      "dispositivo": "Art. 194 "
-                    }
-                  ]
-                },
+                "itens": "",
                 "nomeNormaPosterior": "Lei nº 11.280 de 16/02/2006",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 17/02/2006] (p. 2, col. 2)",
                 "pagina": "2",
@@ -7563,7 +7556,14 @@
                 "datAssinatura": "16/02/2006",
                 "datapub": "17/02/2006",
                 "edicao": "13830584",
-                "itens": "",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Revogação de Parte do Texto",
+                      "dispositivo": "Art. 194 "
+                    }
+                  ]
+                },
                 "nomeNormaPosterior": "Lei nº 11.280 de 16/02/2006",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 17/02/2006] (p. 2, col. 2)",
                 "pagina": "2",
@@ -8513,32 +8513,6 @@
                 "datAssinatura": "06/07/2015",
                 "datapub": "07/07/2015",
                 "edicao": "13828862",
-                "itens": "",
-                "nomeNormaPosterior": "Lei nº 13.146 de 06/07/2015",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2015] (p. 2, col. 2)",
-                "pagina": "2",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "584958",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "06/07/2015",
-                "datapub": "07/07/2015",
-                "edicao": "13828862",
-                "itens": "",
-                "nomeNormaPosterior": "Lei nº 13.146 de 06/07/2015",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2015] (p. 2, col. 2)",
-                "pagina": "2",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "584958",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "06/07/2015",
-                "datapub": "07/07/2015",
-                "edicao": "13828862",
                 "itens": {
                   "item": [
                     {
@@ -8675,6 +8649,32 @@
                     }
                   ]
                 },
+                "nomeNormaPosterior": "Lei nº 13.146 de 06/07/2015",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2015] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "584958",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "06/07/2015",
+                "datapub": "07/07/2015",
+                "edicao": "13828862",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 13.146 de 06/07/2015",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2015] (p. 2, col. 2)",
+                "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "584958",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "06/07/2015",
+                "datapub": "07/07/2015",
+                "edicao": "13828862",
+                "itens": "",
                 "nomeNormaPosterior": "Lei nº 13.146 de 06/07/2015",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 07/07/2015] (p. 2, col. 2)",
                 "pagina": "2",
@@ -9177,6 +9177,19 @@
                 "datAssinatura": "22/11/2017",
                 "datapub": "23/11/2017",
                 "edicao": "26288571",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 13.509 de 22/11/2017",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 23/11/2017] (p. 1, col. 3)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "26288660",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "22/11/2017",
+                "datapub": "23/11/2017",
+                "edicao": "26288571",
                 "itens": {
                   "item": [
                     {
@@ -9191,16 +9204,16 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "26288660",
-                "coluna": "3",
+                "codnormaposterior": "26314458",
+                "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "22/11/2017",
-                "datapub": "23/11/2017",
-                "edicao": "26288571",
+                "datAssinatura": "07/12/2017",
+                "datapub": "08/12/2017",
+                "edicao": "26314430",
                 "itens": "",
-                "nomeNormaPosterior": "Lei nº 13.509 de 22/11/2017",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 23/11/2017] (p. 1, col. 3)",
-                "pagina": "1",
+                "nomeNormaPosterior": "Lei nº 13.532 de 07/12/2017",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/12/2017] (p. 7, col. 1)",
+                "pagina": "7",
                 "tipoEdicao": "750"
               },
               {
@@ -9222,19 +9235,6 @@
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Lei nº 13.532 de 07/12/2017",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 08/12/2017] (p. 7, col. 1)",
-                "pagina": "7",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "26314458",
-                "coluna": "1",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "07/12/2017",
-                "datapub": "08/12/2017",
-                "edicao": "26314430",
-                "itens": "",
                 "nomeNormaPosterior": "Lei nº 13.532 de 07/12/2017",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 08/12/2017] (p. 7, col. 1)",
                 "pagina": "7",
@@ -10843,6 +10843,19 @@
                 "datAssinatura": "27/06/2022",
                 "datapub": "28/06/2022",
                 "edicao": "36009492",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 14.382 de 27/06/2022",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/06/2022] (p. 4, col. 2)",
+                "pagina": "4",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "36009982",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "27/06/2022",
+                "datapub": "28/06/2022",
+                "edicao": "36009492",
                 "itens": {
                   "item": [
                     {
@@ -10903,19 +10916,6 @@
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Lei nº 14.382 de 27/06/2022",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 28/06/2022] (p. 4, col. 2)",
-                "pagina": "4",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "36009982",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "27/06/2022",
-                "datapub": "28/06/2022",
-                "edicao": "36009492",
-                "itens": "",
                 "nomeNormaPosterior": "Lei nº 14.382 de 27/06/2022",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 28/06/2022] (p. 4, col. 2)",
                 "pagina": "4",

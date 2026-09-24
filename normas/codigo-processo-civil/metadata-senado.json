@@ -3,7 +3,7 @@
     "Metadados": {
       "DataVersaoServico": "2017-02-01",
       "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
-      "Versao": "16/08/2026 16:20:17",
+      "Versao": "24/09/2026 10:39:32",
       "VersaoServico": "3"
     },
     "documentos": {
@@ -1817,13 +1817,6 @@
                 "codnormaAnterior": "552282",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "10/01/2002",
-                "itens": "",
-                "nomeNormaAnterior": "Lei nº 10.406 de 10/01/2002"
-              },
-              {
-                "codnormaAnterior": "552282",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "10/01/2002",
                 "itens": {
                   "item": [
                     {
@@ -1880,6 +1873,13 @@
                     }
                   ]
                 },
+                "nomeNormaAnterior": "Lei nº 10.406 de 10/01/2002"
+              },
+              {
+                "codnormaAnterior": "552282",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "10/01/2002",
+                "itens": "",
                 "nomeNormaAnterior": "Lei nº 10.406 de 10/01/2002"
               },
               {
@@ -2815,36 +2815,16 @@
                 "tipoEdicao": "723"
               },
               {
-                "codnormaposterior": "37756699",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "30/10/2023",
-                "datapub": "31/10/2023",
-                "edicao": "37756719",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 784, caput, Inciso 11-A "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 14.711 de 30/10/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/10/2023 - nº 207] (p. 1, col. 2)",
-                "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "37756699",
+                "codnormaposterior": "37757044",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "30/10/2023",
                 "datapub": "31/10/2023",
                 "edicao": "37756719",
                 "itens": "",
-                "nomeNormaPosterior": "Lei nº 14.711 de 30/10/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/10/2023 - nº 207] (p. 1, col. 2)",
-                "pagina": "1",
+                "nomeNormaPosterior": "Lei nº 14.713 de 30/10/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/10/2023 - nº 207] (p. 6, col. 2)",
+                "pagina": "6",
                 "tipoEdicao": "750"
               },
               {
@@ -2868,16 +2848,36 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "37757044",
+                "codnormaposterior": "37756699",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "30/10/2023",
                 "datapub": "31/10/2023",
                 "edicao": "37756719",
                 "itens": "",
-                "nomeNormaPosterior": "Lei nº 14.713 de 30/10/2023",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/10/2023 - nº 207] (p. 6, col. 2)",
-                "pagina": "6",
+                "nomeNormaPosterior": "Lei nº 14.711 de 30/10/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/10/2023 - nº 207] (p. 1, col. 2)",
+                "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "37756699",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "30/10/2023",
+                "datapub": "31/10/2023",
+                "edicao": "37756719",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 784, caput, Inciso 11-A "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 14.711 de 30/10/2023",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/10/2023 - nº 207] (p. 1, col. 2)",
+                "pagina": "1",
                 "tipoEdicao": "750"
               },
               {

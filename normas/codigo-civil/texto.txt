@@ -280,7 +280,7 @@ Art. 49-A. A pessoa jurídica não se confunde com os seus sócios, associados, 
 
 Parágrafo único. A autonomia patrimonial das pessoas jurídicas é um instrumento lícito de alocação e segregação de riscos, estabelecido pela lei com a finalidade de estimular empreendimentos, para a geração de empregos, tributo, renda e inovação em benefício de todos. (Incluído por Lei nº 13.874 de 20/09/2019)
 
-Art. 50. Em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pode o juiz, a requerimento da parte, ou do Ministério Público quando lhe couber intervir no processo, desconsiderá-la para que os efeitos de certas e determinadas relações de obrigações sejam estendidos aos bens particulares de administradores ou de sócios da pessoa jurídica beneficiados direta ou indiretamente pelo abuso. (Redação dada por Medida Provisória nº 881 de 30/04/2019) (Redação dada) (Ressalva de aplicação por Lei Complementar nº 182 de 01/06/2021)
+Art. 50. Em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pode o juiz, a requerimento da parte, ou do Ministério Público quando lhe couber intervir no processo, desconsiderá-la para que os efeitos de certas e determinadas relações de obrigações sejam estendidos aos bens particulares de administradores ou de sócios da pessoa jurídica beneficiados direta ou indiretamente pelo abuso. (Redação dada por Medida Provisória nº 881 de 30/04/2019) (Redação dada por Lei nº 13.874 de 20/09/2019) (Ressalva de aplicação por Lei Complementar nº 182 de 01/06/2021)
 
 § 1º Para os fins do disposto neste artigo, desvio de finalidade é a utilização da pessoa jurídica com o propósito de lesar credores e para a prática de atos ilícitos de qualquer natureza. (Incluído por Lei nº 13.874 de 20/09/2019)
 
@@ -898,7 +898,7 @@ TÍTULO III
 
 Dos Atos Ilícitos
 
-Art. 186. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. (Interpretado conforme a Constituição pelo Supremo Tribunal Federal por undefined) (Interpretado conforme a Constituição pelo Supremo Tribunal Federal por Acórdão da Ação Direta de Inconstitucionalidade nº 6.792 de 22/05/2024)Acórdãos
+Art. 186. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. (Interpretado conforme a Constituição pelo Supremo Tribunal Federal por Acórdão da Ação Direta de Inconstitucionalidade nº 7.055 de 22/05/2024) (Interpretado conforme a Constituição pelo Supremo Tribunal Federal por Acórdão da Ação Direta de Inconstitucionalidade nº 6.792 de 22/05/2024)Acórdãos
 
 Art. 187. Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes.
 
@@ -1846,7 +1846,7 @@ Seção I
 
 Preliminares
 
-Art. 421. A liberdade contratual será exercida nos limites da função social do contrato. (Redação dada por Medida Provisória nº 881 de 30/04/2019) (Redação dada)
+Art. 421. A liberdade contratual será exercida nos limites da função social do contrato. (Redação dada por Medida Provisória nº 881 de 30/04/2019) (Redação dada por Lei nº 13.874 de 20/09/2019)
 
 Parágrafo único. Nas relações contratuais privadas, prevalecerão o princípio da intervenção mínima e a excepcionalidade da revisão contratual. (Incluído por Lei nº 13.874 de 20/09/2019)
 
@@ -3642,7 +3642,7 @@ CAPÍTULO I
 
 Da Obrigação de Indenizar
 
-Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo. (Interpretado conforme a Constituição pelo Supremo Tribunal Federal por undefined) (Interpretado conforme a Constituição pelo Supremo Tribunal Federal por Acórdão da Ação Direta de Inconstitucionalidade nº 6.792 de 22/05/2024)Acórdãos
+Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo. (Interpretado conforme a Constituição pelo Supremo Tribunal Federal por Acórdão da Ação Direta de Inconstitucionalidade nº 7.055 de 22/05/2024) (Interpretado conforme a Constituição pelo Supremo Tribunal Federal por Acórdão da Ação Direta de Inconstitucionalidade nº 6.792 de 22/05/2024)Acórdãos
 
 Parágrafo único. Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem.
 

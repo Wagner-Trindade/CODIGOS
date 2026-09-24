@@ -1,9 +1,9 @@
 {
   "normas": [
     {
-      "alteracao_detectada_em": "2026-08-16T16:44:56-03:00",
+      "alteracao_detectada_em": "2026-09-24T10:45:29-03:00",
       "artigos_detectados": 2094,
-      "caracteres_texto_normalizado": 644965,
+      "caracteres_texto_normalizado": 645151,
       "fontes": {
         "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
         "content_type_observado": "text/plain; source=rendered-dom",
@@ -18,14 +18,14 @@
         "numero": "10.406",
         "tipo": "Lei"
       },
-      "sha256_texto_normalizado": "83eef0734d93a919eda7c68b728a35cfca58323042398d07e2b00ba8c35f4afc",
+      "sha256_texto_normalizado": "dda27150ba71860611c8db99a7978df63d96b606d57decc99b204444ad10dfb7",
       "titulo": "Código Civil",
       "urn": "urn:lex:br:federal:lei:2002-01-10;10406"
     },
     {
-      "alteracao_detectada_em": "2026-08-16T16:44:56-03:00",
+      "alteracao_detectada_em": "2026-09-24T10:45:29-03:00",
       "artigos_detectados": 1073,
-      "caracteres_texto_normalizado": 581529,
+      "caracteres_texto_normalizado": 581590,
       "fontes": {
         "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
         "content_type_observado": "text/plain; source=rendered-dom",
@@ -40,7 +40,7 @@
         "numero": "13.105",
         "tipo": "Lei"
       },
-      "sha256_texto_normalizado": "94cce66cdca470fc77468b7bd8aa1b0069359b8d125e109e8751e6416578c208",
+      "sha256_texto_normalizado": "2e7bf1ab05d281671937b6cd124860d10f0e9d1b54073fafc96ff3099d94e02b",
       "titulo": "Código de Processo Civil",
       "urn": "urn:lex:br:federal:lei:2015-03-16;13105"
     },
