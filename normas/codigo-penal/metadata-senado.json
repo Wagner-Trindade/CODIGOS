@@ -3,7 +3,7 @@
     "Metadados": {
       "DataVersaoServico": "2017-02-01",
       "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
-      "Versao": "01/09/2026 15:59:58",
+      "Versao": "26/09/2026 10:16:48",
       "VersaoServico": "3"
     },
     "documentos": {
@@ -262,6 +262,11 @@
                 }
               },
               {
+                "codItemDocumento": "43952496",
+                "nomeDispositivo": "Art. 18-A, Pena/Penalidade  [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": ""
+              },
+              {
                 "codItemDocumento": "12267785",
                 "nomeDispositivo": "Art. 19 [Decreto-Lei nº 2.848 de 07/12/1940]",
                 "refs": {
@@ -412,14 +417,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -523,14 +528,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     },
                     {
                       "codNormaPosterior": "549948",
@@ -559,14 +564,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -577,14 +582,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -595,14 +600,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -644,14 +649,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -662,14 +667,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -693,14 +698,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -711,14 +716,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     },
                     {
                       "codNormaPosterior": "551590",
@@ -752,14 +757,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     },
                     {
                       "codNormaPosterior": "551590",
@@ -775,14 +780,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     },
                     {
                       "codNormaPosterior": "551590",
@@ -798,14 +803,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -855,14 +860,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     },
                     {
                       "codNormaPosterior": "549368",
@@ -883,14 +888,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -968,14 +973,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -999,14 +1004,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1048,14 +1053,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1066,14 +1071,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1286,14 +1291,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     },
                     {
                       "codNormaPosterior": "390426",
@@ -1309,14 +1314,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     },
                     {
                       "codNormaPosterior": "390426",
@@ -1389,14 +1394,14 @@
                       "dispositivo": "Decreto-Lei nº 3.688 de 03/10/1941"
                     },
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1456,14 +1461,14 @@
                       "dispositivo": "Lei nº 5.250 de 09/02/1967"
                     },
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1487,14 +1492,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1544,14 +1549,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1580,14 +1585,14 @@
                       "dispositivo": "Lei nº 1.521 de 26/12/1951"
                     },
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     },
                     {
                       "codNormaPosterior": "31865675",
@@ -1647,14 +1652,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1665,14 +1670,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1696,14 +1701,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1714,14 +1719,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -1828,14 +1833,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     },
                     {
                       "codNormaPosterior": "550542",
@@ -2004,14 +2009,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -2022,14 +2027,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -2175,14 +2180,14 @@
                 "refs": {
                   "ref": [
                     {
-                      "codNormaPosterior": "549086",
-                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
-                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
-                    },
-                    {
                       "codNormaPosterior": "549085",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 7.209 de 11/07/1984"
+                    },
+                    {
+                      "codNormaPosterior": "549086",
+                      "comentario": "Dispositivo Correlato (Declaração de Legislação Correlata)",
+                      "dispositivo": "Lei nº 7.210 de 11/07/1984"
                     }
                   ]
                 }
@@ -4220,6 +4225,45 @@
                 }
               },
               {
+                "codItemDocumento": "43999836",
+                "nomeDispositivo": "Art. 155, § 10 [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43999411",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.517 de 22/09/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43999840",
+                "nomeDispositivo": "Art. 155, § 11 [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43999411",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.517 de 22/09/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43999844",
+                "nomeDispositivo": "Art. 155, § 12 [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43999411",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.517 de 22/09/2026"
+                    }
+                  ]
+                }
+              },
+              {
                 "codItemDocumento": "12285157",
                 "nomeDispositivo": "Art. 157 [Decreto-Lei nº 2.848 de 07/12/1940]",
                 "refs": {
@@ -4342,6 +4386,19 @@
                 }
               },
               {
+                "codItemDocumento": "44000212",
+                "nomeDispositivo": "Art. 157, § 2, Inciso 11 [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43999411",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.517 de 22/09/2026"
+                    }
+                  ]
+                }
+              },
+              {
                 "codItemDocumento": "26579620",
                 "nomeDispositivo": "Art. 157, § 2-A, apenas o Caput  [Decreto-Lei nº 2.848 de 07/12/1940]",
                 "refs": {
@@ -4376,6 +4433,32 @@
                       "codNormaPosterior": "26579387",
                       "comentario": "Acréscimo (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 13.654 de 23/04/2018"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "44000217",
+                "nomeDispositivo": "Art. 157, § 2-A, Inciso 3 [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43999411",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.517 de 22/09/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "43999872",
+                "nomeDispositivo": "Art. 157, § 2-A, Inciso 3, Alínea e [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "43999411",
+                      "comentario": "Acréscimo Vetado (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 15.517 de 22/09/2026"
                     }
                   ]
                 }
@@ -5054,17 +5137,9 @@
                 }
               },
               {
-                "codItemDocumento": "12290359",
-                "nomeDispositivo": "Art. 180-A [Decreto-Lei nº 2.848 de 07/12/1940]",
-                "refs": {
-                  "ref": [
-                    {
-                      "codNormaPosterior": "602555",
-                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
-                      "dispositivo": "Lei nº 13.330 de 02/08/2016"
-                    }
-                  ]
-                }
+                "codItemDocumento": "43952492",
+                "nomeDispositivo": "Art. 180-A, caput [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": ""
               },
               {
                 "codItemDocumento": "43214577",
@@ -5072,6 +5147,11 @@
                 "refs": {
                   "ref": [
                     {
+                      "codNormaPosterior": "602555",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.330 de 02/08/2016"
+                    },
+                    {
                       "codNormaPosterior": "43212112",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 15.397 de 30/04/2026"
@@ -5080,10 +5160,20 @@
                 }
               },
               {
+                "codItemDocumento": "12290359",
+                "nomeDispositivo": "Art. 180-A [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": ""
+              },
+              {
                 "codItemDocumento": "43214581",
                 "nomeDispositivo": "Art. 180-A, Pena/Penalidade  [Decreto-Lei nº 2.848 de 07/12/1940]",
                 "refs": {
                   "ref": [
+                    {
+                      "codNormaPosterior": "602555",
+                      "comentario": "Acréscimo (Declaração de Alteração Permanente)",
+                      "dispositivo": "Lei nº 13.330 de 02/08/2016"
+                    },
                     {
                       "codNormaPosterior": "43212112",
                       "comentario": "Alteração (Declaração de Alteração Permanente)",
@@ -5091,6 +5181,11 @@
                     }
                   ]
                 }
+              },
+              {
+                "codItemDocumento": "43952383",
+                "nomeDispositivo": "Art. 180-A, caput, Pena/Penalidade  [Decreto-Lei nº 2.848 de 07/12/1940]",
+                "refs": ""
               },
               {
                 "codItemDocumento": "12278748",
@@ -9133,6 +9228,19 @@
                 "tipoEdicao": "750"
               },
               {
+                "codnormaposterior": "547892",
+                "coluna": "2",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "31/12/1973",
+                "datapub": "31/12/1973",
+                "edicao": "13829250",
+                "itens": "",
+                "nomeNormaPosterior": "Lei nº 6.016 de 31/12/1973",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/12/1973] (p. 13539, col. 2)",
+                "pagina": "13539",
+                "tipoEdicao": "750"
+              },
+              {
                 "codnormaposterior": "547891",
                 "coluna": "1",
                 "comentario": "Declaração de Legislação Correlata",
@@ -9150,19 +9258,6 @@
                 "nomeNormaPosterior": "Lei nº 6.015 de 31/12/1973",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 31/12/1973] (p. 13528, col. 1)",
                 "pagina": "13528",
-                "tipoEdicao": "750"
-              },
-              {
-                "codnormaposterior": "547892",
-                "coluna": "2",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "31/12/1973",
-                "datapub": "31/12/1973",
-                "edicao": "13829250",
-                "itens": "",
-                "nomeNormaPosterior": "Lei nº 6.016 de 31/12/1973",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 31/12/1973] (p. 13539, col. 2)",
-                "pagina": "13539",
                 "tipoEdicao": "750"
               },
               {
@@ -10399,26 +10494,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "388519",
-                "coluna": "1",
-                "comentario": "Declaração de Legislação Correlata",
-                "datAssinatura": "21/07/1992",
-                "datapub": "22/07/1992",
-                "edicao": "13836293",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Dispositivo Correlato",
-                      "dispositivo": "Art. 38 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Decreto nº 611 de 21/07/1992",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/07/1992] (p. 9665, col. 1)",
-                "pagina": "9665",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "388524",
                 "coluna": "1",
                 "comentario": "Declaração de Legislação Correlata",
@@ -10436,6 +10511,26 @@
                 "nomeNormaPosterior": "Decreto nº 612 de 21/07/1992",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 22/07/1992] (p. 9689, col. 1)",
                 "pagina": "9689",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "388519",
+                "coluna": "1",
+                "comentario": "Declaração de Legislação Correlata",
+                "datAssinatura": "21/07/1992",
+                "datapub": "22/07/1992",
+                "edicao": "13836293",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Dispositivo Correlato",
+                      "dispositivo": "Art. 38 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Decreto nº 611 de 21/07/1992",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 22/07/1992] (p. 9665, col. 1)",
+                "pagina": "9665",
                 "tipoEdicao": "750"
               },
               {
@@ -12143,7 +12238,11 @@
                     },
                     {
                       "comentario": "Acréscimo",
-                      "dispositivo": "Art. 180-A "
+                      "dispositivo": "Art. 180-A, caput "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 180-A, Pena/Penalidade  "
                     }
                   ]
                 },
@@ -12330,26 +12429,6 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "27481236",
-                "coluna": "3",
-                "comentario": "Declaração de Alteração Permanente",
-                "datAssinatura": "24/09/2018",
-                "datapub": "25/09/2018",
-                "edicao": "27481098",
-                "itens": {
-                  "item": [
-                    {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 92, caput, Inciso 2 "
-                    }
-                  ]
-                },
-                "nomeNormaPosterior": "Lei nº 13.715 de 24/09/2018",
-                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/09/2018] (p. 1, col. 3)",
-                "pagina": "1",
-                "tipoEdicao": "750"
-              },
-              {
                 "codnormaposterior": "27481078",
                 "coluna": "2",
                 "comentario": "Declaração de Alteração Permanente",
@@ -12423,6 +12502,26 @@
                 "nomeNormaPosterior": "Lei nº 13.718 de 24/09/2018",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 25/09/2018] (p. 2, col. 2)",
                 "pagina": "2",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "27481236",
+                "coluna": "3",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "24/09/2018",
+                "datapub": "25/09/2018",
+                "edicao": "27481098",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 92, caput, Inciso 2 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 13.715 de 24/09/2018",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 25/09/2018] (p. 1, col. 3)",
+                "pagina": "1",
                 "tipoEdicao": "750"
               },
               {
@@ -13414,7 +13513,7 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "41109625",
+                "codnormaposterior": "41110229",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "03/07/2025",
@@ -13423,16 +13522,32 @@
                 "itens": {
                   "item": [
                     {
-                      "comentario": "Alteração",
-                      "dispositivo": "Art. 65, caput, Inciso 1 "
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 61, caput, Inciso 2, Alínea m "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 121, § 2, Inciso 10, apenas o Caput  "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 121, § 2-C, apenas o Caput  "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 121, § 2-C, Inciso 1 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 121, § 2-C, Inciso 2 "
                     },
                     {
                       "comentario": "Alteração",
-                      "dispositivo": "Art. 115, caput "
+                      "dispositivo": "Art. 129, § 12 "
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Lei nº 15.160 de 03/07/2025",
+                "nomeNormaPosterior": "Lei nº 15.159 de 03/07/2025",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 04/07/2025] (p. 3, col. 1)",
                 "pagina": "3",
                 "tipoEdicao": "750"
@@ -13478,7 +13593,7 @@
                 "tipoEdicao": "750"
               },
               {
-                "codnormaposterior": "41110229",
+                "codnormaposterior": "41109625",
                 "coluna": "1",
                 "comentario": "Declaração de Alteração Permanente",
                 "datAssinatura": "03/07/2025",
@@ -13487,32 +13602,16 @@
                 "itens": {
                   "item": [
                     {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 61, caput, Inciso 2, Alínea m "
-                    },
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 121, § 2, Inciso 10, apenas o Caput  "
-                    },
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 121, § 2-C, apenas o Caput  "
-                    },
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 121, § 2-C, Inciso 1 "
-                    },
-                    {
-                      "comentario": "Acréscimo",
-                      "dispositivo": "Art. 121, § 2-C, Inciso 2 "
+                      "comentario": "Alteração",
+                      "dispositivo": "Art. 65, caput, Inciso 1 "
                     },
                     {
                       "comentario": "Alteração",
-                      "dispositivo": "Art. 129, § 12 "
+                      "dispositivo": "Art. 115, caput "
                     }
                   ]
                 },
-                "nomeNormaPosterior": "Lei nº 15.159 de 03/07/2025",
+                "nomeNormaPosterior": "Lei nº 15.160 de 03/07/2025",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 04/07/2025] (p. 3, col. 1)",
                 "pagina": "3",
                 "tipoEdicao": "750"
@@ -14023,6 +14122,46 @@
                 "nomeNormaPosterior": "Lei nº 15.487 de 06/08/2026",
                 "nomePub": "Publicação Original   [Diário Oficial da União  de 07/08/2026] (p. 1, col. 1)",
                 "pagina": "1",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "43999411",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Permanente",
+                "datAssinatura": "22/09/2026",
+                "datapub": "23/09/2026",
+                "edicao": "43998195",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 155, § 10 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 155, § 11 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 155, § 12 "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 157, § 2, Inciso 11 "
+                    },
+                    {
+                      "comentario": "Acréscimo Vetado",
+                      "dispositivo": "Art. 157, § 2-A, Inciso 3, Alínea e "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 157, § 2-A, Inciso 3 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Lei nº 15.517 de 22/09/2026",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 23/09/2026] (p. 4, col. 1)",
+                "pagina": "4",
                 "tipoEdicao": "750"
               }
             ]

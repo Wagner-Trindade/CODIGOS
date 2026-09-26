@@ -2190,8 +2190,10 @@ II - de aparelho de telefonia celular, de computador, inclusive portátil ou do 
 ,
 
 e com redação dada pela Lei nº 15.397, de 30/4/2026)
+
 I - de substâncias explosivas ou de acessórios que, conjunta ou isoladamente, possibilitem sua fabricação, montagem ou emprego;
 (Inciso acrescido pela Lei nº 15.397, de 30/4/2026)
+
 II - de arma de fogo.
 (Inciso acrescido pela Lei nº 15.397, de 30/4/2026)
 § 8º A pena é de reclusão, de 2 (dois) a 8 (oito) anos, e multa, se a subtração for de fios, cabos ou equipamentos utilizados para fornecimento ou transmissão de energia elétrica ou de telefonia ou para transferência de dados, bem como equipamentos ou materiais ferroviários ou metroviários, aplicável, em qualquer caso, o disposto no § 2º deste artigo.
@@ -2201,6 +2203,22 @@ II - de arma de fogo.
 e com redação dada pela Lei nº 15.397, de 30/4/2026)
 § 9º A pena é de reclusão de 4 (quatro) a 10 (dez) anos e multa, se a subtração, para si ou para outrem, de coisa alheia móvel é cometida por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil.
 (Parágrafo acrescido pela Lei nº 15.358, de 24/3/2026)
+§ 10. A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for de petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, removidos dos estabelecimentos de produção ou de quaisquer instalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal.
+(Parágrafo acrescido pela Lei nº 15.517, de 22/9/2026)
+§ 11. Na hipótese do § 10 deste artigo, a pena é aumentada de 1/3 (um terço), se o crime é praticado:
+I - com destruição, rompimento de obstáculo à subtração da coisa ou dano de qualquer natureza;
+II - mediante o concurso de 2 (duas) ou mais pessoas;
+III - com abuso de confiança ou valendo-se de vínculo atual ou passado com o ente lesado; ou
+IV - por ocupante de cargo, de emprego ou de função pública.
+(Parágrafo acrescido pela Lei nº 15.517, de 22/9/2026)
+§ 12. Na hipótese do § 10 deste artigo, a pena é aumentada de 2/3 (dois terços) se do crime resulta:
+I - suspensão ou paralisação das atividades do estabelecimento;
+II - desabastecimento;
+III - incêndio;
+IV - poluição efetiva ou potencial ao meio ambiente;
+V - lesão corporal grave; ou
+VI - morte.
+(Parágrafo acrescido pela Lei nº 15.517, de 22/9/2026)
 
 Furto de coisa comum
 Art. 156. Subtrair o condômino, co-herdeiro ou sócio, para si ou para outrem, a quem legitimamente a detém, a coisa comum:
@@ -2253,12 +2271,26 @@ IX - se a subtração for de aparelho de telefonia celular, de computador, inclu
 (Inciso acrescido pela Lei nº 15.397, de 30/4/2026)
 X - se a subtração for de arma de fogo.
 (Inciso acrescido pela Lei nº 15.397, de 30/4/2026)
+XI - se a subtração for de petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, removidos dos estabelecimentos de produção ou de quaisquer instalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal.
+(Inciso acrescido pela Lei nº 15.517, de 22/9/2026)
 § 2
 º
 -A. A pena aumenta-se de 2/3 (dois terços):
 I - se a violência ou ameaça é exercida com emprego de arma de fogo;
 II - se há destruição ou rompimento de obstáculo mediante o emprego de explosivo ou de artefato análogo que cause perigo comum.
 (Parágrafo acrescido pela Lei nº 13.654, de 23/4/2018)
+III - se do crime previsto no inciso XI do § 2º deste artigo resulta:
+(Inciso acrescido pela Lei nº 15.517, de 22/9/2026)
+a) suspensão ou paralisação das atividades do estabelecimento;
+(Alínea acrescida pela Lei nº 15.517, de 22/9/2026)
+b) desabastecimento;
+(Alínea acrescida pela Lei nº 15.517, de 22/9/2026)
+c) incêndio;
+(Alínea acrescida pela Lei nº 15.517, de 22/9/2026)
+d) poluição efetiva ou potencial ao meio ambiente; ou
+(Alínea acrescida pela Lei nº 15.517, de 22/9/2026)
+e)
+(VETADA na Lei nº 15.517, de 22/9/2026)
 § 2º-B. Se a violência ou grave ameaça é exercida com emprego de arma de fogo de uso restrito ou proibido, aplica-se em dobro a pena prevista no
 caput
  deste artigo.
@@ -3842,7 +3874,9 @@ Pena - detenção, de 6 (seis) meses a 2 (dois) anos.
 (Parágrafo acrescido pela Lei nº 15.425, de 3/6/2026)
 § 4º Se do crime resulta lesão ou morte de animal, responde também o agente pelo crime previsto no art. 32 da Lei nº 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais).
 (Parágrafo acrescido pela Lei nº 15.425, de 3/6/2026)
-§ 5º Incorre na conduta prevista no caput deste artigo o agente que exerce a profissão durante o período de suspensão ou após o cancelamento da habilitação ou do registro profissional.
+§ 5º Incorre na conduta prevista no
+caput
+ deste artigo o agente que exerce a profissão durante o período de suspensão ou após o cancelamento da habilitação ou do registro profissional.
 
 (Parágrafo acrescido pela Lei nº 15.425, de 3/6/2026)
 

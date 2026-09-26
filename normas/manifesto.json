@@ -45,15 +45,15 @@
       "urn": "urn:lex:br:federal:lei:2015-03-16;13105"
     },
     {
-      "alteracao_detectada_em": "2026-09-01T16:07:19-03:00",
+      "alteracao_detectada_em": "2026-09-26T10:26:03-03:00",
       "artigos_detectados": 433,
-      "caracteres_texto_normalizado": 271055,
+      "caracteres_texto_normalizado": 273365,
       "fontes": {
         "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
         "content_type_observado": "text/html",
         "metodo_coleta": "api-public-binario",
         "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Adecreto.lei%3A1940-12-07%3B2848",
-        "texto_publico_observado": "https://normas.leg.br/api/public/binario/1ee2a40d-16a6-43a3-8444-5960ea9fb0b9/texto"
+        "texto_publico_observado": "https://normas.leg.br/api/public/binario/412689ff-f565-494a-9adb-8301e314f40d/texto"
       },
       "id": "codigo-penal",
       "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
@@ -62,7 +62,7 @@
         "numero": "2.848",
         "tipo": "Decreto-Lei"
       },
-      "sha256_texto_normalizado": "7d2d88701f6e750796f8b7da9938ff7b0c4dc8ed20f9c6d185bba796ae3b78fd",
+      "sha256_texto_normalizado": "7c64461b8f98c82945db05624be119272f0f20e900c87292a03126b8ff06a28e",
       "titulo": "Código Penal",
       "urn": "urn:lex:br:federal:decreto.lei:1940-12-07;2848"
     },
