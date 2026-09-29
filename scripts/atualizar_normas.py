@@ -265,7 +265,16 @@ def normalizar_para_comparacao(texto: str) -> str:
         # metadado vazava como primeira linha do texto normalizado.
         for tag in soup(["script", "style", "noscript", "title", "head", "meta"]):
             tag.decompose()
-        bruto = soup.get_text("\n")
+        # A fonte usa spans inline até dentro de palavras (ex.: Medi<...>d<...>a).
+        # O separador de get_text não pode virar uma quebra entre esses nós.
+        for tag in soup.find_all("br"):
+            tag.replace_with("\n")
+        for tag in soup.find_all(
+            ["p", "div", "section", "article", "h1", "h2", "h3", "h4", "h5", "h6", "li", "tr"]
+        ):
+            tag.insert_before("\n")
+            tag.append("\n")
+        bruto = soup.get_text("")
 
     bruto = html.unescape(bruto)
     bruto = unicodedata.normalize("NFC", bruto)
@@ -571,6 +580,22 @@ def ler_texto_anterior(norma_id: str) -> str | None:
     return path.read_text(encoding="utf-8")
 
 
+def texto_mudou(norma_id: str, texto: TextoColetado, hash_anterior: str | None) -> bool:
+    if texto.sha256 == hash_anterior:
+        return False
+    # Uma mudança do normalizador, isoladamente, não é mudança da norma.
+    # Compare as duas fontes com a MESMA versão do normalizador antes de
+    # atualizar os artefatos antigos, que ainda guardam a formatação anterior.
+    fonte_anterior = OUTPUT_ROOT / norma_id / "fonte.txt"
+    if fonte_anterior.exists() and hash_anterior is not None:
+        anterior = normalizar_para_comparacao(
+            fonte_anterior.read_text(encoding="utf-8")
+        )
+        if anterior == texto.texto_normalizado:
+            return False
+    return True
+
+
 def ler_hash_anterior(norma_id: str) -> str | None:
     path = OUTPUT_ROOT / norma_id / "sha256.txt"
     if not path.exists():
@@ -764,7 +789,7 @@ def executar(config_path: Path, dry_run: bool = False) -> int:
                         texto_anterior=anterior,
                     )
 
-                    mudou = texto.sha256 != hash_anterior
+                    mudou = texto_mudou(norma_id, texto, hash_anterior)
                     estado = "ALTERADA" if mudou else "sem alteração"
                     print(
                         f"  {estado} | SHA-256 {texto.sha256[:12]}… | "
