@@ -1,13 +1,13 @@
 {
-  "alteracao_detectada_em": "2026-08-20T21:04:44-03:00",
+  "alteracao_detectada_em": "2026-09-29T12:01:36-03:00",
   "artigos_detectados": 131,
-  "caracteres_texto_normalizado": 81614,
+  "caracteres_texto_normalizado": 82208,
   "fontes": {
     "api_metadados_senado": "https://legis.senado.leg.br/dadosabertos/legislacao/urn.json",
     "content_type_observado": "text/html",
     "metodo_coleta": "api-public-binario",
     "portal_normas": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Alei%3A1990-09-11%3B8078",
-    "texto_publico_observado": "https://normas.leg.br/api/public/binario/d98baaa9-40f6-4646-9bfe-febc9d9c2c28/texto"
+    "texto_publico_observado": "https://normas.leg.br/api/public/binario/1cc33b77-e5a0-4723-b7fa-ec501fd65c46/texto"
   },
   "id": "codigo-defesa-consumidor",
   "nota": "O campo 'alteracao_detectada_em' só muda quando o SHA-256 do texto normalizado muda. A execução diária sem alteração não gera commit.",
@@ -16,7 +16,7 @@
     "numero": "8.078",
     "tipo": "Lei"
   },
-  "sha256_texto_normalizado": "8f5b7e2b885d4cfddecb68355a69093bce3e61866393e17adabcd2487194e319",
+  "sha256_texto_normalizado": "35da0b2f93482b6eec17200b688768865a87ef63cad3348fa5b8db2265ddb993",
   "titulo": "Código de Defesa do Consumidor",
   "urn": "urn:lex:br:federal:lei:1990-09-11;8078"
 }

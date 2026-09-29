@@ -3,7 +3,7 @@
     "Metadados": {
       "DataVersaoServico": "2017-02-01",
       "DescricaoDataSet": "Obtém detalhes de uma Norma Jurídica por meio da sua URN.",
-      "Versao": "20/08/2026 21:03:17",
+      "Versao": "29/09/2026 11:56:53",
       "VersaoServico": "3"
     },
     "documentos": {
@@ -1119,6 +1119,32 @@
                       "codNormaPosterior": "550579",
                       "comentario": "Acréscimo (Declaração de Alteração Permanente)",
                       "dispositivo": "Lei nº 8.703 de 06/09/1993"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "44074422",
+                "nomeDispositivo": "Art. 57, Parágrafo Único [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "44059093",
+                      "comentario": "Renumeração (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.393 de 25/09/2026"
+                    }
+                  ]
+                }
+              },
+              {
+                "codItemDocumento": "44074426",
+                "nomeDispositivo": "Art. 57, § 2 [Lei nº 8.078 de 11/09/1990]",
+                "refs": {
+                  "ref": [
+                    {
+                      "codNormaPosterior": "44059093",
+                      "comentario": "Acréscimo (Declaração de Alteração Provisória)",
+                      "dispositivo": "Medida Provisória nº 1.393 de 25/09/2026"
                     }
                   ]
                 }
@@ -3952,6 +3978,43 @@
                 "itens": "",
                 "nomeNormaPosterior": "Decreto nº 12.876 de 12/03/2026",
                 "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 12/03/2026 - nº 48-C] (p. 1, col. 1)",
+                "pagina": "1",
+                "tipoEdicao": "723"
+              },
+              {
+                "codnormaposterior": "43734342",
+                "coluna": "2",
+                "comentario": "Declaração de Regulamentação Permanente de Norma",
+                "datAssinatura": "31/08/2026",
+                "datapub": "01/09/2026",
+                "edicao": "43734126",
+                "itens": "",
+                "nomeNormaPosterior": "Decreto nº 13.108 de 31/08/2026",
+                "nomePub": "Publicação Original   [Diário Oficial da União  de 01/09/2026] (p. 3, col. 2)",
+                "pagina": "3",
+                "tipoEdicao": "750"
+              },
+              {
+                "codnormaposterior": "44059093",
+                "coluna": "1",
+                "comentario": "Declaração de Alteração Provisória",
+                "datAssinatura": "25/09/2026",
+                "datapub": "25/09/2026",
+                "edicao": "44059068",
+                "itens": {
+                  "item": [
+                    {
+                      "comentario": "Renumeração",
+                      "dispositivo": "Art. 57, Parágrafo Único "
+                    },
+                    {
+                      "comentario": "Acréscimo",
+                      "dispositivo": "Art. 57, § 2 "
+                    }
+                  ]
+                },
+                "nomeNormaPosterior": "Medida Provisória nº 1.393 de 25/09/2026",
+                "nomePub": "Publicação Original   [Diário Oficial da União - Edição Extra  de 25/09/2026 - nº 182-A] (p. 1, col. 1)",
                 "pagina": "1",
                 "tipoEdicao": "723"
               }
