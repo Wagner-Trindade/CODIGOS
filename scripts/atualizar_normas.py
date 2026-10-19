@@ -36,7 +36,9 @@ from zoneinfo import ZoneInfo
 import requests
 import yaml
 from bs4 import BeautifulSoup
-from playwright.sync_api import Browser, Page, Response, sync_playwright
+from playwright.sync_api import (
+    Browser, Error as PlaywrightError, Page, Response, sync_playwright,
+)
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -343,6 +345,29 @@ def coletar_texto_normas(
     cfg: dict[str, Any],
     texto_anterior: str | None,
 ) -> TextoColetado:
+    # Reabre apenas a norma que falhou, em uma página/contexto limpo. Não
+    # reutiliza conteúdo rejeitado nem resultados parciais de outra tentativa.
+    for tentativa in range(1, 3):
+        try:
+            return _coletar_texto_normas_tentativa(
+                browser, norma, cfg, texto_anterior
+            )
+        except (AtualizacaoError, PlaywrightError) as exc:
+            if tentativa == 2:
+                raise
+            eprint(
+                f"  {norma['titulo']}: coleta rejeitada ({exc}); "
+                "nova página em 2s (tentativa 2/2)."
+            )
+            time.sleep(2)
+
+
+def _coletar_texto_normas_tentativa(
+    browser: Browser,
+    norma: dict[str, Any],
+    cfg: dict[str, Any],
+    texto_anterior: str | None,
+) -> TextoColetado:
     portal = str(cfg["fontes"]["normas_portal"]).rstrip("/") + "/"
     timeout_ms = int(cfg["seguranca"]["browser_timeout_ms"])
     reducao_max = float(cfg["seguranca"]["reducao_maxima_percentual"])
@@ -359,14 +384,26 @@ def coletar_texto_normas(
         if "/api/public/binario/" not in url or not url.rstrip("/").endswith("/texto"):
             return
         if not response.ok:
+            eprint(f"  Fonte textual retornou HTTP {response.status}: {url}")
             return
 
         try:
             corpo = response.text()
-        except Exception:
+        except Exception as exc:
+            eprint(f"  Falha ao ler resposta textual em {url}: {exc}")
             return
 
         if not corpo:
+            return
+
+        # HTTP 200 pode conter só uma tela de erro ou texto parcial. Isso não
+        # deve encerrar a espera nem impedir o fallback para o DOM.
+        try:
+            validar_texto(
+                norma, normalizar_para_comparacao(corpo), texto_anterior, reducao_max
+            )
+        except AtualizacaoError as exc:
+            eprint(f"  Resposta textual rejeitada em {url}: {exc}")
             return
 
         content_type = response.headers.get("content-type", "")
@@ -375,10 +412,16 @@ def coletar_texto_normas(
     page.on("response", capturar)
 
     try:
-        page.goto(url_pagina, wait_until="domcontentloaded", timeout=timeout_ms)
+        resposta_pagina = page.goto(
+            url_pagina, wait_until="domcontentloaded", timeout=timeout_ms
+        )
+        if resposta_pagina is not None and not resposta_pagina.ok:
+            raise AtualizacaoError(
+                f"{norma['titulo']}: portal retornou HTTP {resposta_pagina.status}."
+            )
 
         # A SPA pode carregar o texto alguns segundos depois do DOM.
-        prazo = time.monotonic() + min(timeout_ms / 1000, 45)
+        prazo = time.monotonic() + timeout_ms / 1000
         ultima_contagem = 0
         estavel_desde = time.monotonic()
 
