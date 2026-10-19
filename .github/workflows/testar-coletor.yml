@@ -1,0 +1,27 @@
+name: Testar coletor
+on:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'requirements.txt'
+      - '.github/workflows/testar-coletor.yml'
+  push:
+    branches:
+      - 'fix/coleta-normas-intermitente-20261019'
+permissions:
+  contents: read
+jobs:
+  regressao:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - run: python -m pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium --only-shell
+      - run: python -m unittest discover -s tests -v
+        env:
+          COLETOR_BROWSER: chromium
